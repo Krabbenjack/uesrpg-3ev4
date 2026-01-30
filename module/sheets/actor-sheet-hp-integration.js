@@ -3,7 +3,7 @@
  * Overrides the default HP button to open the HP/Temp HP management dialog.
  */
 
-import { HPTempHPDialog } from "../apps/hp-temp-hp-dialog.js";
+import { HPTempHPDialog } from "../dialogs/hp-temp-hp-dialog.js";
 
 /**
  * Register HP button handler to intercept clicks on the HP button

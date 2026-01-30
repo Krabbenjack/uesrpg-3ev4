@@ -4,9 +4,9 @@
  */
 
 
-import { isTransferEffectActive } from "../ae/transfer.js";
-import { evaluateAEModifierKeys } from "../ae/modifier-evaluator.js";
-import { collectTraitDamageModifiers, getResistanceKeyForTraitType, getActorTraitValue, isActorUndead } from "../traits/trait-registry.js";
+import { isTransferEffectActive } from "../active-effects/transfer.js";
+import { evaluateAEModifierKeys } from "../active-effects/modifier-evaluator.js";
+import { collectTraitDamageModifiers, getResistanceKeyForTraitType, getActorTraitValue, isActorUndead } from "../systems/traits/trait-registry.js";
 
 export class SimpleActor extends Actor {
   async _preCreate(data, options, user) {
@@ -994,7 +994,7 @@ export class SimpleActor extends Actor {
 
         if (frenziedEffects.length > 0) {
           // Import the frenzied module dynamically to avoid circular dependencies
-          import("../conditions/frenzied.js").then(({ _mkFrenziedChanges }) => {
+          import("../systems/conditions/frenzied.js").then(({ _mkFrenziedChanges }) => {
             for (const effect of frenziedEffects) {
               try {
                 const changes = _mkFrenziedChanges(this);
@@ -2618,7 +2618,7 @@ this._applyMovementRestrictionSemantics(actorData, actorSystemData);
    */
   async applyDamage(damage, damageType = 'physical', options = {}) {
     // Import damage automation module dynamically to avoid circular dependencies
-    const { applyDamage: applyDamageFunc } = await import('../combat/damage-automation.js');
+    const { applyDamage: applyDamageFunc } = await import('../systems/combat/damage-automation.js');
     return await applyDamageFunc(this, damage, damageType, options);
   }
 
@@ -2629,7 +2629,7 @@ this._applyMovementRestrictionSemantics(actorData, actorSystemData);
    * @returns {Promise<Object>} - Healing result
    */
   async applyHealing(healing, options = {}) {
-    const { applyHealing: applyHealingFunc } = await import('../combat/damage-automation.js');
+    const { applyHealing: applyHealingFunc } = await import('../systems/combat/damage-automation.js');
     return await applyHealingFunc(this, healing, options);
   }
 
@@ -2639,7 +2639,7 @@ this._applyMovementRestrictionSemantics(actorData, actorSystemData);
    * @returns {Object} - Damage reduction breakdown
    */
   async getDamageReduction(damageType = 'physical') {
-    const { getDamageReduction: getDamageReductionFunc } = await import('../combat/damage-automation.js');
+    const { getDamageReduction: getDamageReductionFunc } = await import('../systems/combat/damage-automation.js');
     return getDamageReductionFunc(this, damageType);
   }
 

@@ -1,4 +1,4 @@
-import { resolveCriticalFlags } from "../rules/npc-rules.js";
+import { resolveCriticalFlags } from "../systems/rules/npc-rules.js";
 
 export function skillHelper(actorData, characteristic) {
     // First, try to use an aggregated cache if present (fast)
