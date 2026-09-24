@@ -1119,6 +1119,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1193,18 +1194,18 @@ system:
       base: 5
       favored: false
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
   professions:
     combat: 30
-    magic: null
+    magic: 0
     evade: 5
     observe: 35
     stealth: 5
-    knowledge: null
-    social: null
+    knowledge: 0
+    social: 0
     physical: 50
     commerce: 0
     profession1: 0
@@ -1246,15 +1247,15 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '8'
+    value: 8
     base: 8
     bonus: 0
   initiative:
-    value: '3'
+    value: 3
     base: 3
     bonus: 0
   speed:
-    value: '3'
+    value: 3
     base: 3
     bonus: -2
   size: standard
@@ -1305,21 +1306,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1329,6 +1330,7 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
+      rank: ""
   talents: ''
   traits: ''
   powers: ''
@@ -1475,6 +1477,49 @@ system:
       ar: 2
       magic_ar: 3 Frost
       class: ''
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  tempHP: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
 prototypeToken:
   flags:
     token-hud-wildcard:

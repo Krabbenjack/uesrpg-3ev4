@@ -2305,6 +2305,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -2379,9 +2380,9 @@ system:
       base: 15
       favored: false
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
   professions:
     combat: 30
@@ -2432,15 +2433,15 @@ system:
     bonus: 35
   xp: 0
   wound_threshold:
-    value: '11'
+    value: 11
     base: 11
     bonus: 1
   initiative:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   speed:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
   size: small
@@ -2491,21 +2492,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -2515,6 +2516,7 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
+      rank: ""
   talents: >-
     <ul>
 
@@ -2691,6 +2693,49 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  tempHP: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
 prototypeToken:
   flags:
     token-hud-wildcard:
