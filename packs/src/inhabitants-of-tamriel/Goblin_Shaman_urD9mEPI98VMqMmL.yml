@@ -1126,7 +1126,7 @@ items:
       level: 1
       cost: 9
       spell_str: ''
-      attributes: '[Poison], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (Zm)@Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE} (10+10*Zm, beam)'
+      attributes: '[Poison], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (Zm), @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE} (10+10*Zm, beam)'
       form: Beam
       school: destruction
       school_cat:

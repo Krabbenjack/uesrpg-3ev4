@@ -1968,7 +1968,7 @@ items:
       level: 7
       cost: 15
       spell_str: ''
-      attributes: '[Shock], @Compendium[uesrpg-revision.journal.VZqOQcTn7rP3rJ2F]{M Attack} (1m)@Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
+      attributes: '[Shock], @Compendium[uesrpg-revision.journal.VZqOQcTn7rP3rJ2F]{M Attack} (1m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
       form: Touch
       school: destruction
       school_cat:

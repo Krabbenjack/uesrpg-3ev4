@@ -1448,7 +1448,7 @@ items:
       level: 3
       cost: 7
       spell_str: ''
-      attributes: '[Fire], @Compendium[uesrpg-revision.journal.VZqOQcTn7rP3rJ2F]{M Attack} (1m)@Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
+      attributes: '[Fire], @Compendium[uesrpg-revision.journal.VZqOQcTn7rP3rJ2F]{M Attack} (1m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
       form: Touch
       school: destruction
       school_cat:
@@ -1530,7 +1530,7 @@ items:
       level: 4
       cost: 9
       spell_str: ''
-      attributes: '[Fire], @Compendium[uesrpg-revision.journal.VZqOQcTn7rP3rJ2F]{M Attack} (1m)@Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
+      attributes: '[Fire], @Compendium[uesrpg-revision.journal.VZqOQcTn7rP3rJ2F]{M Attack} (1m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
       form: Touch
       school: destruction
       school_cat:

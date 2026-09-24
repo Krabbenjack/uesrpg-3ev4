@@ -153,6 +153,16 @@ function normalizeSpecialSkills(system) {
   }
 }
 
+function normalizeEmbeddedItems(actor) {
+  if (!Array.isArray(actor.items)) return;
+  for (const item of actor.items) {
+    if (!isObject(item?.system)) continue;
+    if (typeof item.system.attributes === 'string') {
+      item.system.attributes = item.system.attributes.replace(/\)@Compendium\[/g, '), @Compendium[');
+    }
+  }
+}
+
 function normalizeCoreResources(system) {
   for (const [key, defaults] of Object.entries({
     hp: { base: 0, value: 0, max: 0, temp: 0, bonus: 0 },
@@ -293,6 +303,7 @@ function migrateNpc(actor, defaults, systemVersion) {
   const original = JSON.stringify(actor);
   const system = ensureObject(actor, 'system');
 
+  normalizeEmbeddedItems(actor);
   normalizeCharacteristics(system);
   normalizeProfessions(system);
   normalizeSpecialSkills(system);
