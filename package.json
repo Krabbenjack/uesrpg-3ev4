@@ -26,5 +26,8 @@
   "homepage": "https://github.com/jamesjtb/uesrpg-3ev4#readme",
   "dependencies": {
     "@foundryvtt/foundryvtt-cli": "^1.0.3"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.3.2"
   }
 }

@@ -62,12 +62,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">As a reaction, this character can make
-        an attack against any opponent within his range that casts a
-        spell.</span></p>
+        <p><span style="color: #191813;">As a reaction, this character can make an attack against any opponent within his range that casts a spell.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -152,12 +149,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character reduces the Reload quality of weapons they wield by 1
-        and gains +1 DoS when in melee combat with only 1 opponent.&nbsp;</p>
-
-        <p>The character may make a free ranged attack with a -20 penalty when
-        they take the Dash action.</p>
+      description: |-
+        <p>This character reduces the Reload quality of weapons they wield by 1 and gains +1 DoS when in melee combat with only 1 opponent.&nbsp;</p>
+        <p>The character may make a free ranged attack with a -20 penalty when they take the Dash action.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -239,10 +233,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Gains a +10 to any tests made to bring harm to their prefered enemy.
-        These enemys are things such as vampires, lycanthropes, witches,
-        warlocks, and necromancers.</p>
+      description: <p>Gains a +10 to any tests made to bring harm to their prefered enemy. These enemys are things such as vampires, lycanthropes, witches, warlocks, and necromancers.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -324,9 +315,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character does not track magicka,
-        and can instead cast each spell it knows once.</span></p>
+      description: '<p><span style="color: #191813;">This character does not track magicka, and can instead cast each spell it knows once.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -415,9 +404,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -436,9 +423,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -525,9 +510,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -546,9 +529,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness}'
       charge:
         value: 0
         max: 0
@@ -635,9 +616,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -656,10 +635,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.jL4N8O5dQsX76Gux]{Complex},
-        @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (2, min
-        1), @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (4)
+      qualities: '@Compendium[uesrpg-revision.journal.jL4N8O5dQsX76Gux]{Complex}, @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (2, min 1), @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (4)'
       charge:
         value: 0
         max: 0
@@ -745,10 +721,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Rename 'Ammunition' to 'Arrow' or 'Bolt'.</p>
       quantity: 10
       enc: 0.1
@@ -843,10 +817,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Rename 'Ammunition' to 'Arrow' or 'Bolt'.</p>
       quantity: 10
       enc: 0.1
@@ -942,12 +914,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1055,12 +1022,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1168,12 +1130,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1281,12 +1238,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1394,12 +1346,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1507,12 +1454,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1568,96 +1510,43 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Summons a Bound Daedric weapon or shield of casters choice. The
-        weapon is created with a [Spell Strength] damage modifier. The weapon
-        type must be determined when the spell is learned.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Summons a Bound Daedric weapon or shield of casters choice. The weapon is created with a [Spell Strength] damage modifier. The weapon type must be determined when the spell is learned.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 28.8754%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.1046%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.6839%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2481%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 8.93711%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.06888%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.72621%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 9.4269%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 28.8754%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.1046%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.6839%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2481%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 8.93711%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.06888%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.72621%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 9.4269%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 28.8754%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 28.8754%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.1046%; height: 17px; text-align: center;">-</td>
-
         <td style="width: 10.6839%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 10.2481%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 8.93711%; height: 17px; text-align: center;">21</td>
-
         <td style="width: 9.06888%; height: 17px; text-align: center;">26</td>
-
         <td style="width: 9.72621%; height: 17px; text-align: center;">31</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">-</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 28.8754%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 28.8754%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.1046%; height: 17px; text-align: center;">-</td>
-
         <td style="width: 10.6839%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 10.2481%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 8.93711%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 9.06888%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.72621%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">-</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
-        <p>This weapon appears in the caster&rsquo;s hand(s) for the duration of
-        the spell, or until the weapon leaves the caster&rsquo;s hands. The
-        caster gains a [Spell Strength] weapon (with ammo) with the Bound and
-        Summoned traits of the chosen type for 1 minute.&nbsp;If the weapon is
-        not in any of the caster&rsquo;s Combat Styles, they&nbsp;count it as
-        being Trained (+0).</p>
+        <p>This weapon appears in the caster&rsquo;s hand(s) for the duration of the spell, or until the weapon leaves the caster&rsquo;s hands. The caster gains a [Spell Strength] weapon (with ammo) with the Bound and Summoned traits of the chosen type for 1 minute.&nbsp;If the weapon is not in any of the caster&rsquo;s Combat Styles, they&nbsp;count it as being Trained (+0).</p>
       damage: '0'
       level: 0
       cost: 0
@@ -1703,325 +1592,151 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Summons a Daedra with the Summoned trait, which appears within five
-        meters of the caster. Immediately after being summoned, the Daedra must
-        make a Willpower test against the DoS of the Conjuration test. If the
-        Conjurer wins the test, the Daedra gains the Bound trait and persists
-        for 1 minute, If the Daedra wins the Opposed test, it is not Bound and
-        can act as it pleases, typically murdering its summoner. The unbound
-        Daedra can test Willpower at the end of each minute to maintain itself
-        in Mundus. Keeping the Daedra in line imposes [Spell Str] Mindlock on
-        the caster. Roll initiative for the Daedra when it&rsquo;s summoned, as
-        it acts on its own turn.</p>
-
-        <p>For each time the spell is bought, pick one spell profile from the
-        table below and mark it on your sheet.</p>
-
-        <table style="width: 98.5447%; height: 374px;" border="2"
-        cellspacing="2" cellpadding="1">
-
+      description: |-
+        <p>Summons a Daedra with the Summoned trait, which appears within five meters of the caster. Immediately after being summoned, the Daedra must make a Willpower test against the DoS of the Conjuration test. If the Conjurer wins the test, the Daedra gains the Bound trait and persists for 1 minute, If the Daedra wins the Opposed test, it is not Bound and can act as it pleases, typically murdering its summoner. The unbound Daedra can test Willpower at the end of each minute to maintain itself in Mundus. Keeping the Daedra in line imposes [Spell Str] Mindlock on the caster. Roll initiative for the Daedra when it&rsquo;s summoned, as it acts on its own turn.</p>
+        <p>For each time the spell is bought, pick one spell profile from the table below and mark it on your sheet.</p>
+        <table style="width: 98.5447%; height: 374px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; height: 17px; text-align:
-        left;"><strong>Daedra</strong></td>
-
-        <td style="width: 9.79739%; height: 17px; text-align:
-        center;"><strong>Level</strong></td>
-
-        <td style="width: 8.94093%; height: 17px; text-align:
-        center;"><strong>Cost</strong></td>
-
-        <td style="width: 15.9126%; height: 17px; text-align:
-        center;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 27.1325%; height: 17px; text-align: left;"><strong>Daedra</strong></td>
+        <td style="width: 9.79739%; height: 17px; text-align: center;"><strong>Level</strong></td>
+        <td style="width: 8.94093%; height: 17px; text-align: center;"><strong>Cost</strong></td>
+        <td style="width: 15.9126%; height: 17px; text-align: center;"><strong>Spell Strength</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; height: 17px; text-align:
-        left;">Daedrat</td>
-
+        <td style="width: 27.1325%; height: 17px; text-align: left;">Daedrat</td>
         <td style="width: 9.79739%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 8.94093%; height: 17px; text-align: center;">14</td>
-
         <td style="width: 15.9126%; height: 17px; text-align: center;">1</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
         <td style="width: 27.1325%; height: 17px; text-align: left;">Scamp</td>
-
         <td style="width: 9.79739%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 8.94093%; height: 17px; text-align: center;">15</td>
-
         <td style="width: 15.9126%; height: 17px; text-align: center;">1</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height:
-        17px;">Banekin</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Banekin</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">1</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">17</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">1</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Hell
-        Hound</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Hell Hound</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">2</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">23</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">1</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height:
-        17px;">Clannfear</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Clannfear</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">2</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">25</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">1</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
         <td style="width: 27.1325%; text-align: left; height: 17px;">Hunger</td>
-
         <td style="width: 9.79739%; text-align: center; height: 17px;">3</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">32</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">1</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Dremora
-        Churl</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Dremora Churl</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">3</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">33</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">1</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Flame
-        Atronach</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Flame Atronach</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">3</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">31</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">2</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Spider
-        Daedra</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Spider Daedra</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">4</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">40</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">2</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Dremora
-        Caitiff</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Dremora Caitiff</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">4</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">36</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">1</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
         <td style="width: 27.1325%; text-align: left; height: 17px;">Ogrim</td>
-
         <td style="width: 9.79739%; text-align: center; height: 17px;">4</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">39</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">2</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Frost
-        Atronach</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Frost Atronach</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">4</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">37</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">2</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height:
-        17px;">Auroran</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Auroran</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">5</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">47</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">2</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Storm
-        Atronach</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Storm Atronach</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">5</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">44</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">3</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Dremora
-        Kynmarcher</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Dremora Kynmarcher</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">5</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">46</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">2</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Winged
-        Twilight</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Winged Twilight</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">6</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">53</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">3</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Aureal
-        (Golden Saint)</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Aureal (Golden Saint)</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">6</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">55</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">3</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Mazken
-        (Dark Seducer)</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Mazken (Dark Seducer)</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">6</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">55</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">3</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height: 17px;">Dremora
-        Lord</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Dremora Lord</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">7</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">65</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">3</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height:
-        17px;">Xivilai</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Xivilai</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">7</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">64</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">3</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 27.1325%; text-align: left; height:
-        17px;">Daedroth</td>
-
+        <td style="width: 27.1325%; text-align: left; height: 17px;">Daedroth</td>
         <td style="width: 9.79739%; text-align: center; height: 17px;">7</td>
-
         <td style="width: 8.94093%; text-align: center; height: 17px;">68</td>
-
         <td style="width: 15.9126%; text-align: center; height: 17px;">3</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 1
       cost: 0
       spell_str: ''
-      attributes: >-
-        @Compendium[uesrpg-revision.journal.etuR7vddrnv3ot2J]{Upkeep},
-        @Compendium[uesrpg-revision.journal.DyA3yhRJDDDu8cTw]{Mindlock}(Spell
-        Strength)
+      attributes: '@Compendium[uesrpg-revision.journal.etuR7vddrnv3ot2J]{Upkeep}, @Compendium[uesrpg-revision.journal.DyA3yhRJDDDu8cTw]{Mindlock}(Spell Strength)'
       form: Target
       school: conjuration
       school_cat:
@@ -2062,90 +1777,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Removes all magical effects of [Spell Strength] level (either potion,
-        spell, or enchantment) or lower from the caster. Constant enchantments
-        reactivate after 1d4 rounds.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Removes all magical effects of [Spell Strength] level (either potion, spell, or enchantment) or lower from the caster. Constant enchantments reactivate after 1d4 rounds.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">17</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">21</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">25</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">29</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">7</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -2192,99 +1859,48 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Any time the caster would be hit by a spell (after any defense, but
-        before resolving effects), roll a d10. If the result is a roll of [Spell
-        Strength] or lower, instead resolve the spell against its original
-        caster. Lasts for 1 round.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Any time the caster would be hit by a spell (after any defense, but before resolving effects), roll a d10. If the result is a roll of [Spell Strength] or lower, instead resolve the spell against its original caster. Lasts for 1 round.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">22</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">7</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
       cost: 7
       spell_str: ''
-      attributes: >-
-        @Compendium[uesrpg-revision.journal.etuR7vddrnv3ot2J]{Upkeep},
-        @Compendium[uesrpg-revision.journal.SJHXIArl88ADTmmG]{Potion}
+      attributes: '@Compendium[uesrpg-revision.journal.etuR7vddrnv3ot2J]{Upkeep}, @Compendium[uesrpg-revision.journal.SJHXIArl88ADTmmG]{Potion}'
       form: Self
       school: mysticism
       school_cat:
@@ -2309,7 +1925,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339103936
   modifiedTime: 1732339103936
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -2355,18 +1971,14 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>Witch Hunters are dedicated to rooting out and destroying the
-    perverted practices of dark cults and profane sorcery. They train for
-    martial, magical, and stealthy war against vampires, witches, warlocks and
-    necromancers.</em></p>
+  bio: <p><em>Witch Hunters are dedicated to rooting out and destroying the perverted practices of dark cults and profane sorcery. They train for martial, magical, and stealthy war against vampires, witches, warlocks and necromancers.</em></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -2391,6 +2003,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -2421,7 +2034,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '21.0'
+  current_enc: 21
   carry_rating:
     current: 0
     max: 22
@@ -2434,41 +2047,49 @@ system:
       total: 40
       base: 40
       favored: false
+      bonus: 0
     end:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     wp:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     prc:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     prs:
       value: 25
       total: 25
       base: 25
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 65
     magic: 65
@@ -2518,17 +2139,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   initiative:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
   speed:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -2584,14 +2207,14 @@ system:
       name: Alchemy
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -2601,7 +2224,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2747,6 +2371,85 @@ system:
       ar: 3
       magic_ar: 1 Fire
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2841,4 +2544,3 @@ prototypeToken:
 _id: shBpOGNbQfKEAlqN
 sort: 0
 _key: '!actors!shBpOGNbQfKEAlqN'
-

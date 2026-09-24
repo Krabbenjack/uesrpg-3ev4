@@ -149,9 +149,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait crawls rather than walking. It takes no
-        penalties for moving through difficult terrain.</p>
+      description: <p>A character with this trait crawls rather than walking. It takes no penalties for moving through difficult terrain.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -229,10 +227,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -310,10 +305,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character is immune to any of the effects of the thing specified
-        in parenthesis. The character may have multiple instances of this trait
-        for different effects.</p>
+      description: <p>The character is immune to any of the effects of the thing specified in parenthesis. The character may have multiple instances of this trait for different effects.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -391,9 +383,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character moves at 3x their Speed when using the Dash
-        action.</p>
+      description: <p>This character moves at 3x their Speed when using the Dash action.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -471,10 +461,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to mundane weapons. If the
-        character suffers damage from a weapon/attack without the Magic quality
-        reduce that damage by X after any other mitigation.</p>
+      description: <p>Characters with this trait are resistant to mundane weapons. If the character suffers damage from a weapon/attack without the Magic quality reduce that damage by X after any other mitigation.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -552,11 +539,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are weak to a certain damage type. They
-        increase damage of * type by X after any other mitigation, and suffer a
-        -10 penalty per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are weak to a certain damage type. They increase damage of * type by X after any other mitigation, and suffer a -10 penalty per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -634,11 +617,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are weak to a certain damage type. They
-        increase damage of * type by X after any other mitigation, and suffer a
-        -10 penalty per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are weak to a certain damage type. They increase damage of * type by X after any other mitigation, and suffer a -10 penalty per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -716,9 +695,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character does not track magicka,
-        and can instead cast each spell it knows once.</span></p>
+      description: '<p><span style="color: #191813;">This character does not track magicka, and can instead cast each spell it knows once.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -791,11 +768,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>If this character has the Spellcaster talent, they may spend 1 SP to
-        refresh all of their used spells.</p>
+        <p>If this character has the Spellcaster talent, they may spend 1 SP to refresh all of their used spells.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -871,12 +846,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">This character can launch a web up to
-        10m as a ranged attack. If the attack hits, the target is
-        Entangled.</span></p>
+        <p><span style="color: #191813;">This character can launch a web up to 10m as a ranged attack. If the attack hits, the target is Entangled.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -952,11 +924,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP + 1 AP</p>
-
-        <p>As an action, this character can summon 1d4+1 Spiderlings to aid
-        them. Summoned spiderlings do not have this ability.</p>
+        <p>As an action, this character can summon 1d4+1 Spiderlings to aid them. Summoned spiderlings do not have this ability.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -1032,15 +1002,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 2 SP</p>
-
-        <p>As an attack, this character can spit a wad of Daedric toxins up to
-        3m. The spit inflicts 2d8 Poison damage immediately, and Envenoms the
-        target. While Envenomed, the target suffers a -20 on all Agility based
-        tests and halves their movement speed until they pass a -20 Endurance
-        test that can be taken as a free action once per round at the start of
-        their turn, or until a minute has passed.</p>
+        <p>As an attack, this character can spit a wad of Daedric toxins up to 3m. The spit inflicts 2d8 Poison damage immediately, and Envenoms the target. While Envenomed, the target suffers a -20 on all Agility based tests and halves their movement speed until they pass a -20 Endurance test that can be taken as a free action once per round at the start of their turn, or until a minute has passed.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -1125,10 +1089,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character with this trait is naturally tough, and reduces
-        incoming damage by X. This functions like AR, and reduces all damage
-        types, but it does not count as armor.</p>
+      description: <p>The character with this trait is naturally tough, and reduces incoming damage by X. This functions like AR, and reduces all damage types, but it does not count as armor.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1206,10 +1167,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait have more magicka than usual. The size of
-        their Magicka Pool is increased by X. If the character would receive
-        this trait more than once, combine the X values.</p>
+      description: <p>Characters with this trait have more magicka than usual. The size of their Magicka Pool is increased by X. If the character would receive this trait more than once, combine the X values.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1287,91 +1245,47 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>There are custom hit charts for Spider Daedra. Additionally, because
-        they have eight legs, 3 of a Spider Daedra&rsquo;s legs must be wounded
-        before suffering the effects of a single wounded leg, and 6 must be
-        wounded before being Immobilized.</p>
-
+      description: |-
+        <p>There are custom hit charts for Spider Daedra. Additionally, because they have eight legs, 3 of a Spider Daedra&rsquo;s legs must be wounded before suffering the effects of a single wounded leg, and 6 must be wounded before being Immobilized.</p>
         <table border="1">
-
         <tbody>
-
         <tr>
-
         <td style="text-align: center;"><strong>Melee Hit Location</strong></td>
-
         <td style="text-align: center;"><strong>Roll</strong></td>
-
-        <td style="text-align: center;"><strong>Ranged Hit
-        Location</strong></td>
-
+        <td style="text-align: center;"><strong>Ranged Hit Location</strong></td>
         <td style="text-align: center;"><strong>Roll</strong></td>
-
         </tr>
-
         <tr>
-
         <td style="text-align: center;">Legs</td>
-
         <td style="text-align: center;">1-5</td>
-
         <td style="text-align: center;">Legs</td>
-
         <td style="text-align: center;">1-4</td>
-
         </tr>
-
         <tr>
-
         <td style="text-align: center;">Body</td>
-
         <td style="text-align: center;">6-7</td>
-
         <td style="text-align: center;">Body</td>
-
         <td style="text-align: center;">5-7</td>
-
         </tr>
-
         <tr>
-
         <td style="text-align: center;">Left Arm</td>
-
         <td style="text-align: center;">8</td>
-
         <td style="text-align: center;">Left Arm</td>
-
         <td style="text-align: center;">8</td>
-
         </tr>
-
         <tr>
-
         <td style="text-align: center;">Right Arm</td>
-
         <td style="text-align: center;">9</td>
-
         <td style="text-align: center;">Right Arm</td>
-
         <td style="text-align: center;">9</td>
-
         </tr>
-
         <tr>
-
         <td style="text-align: center;">Head</td>
-
         <td style="text-align: center;">10</td>
-
         <td style="text-align: center;">Head</td>
-
         <td style="text-align: center;">10</td>
-
         </tr>
-
         </tbody>
-
         </table>
       halfSpeed: false
       addHalfSpeed: false
@@ -1684,9 +1598,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1742,88 +1654,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
+      description: |-
         <p>Caster regains [Spell Strength] HP.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">15</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 6
@@ -1921,9 +1787,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1942,9 +1806,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        Poison, @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: Poison, @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
       charge:
         value: 0
         max: 0
@@ -2030,9 +1892,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -2051,10 +1911,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -2089,98 +1946,48 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Fires a bolt of elemental energy at target character within 100m.
-        Deals [Spell Strength] [type] damage.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Fires a bolt of elemental energy at target character within 100m. Deals [Spell Strength] [type] damage.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">14</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">16</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">1d8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">1d10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">2d8</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">2d10</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 2d6
       level: 5
       cost: 12
       spell_str: ''
-      attributes: >-
-        [Fire], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}
-        (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload}
-        (+WpB to Dmg)
+      attributes: '[Fire], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
       form: Bolt
       school: destruction
       school_cat:
@@ -2221,100 +2028,48 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>A stream of elemental energy hits all targets within a 5m cone
-        originating from the caster, dealing [Spell Strength] [type] damage to
-        all targets caught within it.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>A stream of elemental energy hits all targets within a 5m cone originating from the caster, dealing [Spell Strength] [type] damage to all targets caught within it.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">15</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">17</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">21</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">1d8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">1d10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">2d8</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">2d10</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 2d6
       level: 5
       cost: 17
       spell_str: ''
-      attributes: >-
-        [Fire], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack},
-        @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE} (5m, cone),
-        @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to
-        Dmg)
+      attributes: '[Fire], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}, @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE} (5m, cone), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
       form: Cone
       school: destruction
       school_cat:
@@ -2355,101 +2110,48 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Fires a bolt of lightning at target character within 50m. Deals
-        [Spell Strength] shock damage. The bolt then jumps to the next target
-        chosen by the caster within 10m and deals damage (use the first roll).
-        Repeat this for a third and final target. If a target evades this
-        attack, the spell skips that target on moves on to the next.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Fires a bolt of lightning at target character within 50m. Deals [Spell Strength] shock damage. The bolt then jumps to the next target chosen by the caster within 10m and deals damage (use the first roll). Repeat this for a third and final target. If a target evades this attack, the spell skips that target on moves on to the next.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 26.6968%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 9.79741%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 26.6968%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 9.79741%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 26.6968%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 26.6968%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 9.79741%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">15</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">17</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">21</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">23</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 26.6968%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 26.6968%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 9.79741%; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">1d8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">1d10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">2d8</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">2d10</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 1d8
       level: 3
       cost: 15
       spell_str: ''
-      attributes: >-
-        @Compendium[uesrpg-revision.journal.lvno9sPj405BCHon]{Direct Attack}
-        (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload}
-        (+WpB to Dmg)
+      attributes: '@Compendium[uesrpg-revision.journal.lvno9sPj405BCHon]{Direct Attack} (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
       form: Bolt
       school: destruction
       school_cat:
@@ -2537,11 +2239,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -2558,7 +2256,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338859722
   modifiedTime: 1732338859722
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -2604,43 +2302,24 @@ system:
       value: 0
   race: Spider, Daedra
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Spider Daedra</h2>
-
-    <p>This particular Daedra can be found in the service of Mephala, and are
-    some of the most vile Daedra to be found among her realm. With how
-    unpredictable and irrational they are, it would almost make you think that
-    Sheogorath may have had a hand in making them.</p>
-
-    <p>They&rsquo;re among the most powerful and dangerous Daedra to fight as
-    they can easily summon masses of Spiderlings to aid them in battle while in
-    Oblivion. As well as the poison that they spit at their adversaries, which
-    is caustic and causes the target to move slower. This, in addition to their
-    web-shooting abilities, makes them very formidable and not something any
-    summoner should easily conjure up on a whim.</p>
-
+    <p>This particular Daedra can be found in the service of Mephala, and are some of the most vile Daedra to be found among her realm. With how unpredictable and irrational they are, it would almost make you think that Sheogorath may have had a hand in making them.</p>
+    <p>They&rsquo;re among the most powerful and dangerous Daedra to fight as they can easily summon masses of Spiderlings to aid them in battle while in Oblivion. As well as the poison that they spit at their adversaries, which is caustic and causes the target to move slower. This, in addition to their web-shooting abilities, makes them very formidable and not something any summoner should easily conjure up on a whim.</p>
     <h2>Spider Daedra Loot</h2>
-
     <ul>
-
-    <li>If slain while permanently bound to Mundus, a character can test Alchemy
-    at -20 to harvest the Spider Daedra&rsquo;s Silk Gland, which is a Very Rare
-    Mysticism ingredient.</li>
-
-    <li>Additionally, if slain while permanently bound to Mundus, a character
-    can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a
-    Legendary Restoration ingredient.</li>
-
+    <li>If slain while permanently bound to Mundus, a character can test Alchemy at -20 to harvest the Spider Daedra&rsquo;s Silk Gland, which is a Very Rare Mysticism ingredient.</li>
+    <li>Additionally, if slain while permanently bound to Mundus, a character can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a Legendary Restoration ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
-  soul_energy: 1000
+  soul_energy: '1000'
   journal: ''
   notes: ''
   threat: minorSolo
@@ -2663,6 +2342,7 @@ system:
     natToughness: 1
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -2693,7 +2373,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '2.0'
+  current_enc: 2
   carry_rating:
     current: 0
     max: 26
@@ -2706,41 +2386,49 @@ system:
       total: 45
       base: 45
       favored: false
+      bonus: 0
     end:
       value: 50
       total: 50
       base: 50
       favored: false
+      bonus: 0
     agi:
       value: 55
       total: 55
       base: 55
       favored: false
+      bonus: 0
     int:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     wp:
       value: 50
       total: 50
       base: 50
       favored: false
+      bonus: 0
     prc:
       value: 50
       total: 50
       base: 50
       favored: false
+      bonus: 0
     prs:
       value: 15
       total: 15
       base: 15
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 85
     magic: 80
@@ -2790,17 +2478,19 @@ system:
     bonus: 40
   xp: 0
   wound_threshold:
-    value: '14'
+    value: 14
     base: 14
     bonus: 0
   initiative:
-    value: '14'
+    value: 14
     base: 14
     bonus: 0
   speed:
-    value: '14'
+    value: 14
     base: 14
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: large
   size_cat:
     puny: Puny
@@ -2873,105 +2563,48 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: >-
+      rank: ''
+  talents: |-
     <p><strong>Special Hit Chart</strong></p>
-
     <table style="width: 98.9362%;" border="1">
-
     <tbody>
-
     <tr>
-
     <td style="width: 8.06847%;"><strong>&nbsp; Roll</strong></td>
-
-    <td style="width: 41.2754%;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; Melee Hit Location</strong></td>
-
+    <td style="width: 41.2754%;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Melee Hit Location</strong></td>
     <td style="width: 6.49284%;"><strong>&nbsp;Roll</strong></td>
-
-    <td style="width: 42.9088%;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; Ranged Hit Location</strong></td>
-
+    <td style="width: 42.9088%;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ranged Hit Location</strong></td>
     </tr>
-
     <tr>
-
     <td style="width: 8.06847%;"><strong>&nbsp; 1-5</strong></td>
-
-    <td style="width: 41.2754%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    Legs</td>
-
+    <td style="width: 41.2754%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Legs</td>
     <td style="width: 6.49284%;"><strong>&nbsp; 1-4</strong></td>
-
-    <td style="width: 42.9088%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    Legs</td>
-
+    <td style="width: 42.9088%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Legs</td>
     </tr>
-
     <tr>
-
     <td style="width: 8.06847%;"><strong>&nbsp; 6-7</strong></td>
-
-    <td style="width: 41.2754%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    Body</td>
-
+    <td style="width: 41.2754%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Body</td>
     <td style="width: 6.49284%;"><strong>&nbsp; 5-7</strong></td>
-
-    <td style="width: 42.9088%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    Body</td>
-
+    <td style="width: 42.9088%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Body</td>
     </tr>
-
     <tr>
-
     <td style="width: 8.06847%;"><strong>&nbsp; &nbsp; 8</strong></td>
-
-    <td style="width: 41.2754%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Left Arm</td>
-
+    <td style="width: 41.2754%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Left Arm</td>
     <td style="width: 6.49284%;"><strong>&nbsp; &nbsp; 8</strong></td>
-
-    <td style="width: 42.9088%;">&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Left Arm</td>
-
+    <td style="width: 42.9088%;">&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Left Arm</td>
     </tr>
-
     <tr>
-
     <td style="width: 8.06847%;"><strong>&nbsp; &nbsp; 9</strong></td>
-
-    <td style="width: 41.2754%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Right Arm</td>
-
+    <td style="width: 41.2754%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Right Arm</td>
     <td style="width: 6.49284%;"><strong>&nbsp; &nbsp; 9</strong></td>
-
-    <td style="width: 42.9088%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Right Arm</td>
-
+    <td style="width: 42.9088%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Right Arm</td>
     </tr>
-
     <tr>
-
     <td style="width: 8.06847%;"><strong>&nbsp; &nbsp;10</strong></td>
-
-    <td style="width: 41.2754%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp;Body</td>
-
+    <td style="width: 41.2754%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Body</td>
     <td style="width: 6.49284%;"><strong>&nbsp; 10</strong></td>
-
-    <td style="width: 42.9088%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    &nbsp;Body</td>
-
+    <td style="width: 42.9088%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Body</td>
     </tr>
-
     </tbody>
-
     </table>
   traits: ''
   powers: ''
@@ -3118,6 +2751,85 @@ system:
       ar: 4
       magic_ar: '0'
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -3212,4 +2924,3 @@ prototypeToken:
 _id: DorFZaqetBBEvgpx
 sort: 0
 _key: '!actors!DorFZaqetBBEvgpx'
-

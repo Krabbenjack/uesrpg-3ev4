@@ -63,12 +63,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">This character leaps up to 3m and makes
-        a biting attack. Dodging or parrying this attack has a -20
-        penalty.</span></p>
+        <p><span style="color: #191813;">This character leaps up to 3m and makes a biting attack. Dodging or parrying this attack has a -20 penalty.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -153,11 +150,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character has no need to make Survival skill tests in their
-        natural habitat, but must test Willpower to avoid fleeing combat if the
-        GM feels that it&rsquo;s ap-propriate (for example, if the creature
-        would feel intimidated by its foe).</p>
+      description: <p>The character has no need to make Survival skill tests in their natural habitat, but must test Willpower to avoid fleeing combat if the GM feels that it&rsquo;s ap-propriate (for example, if the creature would feel intimidated by its foe).</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -235,10 +228,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -316,10 +306,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are diseased, and if they deal a wound to
-        another character with their natural weapons then that character must
-        test Endurance +/- X or contract a common disease.</p>
+      description: <p>Characters with this trait are diseased, and if they deal a wound to another character with their natural weapons then that character must test Endurance +/- X or contract a common disease.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -475,9 +462,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character moves at 3x their Speed when using the Dash
-        action.</p>
+      description: <p>This character moves at 3x their Speed when using the Dash action.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -560,9 +545,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Rat meat must be cooked, and consuming it forces a +0 Endurance
-        test, or the consuming character gains Common Disease.</em></p>
+      description: <p><em>Rat meat must be cooked, and consuming it forces a +0 Endurance test, or the consuming character gains Common Disease.</em></p>
       quantity: 1
       enc: 0
       totalENC: 0
@@ -825,7 +808,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732335987573
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -872,47 +855,23 @@ system:
       value: 0
   race: Rat, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Cave Rats</h2>
-
-    <p>Cave Rats are most commonly encountered in, unsurprisingly, in caves.
-    They can also be found in dungeons, sewers, and various other subterranean
-    pits and places. They are harbingers of disease and decay, and where
-    civilization goes, Cave Rats follow.</p>
-
-    <p>Cave Rats are notoriously aggressive in spite of their diminuitive size
-    and feeble strength, which makes them a danger to societies small and large.
-    Purging rat dens is a quintessential adventurer&rsquo;s quest, and ratkiller
-    is a perfectly reasonable career in large cities like Mournhold or
-    Whiterun.</p>
-
-    <p>Cave Rats are defensive in their dens, and aggressively raid settlements,
-    typically during the night, for anything they can eat. When fought, rats
-    tend to flee when they realize they are in danger, but they are just as
-    likely to be suicidally courageous, throwing themselves at their opponent
-    with reckless abandon without awareness the mortal danger they are in.</p>
-
-    <p>When fought in their den, after fleeing rats will typically regroup for a
-    cunning ambush later on.</p>
-
+    <p>Cave Rats are most commonly encountered in, unsurprisingly, in caves. They can also be found in dungeons, sewers, and various other subterranean pits and places. They are harbingers of disease and decay, and where civilization goes, Cave Rats follow.</p>
+    <p>Cave Rats are notoriously aggressive in spite of their diminuitive size and feeble strength, which makes them a danger to societies small and large. Purging rat dens is a quintessential adventurer&rsquo;s quest, and ratkiller is a perfectly reasonable career in large cities like Mournhold or Whiterun.</p>
+    <p>Cave Rats are defensive in their dens, and aggressively raid settlements, typically during the night, for anything they can eat. When fought, rats tend to flee when they realize they are in danger, but they are just as likely to be suicidally courageous, throwing themselves at their opponent with reckless abandon without awareness the mortal danger they are in.</p>
+    <p>When fought in their den, after fleeing rats will typically regroup for a cunning ambush later on.</p>
     <h2>Cave Rat Loot&nbsp;</h2>
-
     <ul>
-
-    <li>On a +30 Survival test, a character can harvest one day's ration of rat
-    meat. Rat meat must be cooked, and consuming it forces a +0 Endurance test,
-    or the consuming character gains Common Disease.&nbsp;</li>
-
-    <li>A character can harvest the rat's tail, which is one Common Destruction
-    ingredient.&nbsp;</li>
-
+    <li>On a +30 Survival test, a character can harvest one day's ration of rat meat. Rat meat must be cooked, and consuming it forces a +0 Endurance test, or the consuming character gains Common Disease.&nbsp;</li>
+    <li>A character can harvest the rat's tail, which is one Common Destruction ingredient.&nbsp;</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '10'
@@ -938,6 +897,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -968,7 +928,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '0.0'
+  current_enc: 0
   carry_rating:
     current: 0
     max: 8
@@ -978,52 +938,60 @@ system:
   characteristics:
     str:
       value: 10
-      total: null
+      total: 10
       base: 10
       favored: false
+      bonus: 0
     end:
       value: 20
-      total: null
+      total: 20
       base: 20
       favored: false
+      bonus: 0
     agi:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 10
-      total: null
+      total: 10
       base: 10
       favored: false
+      bonus: 0
     wp:
       value: 5
-      total: null
+      total: 5
       base: 5
       favored: false
+      bonus: 0
     prc:
       value: 30
-      total: null
+      total: 30
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 5
-      total: null
+      total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
-      value: null
-      total: null
+      value: 0
+      total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 40
-    magic: null
+    magic: 0
     evade: 40
     observe: 40
     stealth: 50
-    knowledge: null
-    social: null
+    knowledge: 0
+    social: 0
     physical: 20
     commerce: 0
     profession1: 0
@@ -1065,17 +1033,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '3'
+    value: 3
     base: 3
     bonus: 0
   initiative:
-    value: '8'
+    value: 8
     base: 8
     bonus: 0
   speed:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: tiny
   size_cat:
     puny: Puny
@@ -1124,21 +1094,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1148,7 +1118,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1294,6 +1265,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1386,4 +1436,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!XX9HturofmauONcJ'
-

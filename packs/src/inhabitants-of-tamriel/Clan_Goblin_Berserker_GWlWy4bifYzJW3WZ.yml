@@ -288,13 +288,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">This character can strike up to 3
-        targets within reach as a part of single melee attack. Roll the attack
-        once. All defneders react seperately in the order chosen by this
-        character.</span></p>
+        <p><span style="color: #191813;">This character can strike up to 3 targets within reach as a part of single melee attack. Roll the attack once. All defneders react seperately in the order chosen by this character.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -370,13 +366,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 AP</p>
-
-        <p><span style="color: #191813;">This character can spend 1 AP to work
-        themselves into a blood rage. While frenzied, they cannot make Defensive
-        Reactions but gains the Savage trait (can roll all damage dice twice and
-        use the highest value).</span></p>
+        <p><span style="color: #191813;">This character can spend 1 AP to work themselves into a blood rage. While frenzied, they cannot make Defensive Reactions but gains the Savage trait (can roll all damage dice twice and use the highest value).</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -461,9 +453,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The Clan Goblin Berserker's HP is 20 and has a Strength Bonus of
-        5.</p>
+      description: <p>The Clan Goblin Berserker's HP is 20 and has a Strength Bonus of 5.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -547,9 +537,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -568,9 +556,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -656,9 +642,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -677,9 +661,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness}'
       charge:
         value: 0
         max: 0
@@ -765,9 +747,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 3
       totalENC: 0
@@ -786,9 +766,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -874,9 +852,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -895,9 +871,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -983,11 +957,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1094,11 +1064,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1205,11 +1171,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1316,11 +1278,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1427,11 +1385,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1538,11 +1492,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1581,7 +1531,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732335989327
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1628,58 +1578,26 @@ system:
       value: 0
   race: Goblin, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Goblin Berserkers</h2>
-
-    <p>Goblin berserkers are the closest equivalent to the nobles of goblin
-    society. Larger, stronger, and more violent-minded than the lesser goblins,
-    goblin berserkers fight with the primal rage of their patron, Malacath, who
-    they worship as Muluk.</p>
-
-    <p>Goblin berserkers rule as second in command to a clan&rsquo;s War-Chief,
-    and maintain what passes as discipline in goblin culture. On the
-    battlefield, goblin berserkers use their bulk and fury to their advantage,
-    and press constantly on the attack, often forgoing defense in favour of
-    ruthless and unending strikes. They often use either a broad two handed
-    weapon they can swing with reckless abandon, or a pair of weapons to
-    maximize their offensive output, forsaking shields in favour of heavier,
-    more prestigious goblin armour worthy of their social status.</p>
-
-    <p>Although goblins are typically a minor threat at best against experienced
-    warriors, many have been caught off-guard by a goblin berserker&rsquo;s
-    insane lack of self preservation: their rank in goblin society depends on
-    their might and fearlessness, and to lose face would be worse than death.
-    Goblin berserkers typically do not parry incoming blows, but are
-    surprisingly deft and capable of dodging should they need to. If it is clear
-    that the goblins are routing in a fight, goblin berserkers will refuse to
-    retreat and will fight until either they or their opponents are dead.</p>
-
+    <p>Goblin berserkers are the closest equivalent to the nobles of goblin society. Larger, stronger, and more violent-minded than the lesser goblins, goblin berserkers fight with the primal rage of their patron, Malacath, who they worship as Muluk.</p>
+    <p>Goblin berserkers rule as second in command to a clan&rsquo;s War-Chief, and maintain what passes as discipline in goblin culture. On the battlefield, goblin berserkers use their bulk and fury to their advantage, and press constantly on the attack, often forgoing defense in favour of ruthless and unending strikes. They often use either a broad two handed weapon they can swing with reckless abandon, or a pair of weapons to maximize their offensive output, forsaking shields in favour of heavier, more prestigious goblin armour worthy of their social status.</p>
+    <p>Although goblins are typically a minor threat at best against experienced warriors, many have been caught off-guard by a goblin berserker&rsquo;s insane lack of self preservation: their rank in goblin society depends on their might and fearlessness, and to lose face would be worse than death. Goblin berserkers typically do not parry incoming blows, but are surprisingly deft and capable of dodging should they need to. If it is clear that the goblins are routing in a fight, goblin berserkers will refuse to retreat and will fight until either they or their opponents are dead.</p>
     <h2>Goblin Berserker Loot</h2>
-
     <ul>
-
-    <li>A goblin berserker has on its person what it is equipped with, in
-    addition to about d8 drakes worth of trophies weighing about 1
-    ENC.&nbsp;</li>
-
-    <li>A character can make a +0 Alchemy test to harvest a goblin ear, which is
-    an Uncommon Destruction ingredient. If the character succeeds with more than
-    1 DoS, they harvest two ears instead.</li>
-
-    <li>Goblins are likely to have treasure stashed somewhere in their den. At
-    the GM's discretion, the characters can make a number of rolls on the
-    Treasure table the GM feels appropriate for the den.</li>
-
+    <li>A goblin berserker has on its person what it is equipped with, in addition to about d8 drakes worth of trophies weighing about 1 ENC.&nbsp;</li>
+    <li>A character can make a +0 Alchemy test to harvest a goblin ear, which is an Uncommon Destruction ingredient. If the character succeeds with more than 1 DoS, they harvest two ears instead.</li>
+    <li>Goblins are likely to have treasure stashed somewhere in their den. At the GM's discretion, the characters can make a number of rolls on the Treasure table the GM feels appropriate for the den.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
-  soul_energy: 120
+  soul_energy: '120'
   journal: ''
   notes: ''
   threat: minorGroup
@@ -1702,6 +1620,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1732,7 +1651,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '28.0'
+  current_enc: 28
   carry_rating:
     current: 0
     max: 26
@@ -1745,41 +1664,49 @@ system:
       total: 50
       base: 50
       favored: false
+      bonus: 0
     end:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     agi:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     int:
       value: 10
       total: 10
       base: 10
       favored: false
+      bonus: 0
     wp:
       value: 20
       total: 20
       base: 20
       favored: false
+      bonus: 0
     prc:
       value: 10
       total: 10
       base: 10
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 45
     magic: 15
@@ -1829,17 +1756,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '11'
+    value: 11
     base: 11
     bonus: 1
   initiative:
-    value: '5'
+    value: 5
     base: 5
     bonus: 0
   speed:
-    value: '11'
+    value: 11
     base: 10
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1888,21 +1817,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1912,7 +1841,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2058,6 +1988,85 @@ system:
       ar: 4
       magic_ar: '0'
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2150,4 +2159,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!GWlWy4bifYzJW3WZ'
-

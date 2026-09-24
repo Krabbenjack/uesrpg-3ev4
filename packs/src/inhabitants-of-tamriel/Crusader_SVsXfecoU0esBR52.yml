@@ -78,9 +78,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -186,9 +184,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -207,9 +203,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -296,9 +290,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -317,9 +309,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -406,10 +396,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>A shield made from traditional steel. It may be simple, but good
-        strong steel is reliable and can repel attacks from powerful
-        opponents.</em></p>
+      description: <p><em>A shield made from traditional steel. It may be simple, but good strong steel is reliable and can repel attacks from powerful opponents.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -517,12 +504,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -630,12 +612,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -743,12 +720,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -856,12 +828,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -969,12 +936,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1082,12 +1044,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1181,12 +1138,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>This character can channel pure magicka through their blades when
-        fighting iniquity, dealing an extra 1d4 Fire Damage that counts as
-        Sunlight after making a successful melee attack.</p>
+        <p>This character can channel pure magicka through their blades when fighting iniquity, dealing an extra 1d4 Fire Damage that counts as Sunlight after making a successful melee attack.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -1273,9 +1227,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character only needs one free hand to cast spells without penalty
-        instead of two.</p>
+      description: <p>The character only needs one free hand to cast spells without penalty instead of two.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -1359,9 +1311,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character adds +1 DoS on all Combat tests made when engaged in
-        melee with 2 or more opponents.</p>
+      description: <p>This character adds +1 DoS on all Combat tests made when engaged in melee with 2 or more opponents.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -1445,9 +1395,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character does not track magicka,
-        and can instead cast each spell it knows once.</span></p>
+      description: '<p><span style="color: #191813;">This character does not track magicka, and can instead cast each spell it knows once.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -1484,88 +1432,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
+      description: |-
         <p>Target character within 50 meters regains [Spell Strength] HP.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">14</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">18</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -1612,88 +1514,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
+      description: |-
         <p>Caster regains [Spell Strength] HP.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">15</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -1740,88 +1596,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
+      description: |-
         <p>Target character within 1 meter regains [Spell Strength] HP.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">15</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -1868,88 +1678,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
+      description: |-
         <p>Target character within 1 meter regains [Spell Strength] MP.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">22</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -1996,90 +1760,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Caster gains [Spell Strength] additional degrees of success on
-        successful defense tests for 1 round. They can also move 1 meter further
-        than normal to avoid AoE attacks on a successful evade test.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Caster gains [Spell Strength] additional degrees of success on successful defense tests for 1 round. They can also move 1 meter further than normal to avoid AoE attacks on a successful evade test.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">15</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">22</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">29</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">36</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">43</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">50</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">7</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -2126,89 +1842,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Caster gains the Resistance (Magic, [Spell Strength]) trait for 1
-        round.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Caster gains the Resistance (Magic, [Spell Strength]) trait for 1 round.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">17</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">21</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">25</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">29</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">7</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -2255,100 +1924,48 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>May be cast as a reaction to an attack in place of the
-        character&rsquo;s normal defense. Caster generates a magical ward that
-        acts as a shield for all damage, gaining [Spell Strength] Magical and
-        Physical BR. Power Block is incompatible with this shield.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>May be cast as a reaction to an attack in place of the character&rsquo;s normal defense. Caster generates a magical ward that acts as a shield for all damage, gaining [Spell Strength] Magical and Physical BR. Power Block is incompatible with this shield.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">15</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">12</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
       cost: 5
       spell_str: ''
-      attributes: >-
-        @Compendium[uesrpg-revision.journal.jEt3B1IRSFSeii8z]{Reaction},
-        @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to
-        BR)
+      attributes: '@Compendium[uesrpg-revision.journal.jEt3B1IRSFSeii8z]{Reaction}, @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to BR)'
       form: Self
       school: restoration
       school_cat:
@@ -2375,7 +1992,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338977257
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -2421,23 +2038,17 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>Any heavily armored warrior with spellcasting powers and a good cause
-    may call himself a Crusader. Crusaders do well by doing good. They hunt
-    monsters and villains, making themselves rich by plunder as they rid the
-    world of evil.</em></p>
-
+  bio: |-
+    <p><em>Any heavily armored warrior with spellcasting powers and a good cause may call himself a Crusader. Crusaders do well by doing good. They hunt monsters and villains, making themselves rich by plunder as they rid the world of evil.</em></p>
     <p>&nbsp;</p>
-
-    <p><strong>Each weapon held may have the&nbsp;<em>Spell Focus</em>
-    quality.</strong></p>
+    <p><strong>Each weapon held may have the&nbsp;<em>Spell Focus</em> quality.</strong></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -2462,6 +2073,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -2502,44 +2114,52 @@ system:
   characteristics:
     str:
       value: 45
-      total: null
+      total: 45
       base: 45
       favored: false
+      bonus: 0
     end:
       value: 45
-      total: null
+      total: 45
       base: 45
       favored: false
+      bonus: 0
     agi:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     wp:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     prc:
       value: 35
-      total: null
+      total: 35
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 35
-      total: null
+      total: 35
       base: 35
       favored: false
+      bonus: 0
     lck:
       value: 0
-      total: null
+      total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 65
     magic: 70
@@ -2578,6 +2198,7 @@ system:
   luck_points:
     value: 0
     max: 0
+    bonus: 0
   stamina:
     value: 4
     max: 0
@@ -2599,6 +2220,8 @@ system:
     value: 0
     base: 0
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -2671,6 +2294,7 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
+      rank: ''
   talents: ''
   traits: ''
   powers: ''
@@ -2686,6 +2310,85 @@ system:
   storeName: ''
   priceMod: 0
   fatigueLevel: 0
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   name: Crusader
   displayName: 20
@@ -2765,4 +2468,3 @@ prototypeToken:
 _id: SVsXfecoU0esBR52
 sort: 2700000
 _key: '!actors!SVsXfecoU0esBR52'
-

@@ -62,11 +62,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 3 SP</p>
-
-        <p>This character can spend 3 SP to re-roll any failed test with a +20
-        bonus as fortune seems to be smiling on this unfortunate fool.</p>
+        <p>This character can spend 3 SP to re-roll any failed test with a +20 bonus as fortune seems to be smiling on this unfortunate fool.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -142,15 +140,10 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>This character can spend 1 SP when an ally attacks an enemy within
-        this character's reach. Doing so imposes a -10 penalty on the target's
-        defense.&nbsp;</p>
-
-        <p>Each ally using this ability adds +1 damage to the attack's damage
-        roll.&nbsp;</p>
+        <p>This character can spend 1 SP when an ally attacks an enemy within this character's reach. Doing so imposes a -10 penalty on the target's defense.&nbsp;</p>
+        <p>Each ally using this ability adds +1 damage to the attack's damage roll.&nbsp;</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -235,9 +228,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait gain a bonus DoS on attack rolls made
-        while an ally with this trait is in Reach of the same target.</p>
+      description: <p>Characters with this trait gain a bonus DoS on attack rolls made while an ally with this trait is in Reach of the same target.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -254,7 +245,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338962187
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -300,7 +291,7 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
@@ -332,6 +323,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -362,7 +354,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '0.0'
+  current_enc: 0
   carry_rating:
     current: 0
     max: 18
@@ -372,47 +364,55 @@ system:
   characteristics:
     str:
       value: 30
-      total: null
+      total: 30
       base: 30
       favored: false
+      bonus: 0
     end:
       value: 30
-      total: null
+      total: 30
       base: 30
       favored: false
+      bonus: 0
     agi:
       value: 30
-      total: null
+      total: 30
       base: 30
       favored: false
+      bonus: 0
     int:
       value: 30
-      total: null
+      total: 30
       base: 30
       favored: false
+      bonus: 0
     wp:
       value: 30
-      total: null
+      total: 30
       base: 30
       favored: false
+      bonus: 0
     prc:
       value: 30
-      total: null
+      total: 30
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 30
-      total: null
+      total: 30
       base: 30
       favored: false
+      bonus: 0
     lck:
-      value: null
-      total: null
+      value: 0
+      total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 30
-    magic: null
+    magic: 0
     evade: 30
     observe: 40
     stealth: 10
@@ -459,17 +459,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   initiative:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   speed:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -525,14 +527,14 @@ system:
       name: Profession [Varies]
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -542,19 +544,11 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: >-
+      rank: ''
+  talents: |-
     <ul>
-
-    <li><strong>Fool&rsquo;s Luck (3 SP):</strong> The commoner can spend 3
-    Stamina to reroll any one failed test with a +20 bonus as fortune seems to
-    smile on the unfortunate fool (Use sparingly)</li>
-
-    <li><strong> Gang Up (1 SP):</strong> Can gang up by spending a Stamina
-    Point when an enemy in Reach is attacked by another allied Commoner. Ganging
-    up imposes a -10 on the target&rsquo;s Defence roll. Additionally, each
-    ganging up Commoner adds +1 damage to the attacking Commoner&rsquo;s damage
-    roll.&nbsp;</li>
-
+    <li><strong>Fool&rsquo;s Luck (3 SP):</strong> The commoner can spend 3 Stamina to reroll any one failed test with a +20 bonus as fortune seems to smile on the unfortunate fool (Use sparingly)</li>
+    <li><strong> Gang Up (1 SP):</strong> Can gang up by spending a Stamina Point when an enemy in Reach is attacked by another allied Commoner. Ganging up imposes a -10 on the target&rsquo;s Defence roll. Additionally, each ganging up Commoner adds +1 damage to the attacking Commoner&rsquo;s damage roll.&nbsp;</li>
     </ul>
   traits: ''
   powers: ''
@@ -701,6 +695,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -795,4 +868,3 @@ prototypeToken:
 _id: SESf4z87Q8lIhdP3
 sort: 4100000
 _key: '!actors!SESf4z87Q8lIhdP3'
-

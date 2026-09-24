@@ -71,10 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait have more magicka than usual. The size of
-        their Magicka Pool is increased by X. If the character would receive
-        this trait more than once, combine the X values.</p>
+      description: <p>Characters with this trait have more magicka than usual. The size of their Magicka Pool is increased by X. If the character would receive this trait more than once, combine the X values.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -143,11 +140,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 2 SP</p>
-
-        <p>This character can ignore a single damaging hit with a non-Crushing
-        or non-Magical weapon that strikes its Body Hit Location.</p>
+        <p>This character can ignore a single damaging hit with a non-Crushing or non-Magical weapon that strikes its Body Hit Location.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -223,12 +218,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>As part of a melee attack, this character can strike two targets in
-        Reach as a single action. If wielding a weapon in two hands, the
-        character instead strikes three targets. Roll once for the attack.</p>
+        <p>As part of a melee attack, this character can strike two targets in Reach as a single action. If wielding a weapon in two hands, the character instead strikes three targets. Roll once for the attack.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -313,10 +305,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -394,10 +383,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character is immune to any of the effects of the thing specified
-        in parenthesis. The character may have multiple instances of this trait
-        for different effects.</p>
+      description: <p>The character is immune to any of the effects of the thing specified in parenthesis. The character may have multiple instances of this trait for different effects.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -475,10 +461,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to mundane weapons. If the
-        character suffers damage from a weapon/attack without the Magic quality
-        reduce that damage by X after any other mitigation.</p>
+      description: <p>Characters with this trait are resistant to mundane weapons. If the character suffers damage from a weapon/attack without the Magic quality reduce that damage by X after any other mitigation.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -556,11 +539,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -638,14 +617,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait have purely skeletal forms. Attempts to
-        hit them with ranged weapons suffer a -20 penalty. Characters with this
-        trait also automatically gain the Undead trait as well, and are immune
-        to the Burning (X) condition.</p>
-
-        <p>This creature is immune to the Slashing damage bonus from weapons,
-        but suf-fers twice the Crushing bonus from weapons.</p>
+      description: |-
+        <p>Characters with this trait have purely skeletal forms. Attempts to hit them with ranged weapons suffer a -20 penalty. Characters with this trait also automatically gain the Undead trait as well, and are immune to the Burning (X) condition.</p>
+        <p>This creature is immune to the Slashing damage bonus from weapons, but suf-fers twice the Crushing bonus from weapons.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -723,13 +697,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are mere walking corpses. They do not
-        breathe, or require organs or correct pressures to function. They are
-        immune to things such as disease, poison, passive wound effects, aging,
-        fatigue, and a number of conditions including but not limited to: dazed,
-        deafened, and organ damage. Use common sense when deciding what can and
-        cannot affect characters with this trait.</p>
+      description: '<p>Characters with this trait are mere walking corpses. They do not breathe, or require organs or correct pressures to function. They are immune to things such as disease, poison, passive wound effects, aging, fatigue, and a number of conditions including but not limited to: dazed, deafened, and organ damage. Use common sense when deciding what can and cannot affect characters with this trait.</p>'
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -927,9 +895,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Ancient weaponry wielded by undead warriors.</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Ancient weaponry wielded by undead warriors.</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -948,11 +914,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1057,10 +1019,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1146,9 +1105,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><span style="color: #191813;"><em>An ancient piece of
-        armor.</em></span></p>
+      description: '<p><span style="color: #191813;"><em>An ancient piece of armor.</em></span></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1188,7 +1145,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339422544
   modifiedTime: 1732339428995
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1234,44 +1191,22 @@ system:
       value: 0
   race: Skeleton, Undead
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Skeletal Champions</h2>
-
-    <p>Skeletal Champions are an enemy not to be trifled with by lesser
-    experienced adventurers. These monstrosities can and will cleave through
-    even the strongest adventurers, and should be treated as such. They are
-    often found leading bands of skeletons as a defacto leader, though whether
-    its because the Champion is of greater intelligence or because it is simply
-    imbued with greater power and projects an unnatural magnetism, is
-    unknown.</p>
-
-    <p>These champions are to be feared far more thantheir normal counterparts.
-    They are more powerful in every single aspect, including the use of magical
-    weapons and armor, as well as more advanced fighting techniques.</p>
-
-    <p>Skeletal Champions can be very potent guards for necromancers as well.
-    Used only by more powerful necromancers, they often act as personal
-    bodyguards for the dark mage that create them.</p>
-
-    <p>If a Skeletal Champion is without a master, it will act with independence
-    and autonomy, unlike a masterless skeleton. A lone Skeletal Champion will be
-    smarter and more powerful, and can often use this cunning to even find other
-    skeletons or other undead to lead by itself.</p>
-
+    <p>Skeletal Champions are an enemy not to be trifled with by lesser experienced adventurers. These monstrosities can and will cleave through even the strongest adventurers, and should be treated as such. They are often found leading bands of skeletons as a defacto leader, though whether its because the Champion is of greater intelligence or because it is simply imbued with greater power and projects an unnatural magnetism, is unknown.</p>
+    <p>These champions are to be feared far more thantheir normal counterparts. They are more powerful in every single aspect, including the use of magical weapons and armor, as well as more advanced fighting techniques.</p>
+    <p>Skeletal Champions can be very potent guards for necromancers as well. Used only by more powerful necromancers, they often act as personal bodyguards for the dark mage that create them.</p>
+    <p>If a Skeletal Champion is without a master, it will act with independence and autonomy, unlike a masterless skeleton. A lone Skeletal Champion will be smarter and more powerful, and can often use this cunning to even find other skeletons or other undead to lead by itself.</p>
     <h2>Skeletal Champion Loot</h2>
-
     <ul>
-
-    <li>Over a Short Rest, a character can test Alchemy +10 to grind up DoS
-    doses of bonemeal, which are Common Alteration ingredients.</li>
-
+    <li>Over a Short Rest, a character can test Alchemy +10 to grind up DoS doses of bonemeal, which are Common Alteration ingredients.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '200'
@@ -1297,6 +1232,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1327,7 +1263,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '29.1'
+  current_enc: 29.1
   carry_rating:
     current: 0
     max: 24
@@ -1340,41 +1276,49 @@ system:
       total: 0
       base: 45
       favored: false
+      bonus: 0
     end:
       value: 45
       total: 0
       base: 45
       favored: false
+      bonus: 0
     agi:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     int:
       value: 15
       total: 0
       base: 15
       favored: false
+      bonus: 0
     wp:
       value: 25
       total: 0
       base: 25
       favored: false
+      bonus: 0
     prc:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 0
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 65
     magic: 0
@@ -1424,17 +1368,19 @@ system:
     bonus: 15
   xp: 0
   wound_threshold:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
   initiative:
-    value: '7'
+    value: 7
     base: 7
     bonus: 0
   speed:
-    value: '10'
+    value: 10
     base: 9
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1507,7 +1453,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1653,6 +1600,85 @@ system:
       ar: 5
       magic_ar: 1 Magic
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1747,4 +1773,3 @@ prototypeToken:
 _id: D7eCCGtbAYKWQX1V
 sort: 400000
 _key: '!actors!D7eCCGtbAYKWQX1V'
-

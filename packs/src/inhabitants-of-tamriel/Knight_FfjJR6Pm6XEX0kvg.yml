@@ -62,11 +62,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP + 1 AP</p>
-
-        <p>This character can charge forward at 2x their Speed and attack with
-        +2 damage on the attack.</p>
+        <p>This character can charge forward at 2x their Speed and attack with +2 damage on the attack.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -142,11 +140,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>This character can rally nearby allies, who all receive the benefits
-        of the Teamwork talent until this character's next turn.</p>
+        <p>This character can rally nearby allies, who all receive the benefits of the Teamwork talent until this character's next turn.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -231,9 +227,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character adds a bonus DoS to any successful Combat Style or
-        evade test made while within melee range of only one opponent.</p>
+      description: <p>The character adds a bonus DoS to any successful Combat Style or evade test made while within melee range of only one opponent.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -322,9 +316,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 3
       totalENC: 0
@@ -343,11 +335,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (3),
-        @Compendium[uesrpg-revision.journal.tOSmaePHwRZxc3jz]{Mounted},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (3), @Compendium[uesrpg-revision.journal.tOSmaePHwRZxc3jz]{Mounted}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -434,9 +422,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -455,9 +441,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}'
       charge:
         value: 0
         max: 0
@@ -544,9 +528,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -565,9 +547,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -654,9 +634,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -675,9 +653,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -764,12 +740,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -877,12 +848,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -990,12 +956,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1103,12 +1064,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1216,12 +1172,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1329,12 +1280,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1442,10 +1388,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>A shield made from traditional steel. It may be simple, but good
-        strong steel is reliable and can repel attacks from powerful
-        opponents.</em></p>
+      description: <p><em>A shield made from traditional steel. It may be simple, but good strong steel is reliable and can repel attacks from powerful opponents.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1501,88 +1444,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
+      description: |-
         <p>Caster regains [Spell Strength] HP.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">15</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 3
@@ -1629,88 +1526,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
+      description: |-
         <p>Target character within 1 meter regains [Spell Strength] HP.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">15</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 3
@@ -1741,7 +1592,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339014801
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1787,18 +1638,14 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>Of noble birth, or distinguished in battle or tourney, knights are
-    civilized warriors, schooled in letters and courtesy, governed by the codes
-    of chivalry. In addition to the art of war, knights study the lore of
-    healing and enchantment.</em></p>
+  bio: <p><em>Of noble birth, or distinguished in battle or tourney, knights are civilized warriors, schooled in letters and courtesy, governed by the codes of chivalry. In addition to the art of war, knights study the lore of healing and enchantment.</em></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -1823,6 +1670,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1853,7 +1701,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '34.0'
+  current_enc: 34
   carry_rating:
     current: 0
     max: 24
@@ -1863,44 +1711,52 @@ system:
   characteristics:
     str:
       value: 45
-      total: null
+      total: 45
       base: 45
       favored: false
+      bonus: 0
     end:
       value: 45
-      total: null
+      total: 45
       base: 45
       favored: false
+      bonus: 0
     agi:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 45
-      total: null
+      total: 45
       base: 45
       favored: false
+      bonus: 0
     wp:
       value: 35
-      total: null
+      total: 35
       base: 35
       favored: false
+      bonus: 0
     prc:
       value: 35
-      total: null
+      total: 35
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     lck:
-      value: null
-      total: null
+      value: 0
+      total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 75
     magic: 65
@@ -1950,17 +1806,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   initiative:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   speed:
-    value: '12'
+    value: 12
     base: 9
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -2016,14 +1874,14 @@ system:
       name: Command (Str)
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -2033,7 +1891,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2179,6 +2038,85 @@ system:
       ar: 6
       magic_ar: '0'
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2273,4 +2211,3 @@ prototypeToken:
 _id: FfjJR6Pm6XEX0kvg
 sort: 2100000
 _key: '!actors!FfjJR6Pm6XEX0kvg'
-

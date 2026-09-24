@@ -72,9 +72,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait have no AR in the specified Hit
-        Location.</p>
+      description: <p>Characters with this trait have no AR in the specified Hit Location.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -143,12 +141,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">If this character successfully bite a
-        target, the bitten Hit Location counts as being Crippled until the
-        target removes the character by breaking out of the Grapple.</span></p>
+        <p><span style="color: #191813;">If this character successfully bite a target, the bitten Hit Location counts as being Crippled until the target removes the character by breaking out of the Grapple.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -233,11 +228,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character has no need to make Survival skill tests in their
-        natural habitat, but must test Willpower to avoid fleeing combat if the
-        GM feels that it&rsquo;s ap-propriate (for example, if the creature
-        would feel intimidated by its foe).</p>
+      description: <p>The character has no need to make Survival skill tests in their natural habitat, but must test Willpower to avoid fleeing combat if the GM feels that it&rsquo;s ap-propriate (for example, if the creature would feel intimidated by its foe).</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -315,11 +306,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait automatically starts a grapple when it
-        strikes with it&rsquo;s jaws/mouth. If the target successfully Counter
-        Attacks a Bite, the Counter Attack ignores this character's AR and
-        Natural Toughness.</p>
+      description: <p>A character with this trait automatically starts a grapple when it strikes with it&rsquo;s jaws/mouth. If the target successfully Counter Attacks a Bite, the Counter Attack ignores this character's AR and Natural Toughness.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -397,10 +384,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -478,10 +462,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are diseased, and if they deal a wound to
-        another character with their natural weapons then that character must
-        test Endurance +/- X or contract a common disease.</p>
+      description: <p>Characters with this trait are diseased, and if they deal a wound to another character with their natural weapons then that character must test Endurance +/- X or contract a common disease.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -559,9 +540,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character moves at 3x their Speed when using the Dash
-        action.</p>
+      description: <p>This character moves at 3x their Speed when using the Dash action.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -639,9 +618,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with trait roll damage twice and choose the higher
-        value.</p>
+      description: <p>Characters with trait roll damage twice and choose the higher value.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -719,9 +696,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait gain a bonus DoS on attack rolls made
-        while an ally with this trait is in Reach of the same target.</p>
+      description: <p>Characters with this trait gain a bonus DoS on attack rolls made while an ally with this trait is in Reach of the same target.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -804,11 +779,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p>On a <strong>+20 Survival test</strong>, a character can, over the
-        course of a Long Rest, turn a durzog hide into one piece of Full Durzog
-        Hide armour. Durzog Hide armour is exactly the same as regular Hide but
-        has 1 Poison AR.</p>
+      description: <p>On a <strong>+20 Survival test</strong>, a character can, over the course of a Long Rest, turn a durzog hide into one piece of Full Durzog Hide armour. Durzog Hide armour is exactly the same as regular Hide but has 1 Poison AR.</p>
       quantity: 1
       enc: 1
       totalENC: 0
@@ -919,10 +890,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Can be cooked and eaten as a ration, or can be used as an
-        Uncommon Illusion ingredient. Unlike other raw meats, durzog meat will
-        not spoil.</em></p>
+      description: <p><em>Can be cooked and eaten as a ration, or can be used as an Uncommon Illusion ingredient. Unlike other raw meats, durzog meat will not spoil.</em></p>
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1106,9 +1074,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait can ignore the Bestial trait if they have
-        it.</p>
+      description: <p>Characters with this trait can ignore the Bestial trait if they have it.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1186,9 +1152,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait deny those they are engaged in combat with
-        to use the Disengage action.</p>
+      description: <p>Characters with this trait deny those they are engaged in combat with to use the Disengage action.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1479,9 +1443,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Even though it cannot speak any languages, a durzog can understand
-        simple orders given by a goblin or orc that it trusts.</p>
+      description: <p>Even though it cannot speak any languages, a durzog can understand simple orders given by a goblin or orc that it trusts.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1497,7 +1459,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732336026887
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1544,52 +1506,24 @@ system:
       value: 0
   race: Durzog, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Durzogs</h2>
-
-    <p>Durzogs are hound-like reptiles found both in the wild and in service of
-    goblins and orcs, especially in the Wrothgarian and Dragontail Mountains.
-    Durzogs are large, bulky, and have powerful snapping jaws, resembling a
-    crocodiles, but with large piercing tusks.</p>
-
-    <p>In the wilderness, durzogs live in small familial packs, usually
-    numbering no greater than half a dozen. When tamed and bred by greenskins,
-    their packs can be far, far larger, sometimes in the hundreds, if the tribe
-    can keep them fed.</p>
-
-    <p>Durzogs will typically live in warrens they dig with their large, broad
-    claws, or in existing cave systems, where their night eyes allow them to
-    see. They typically hunt at night, and are not afraid to hunt men and mer
-    alike.</p>
-
-    <p>Durzogs tend to size up an opponent, then in unison will swarm and
-    violently bite and snap at their prey until they can drag it to the ground
-    and pull it limb from limb to devour it while it is still alive. They eat
-    all of their prey, and do not even leave behind the bones.</p>
-
+    <p>Durzogs are hound-like reptiles found both in the wild and in service of goblins and orcs, especially in the Wrothgarian and Dragontail Mountains. Durzogs are large, bulky, and have powerful snapping jaws, resembling a crocodiles, but with large piercing tusks.</p>
+    <p>In the wilderness, durzogs live in small familial packs, usually numbering no greater than half a dozen. When tamed and bred by greenskins, their packs can be far, far larger, sometimes in the hundreds, if the tribe can keep them fed.</p>
+    <p>Durzogs will typically live in warrens they dig with their large, broad claws, or in existing cave systems, where their night eyes allow them to see. They typically hunt at night, and are not afraid to hunt men and mer alike.</p>
+    <p>Durzogs tend to size up an opponent, then in unison will swarm and violently bite and snap at their prey until they can drag it to the ground and pull it limb from limb to devour it while it is still alive. They eat all of their prey, and do not even leave behind the bones.</p>
     <h2>Durzog Loot&nbsp;</h2>
-
     <ul>
-
-    <li>On a +30 Survival test, a character can remove the durzog's hide, worth
-    30 drakes, over the course of a Short Rest.&nbsp;</li>
-
-    <li>On a +20 Survival test, a character can, over the course of a Long Rest,
-    turn a durzog hide into one piece of Full Durzog Hide armour. Durzog Hide
-    armour is exactly the same as regular Hide but has 1 Poison AR.</li>
-
-    <li>On a +20 Simple Survival test over a Short Rest, a character can harvest
-    DoS days' rations of durzog meat, which can be cooked and eaten as a ration,
-    or can be used as an Uncommon Illusion ingredient. Unlike other raw meats,
-    durzog meat will not spoil</li>
-
+    <li>On a +30 Survival test, a character can remove the durzog's hide, worth 30 drakes, over the course of a Short Rest.&nbsp;</li>
+    <li>On a +20 Survival test, a character can, over the course of a Long Rest, turn a durzog hide into one piece of Full Durzog Hide armour. Durzog Hide armour is exactly the same as regular Hide but has 1 Poison AR.</li>
+    <li>On a +20 Simple Survival test over a Short Rest, a character can harvest DoS days' rations of durzog meat, which can be cooked and eaten as a ration, or can be used as an Uncommon Illusion ingredient. Unlike other raw meats, durzog meat will not spoil</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '40'
@@ -1615,6 +1549,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1645,7 +1580,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '1.0'
+  current_enc: 1
   carry_rating:
     current: 0
     max: 22
@@ -1658,49 +1593,57 @@ system:
       total: 0
       base: 40
       favored: false
+      bonus: 0
     end:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 25
       total: 0
       base: 25
       favored: false
+      bonus: 0
     wp:
       value: 20
       total: 0
       base: 20
       favored: false
+      bonus: 0
     prc:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 0
       base: 5
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 55
-    magic: null
+    magic: 0
     evade: 40
     observe: 55
     stealth: 40
-    knowledge: null
-    social: null
+    knowledge: 0
+    social: 0
     physical: 50
     commerce: 0
     profession1: 0
@@ -1742,17 +1685,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   initiative:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   speed:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: small
   size_cat:
     puny: Puny
@@ -1801,21 +1746,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1825,7 +1770,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1971,6 +1917,85 @@ system:
       ar: 5
       magic_ar: '0'
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2063,4 +2088,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!fM8TgmWKGiqsBqEe'
-

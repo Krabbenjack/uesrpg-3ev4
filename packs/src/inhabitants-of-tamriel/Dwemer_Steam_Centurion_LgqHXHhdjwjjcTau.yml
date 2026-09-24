@@ -76,9 +76,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p>A piece of heavy dwemer scrap metal. Can be melted down to create
-        ingots or sold for a tidy sum.&nbsp;</p>
+      description: <p>A piece of heavy dwemer scrap metal. Can be melted down to create ingots or sold for a tidy sum.&nbsp;</p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -303,10 +301,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p>A Dwemer Steam Centurion's power core. Found almost exclusively
-        within a Steam Centurion's inner mechanisms. It can be used to power
-        some esoteric machines or sold for a tidy sum.</p>
+      description: <p>A Dwemer Steam Centurion's power core. Found almost exclusively within a Steam Centurion's inner mechanisms. It can be used to power some esoteric machines or sold for a tidy sum.</p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -412,10 +407,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -493,10 +485,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character is immune to disease, poison, biological effects,
-        illusion spells and uses EB twice instead of WpB when calculating Wound
-        Threshold.</p>
+      description: <p>The character is immune to disease, poison, biological effects, illusion spells and uses EB twice instead of WpB when calculating Wound Threshold.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -574,9 +563,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are immune to the Stun and Dazed
-        conditions.</p>
+      description: <p>Characters with this trait are immune to the Stun and Dazed conditions.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -732,11 +719,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are weak to a certain damage type. They
-        increase damage of * type by X after any other mitigation, and suffer a
-        -10 penalty per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are weak to a certain damage type. They increase damage of * type by X after any other mitigation, and suffer a -10 penalty per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -805,12 +788,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 2 SP</p>
-
-        <p>As part of an all-out attack, the Steam Centurion can strike every
-        target within melee range as a single attack. Roll once for the attack,
-        and resolve damage separately against all struck targets.</p>
+        <p>As part of an all-out attack, the Steam Centurion can strike every target within melee range as a single attack. Roll once for the attack, and resolve damage separately against all struck targets.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -886,14 +866,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>As an action, the character can charge up and create an electrical
-        field around itself, dealing 1d8 shock damage to any character within 1m
-        at the start of their turn. At the start of each of this character's
-        turns, they can attempt a +20 Endurance test to refresh the effect for
-        free.</p>
+        <p>As an action, the character can charge up and create an electrical field around itself, dealing 1d8 shock damage to any character within 1m at the start of their turn. At the start of each of this character's turns, they can attempt a +20 Endurance test to refresh the effect for free.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -969,12 +944,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP + 1 AP</p>
-
-        <p>This character can quickly cool itself by unleashing a wave of
-        scalding steam, which is a 15m cone that deals 1d12 fire damage to all
-        targets.</p>
+        <p>This character can quickly cool itself by unleashing a wave of scalding steam, which is a 15m cone that deals 1d12 fire damage to all targets.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -1059,10 +1031,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character has increased abilities compared to others. Increase
-        their HP, Wound Threshold (WT) and other relevant values using the
-        fields on this trait sheet.</p>
+      description: <p>This character has increased abilities compared to others. Increase their HP, Wound Threshold (WT) and other relevant values using the fields on this trait sheet.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1146,9 +1115,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1441,9 +1408,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1462,11 +1427,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.jL4N8O5dQsX76Gux]{Complex},
-        @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (1),
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.jL4N8O5dQsX76Gux]{Complex}, @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (1), @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1552,9 +1513,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1573,12 +1532,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1664,9 +1618,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1685,13 +1637,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.Q8ED7VzyqBKpfxEo]{Impaling},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.Q8ED7VzyqBKpfxEo]{Impaling}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1777,9 +1723,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1798,11 +1742,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1888,9 +1828,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1909,11 +1847,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1932,7 +1866,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338595899
   modifiedTime: 1732338595899
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1978,45 +1912,25 @@ system:
       value: 0
   race: Construct
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Steam Centurions</h2>
-
-    <p>Steam Centurions are incredibly powerful foes due to their sheer size,
-    durability, and strength. They can be outfitted to hit hard both in melee
-    and at range, and their defenses can weather all but the most devastating
-    attacks.</p>
-
-    <p>In combat Steam Centurions are aggressive and single-minded. They will
-    focus on the greatest threat that is easily within their reach, and rarely
-    attempt to defend against opponents other than their selected target,
-    instead relying on their natural defenses. When faced with groups, they tend
-    to utilize their rapidly spinning torsos.</p>
-
+    <p>Steam Centurions are incredibly powerful foes due to their sheer size, durability, and strength. They can be outfitted to hit hard both in melee and at range, and their defenses can weather all but the most devastating attacks.</p>
+    <p>In combat Steam Centurions are aggressive and single-minded. They will focus on the greatest threat that is easily within their reach, and rarely attempt to defend against opponents other than their selected target, instead relying on their natural defenses. When faced with groups, they tend to utilize their rapidly spinning torsos.</p>
     <h2>Steam Centurion Loot</h2>
-
     <ul>
-
-    <li>A character can attempt a +0 Profession (Engineering or Smithing) test
-    over 15 minutes to recover 8d6 pieces of dwemer scrap metal worth 90 Drakes
-    and 2 ENC each.</li>
-
-    <li>A character can attempt a -20 Profession (Engineering or Smithing) test
-    over 30 minutes to recover the Steam Centurions power core, a centurion
-    dynamo is worth 300 Drakes and is 2 ENC.</li>
-
-    <li>A character can attempt a +0 Alchemy test to extract DoS/2 doses of
-    Dwarven Oil, which is a Very Rare Alteration ingredient.</li>
-
+    <li>A character can attempt a +0 Profession (Engineering or Smithing) test over 15 minutes to recover 8d6 pieces of dwemer scrap metal worth 90 Drakes and 2 ENC each.</li>
+    <li>A character can attempt a -20 Profession (Engineering or Smithing) test over 30 minutes to recover the Steam Centurions power core, a centurion dynamo is worth 300 Drakes and is 2 ENC.</li>
+    <li>A character can attempt a +0 Alchemy test to extract DoS/2 doses of Dwarven Oil, which is a Very Rare Alteration ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
-  soul_energy: null
+  soul_energy: ''
   journal: ''
   notes: ''
   threat: deadlyGroup
@@ -2039,6 +1953,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -2069,7 +1984,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '4.0'
+  current_enc: 4
   carry_rating:
     current: 0
     max: 36
@@ -2082,41 +1997,49 @@ system:
       total: 65
       base: 65
       favored: false
+      bonus: 0
     end:
       value: 60
       total: 60
       base: 60
       favored: false
+      bonus: 0
     agi:
       value: 25
       total: 25
       base: 25
       favored: false
+      bonus: 0
     int:
       value: 20
       total: 20
       base: 20
       favored: false
+      bonus: 0
     wp:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     prc:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 85
     magic: 0
@@ -2166,17 +2089,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '18'
+    value: 18
     base: 18
     bonus: 0
   initiative:
-    value: '7'
+    value: 7
     base: 7
     bonus: 0
   speed:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: huge
   size_cat:
     puny: Puny
@@ -2249,27 +2174,11 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: >-
-    <p><strong>Static Field (1 SP):&nbsp;</strong><span style="color:
-    #191813;">As an action, the character can charge up and create an electrical
-    field around itself, dealing 1d8 shock damage to any character within 1m at
-    the start of their turn. At the start of each of this character's turns,
-    they can attempt a +20 Endurance test to refresh the effect for
-    free.</span></p>
-
-    <p><strong><span style="color: #191813;">Rapid Spin (2
-    SP):</span></strong><span style="color: #191813;">&nbsp;</span><span
-    style="color: #191813;">As part of an all-out attack, the Steam Centurion
-    can strike every target within melee range as a single attack. Roll once for
-    the attack, and resolve damage separately against all struck
-    targets.</span></p>
-
-    <p><strong><span style="color: #191813;">Steam Breath (1 SP + 1
-    AP):</span></strong><span style="color: #191813;">&nbsp;</span><span
-    style="color: #191813;">This character can quickly cool itself by unleashing
-    a wave of scalding steam, which is a 15m cone that deals 1d12 fire damage to
-    all targets.</span></p>
-
+      rank: ''
+  talents: |-
+    <p><strong>Static Field (1 SP):&nbsp;</strong><span style="color: #191813;">As an action, the character can charge up and create an electrical field around itself, dealing 1d8 shock damage to any character within 1m at the start of their turn. At the start of each of this character's turns, they can attempt a +20 Endurance test to refresh the effect for free.</span></p>
+    <p><strong><span style="color: #191813;">Rapid Spin (2 SP):</span></strong><span style="color: #191813;">&nbsp;</span><span style="color: #191813;">As part of an all-out attack, the Steam Centurion can strike every target within melee range as a single attack. Roll once for the attack, and resolve damage separately against all struck targets.</span></p>
+    <p><strong><span style="color: #191813;">Steam Breath (1 SP + 1 AP):</span></strong><span style="color: #191813;">&nbsp;</span><span style="color: #191813;">This character can quickly cool itself by unleashing a wave of scalding steam, which is a 15m cone that deals 1d12 fire damage to all targets.</span></p>
     <p>&nbsp;</p>
   traits: ''
   powers: ''
@@ -2416,6 +2325,85 @@ system:
       ar: 10
       magic_ar: 5 Magic
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2510,4 +2498,3 @@ prototypeToken:
 _id: LgqHXHhdjwjjcTau
 sort: 0
 _key: '!actors!LgqHXHhdjwjjcTau'
-

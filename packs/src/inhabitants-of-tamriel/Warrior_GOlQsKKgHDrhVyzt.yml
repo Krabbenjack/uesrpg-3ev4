@@ -71,9 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character adds +1 DoS on all Combat tests made when engaged in
-        melee with 2 or more opponents.</p>
+      description: <p>This character adds +1 DoS on all Combat tests made when engaged in melee with 2 or more opponents.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -155,9 +153,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character never suffers the usual &ndash;10 untrained penalty for
-        the using of weapons not included in one of their Combat Styles.</p>
+      description: <p>The character never suffers the usual &ndash;10 untrained penalty for the using of weapons not included in one of their Combat Styles.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -239,9 +235,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The Warrior may have any kind of weapon talent appropriate to their
-        specific weapon they are using.</p>
+      description: <p>The Warrior may have any kind of weapon talent appropriate to their specific weapon they are using.</p>
       xpCost: 400
       level: 4
       talentReq: Sons of Skyrim
@@ -330,9 +324,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -351,9 +343,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}'
       charge:
         value: 0
         max: 0
@@ -440,9 +430,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -461,9 +449,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -550,9 +536,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -571,9 +555,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.Q8ED7VzyqBKpfxEo]{Impaling},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.Q8ED7VzyqBKpfxEo]{Impaling}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -660,9 +642,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -681,9 +661,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -770,12 +748,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -883,12 +856,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -996,12 +964,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1109,12 +1072,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1222,12 +1180,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1335,12 +1288,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Steel armor is commonly used by professional militaries,
-        mercenary groups, among others. The metal is often associated with the
-        races of men, who pride themselves on the quality of their steel-work as
-        weaponry, armors, and everyday tools for its reliability and
-        craftsmanship.</em></p>
+      description: <p><em>Steel armor is commonly used by professional militaries, mercenary groups, among others. The metal is often associated with the races of men, who pride themselves on the quality of their steel-work as weaponry, armors, and everyday tools for its reliability and craftsmanship.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1448,10 +1396,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>A shield made from traditional steel. It may be simple, but good
-        strong steel is reliable and can repel attacks from powerful
-        opponents.</em></p>
+      description: <p><em>A shield made from traditional steel. It may be simple, but good strong steel is reliable and can repel attacks from powerful opponents.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1544,14 +1489,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:&nbsp;</strong>2 SP</p>
-
-        <p>The Warrior may activate this ability to swing their weapon in a 360
-        degree arc around themselves. As part of a melee attack, They can strike
-        any targets in Reach as a single action. Roll once for the attack. This
-        attack otherwise functions the same as a normal attack in terms of
-        damage.</p>
+        <p>The Warrior may activate this ability to swing their weapon in a 360 degree arc around themselves. As part of a melee attack, They can strike any targets in Reach as a single action. Roll once for the attack. This attack otherwise functions the same as a normal attack in terms of damage.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -1575,7 +1515,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339101939
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1621,18 +1561,14 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>Warriors are the professional men-at-arms, soldiers, mercenaries, and
-    adventurers of Tamriel, trained with various weapons and armor styles,
-    conditioned by long marches, and hardened by ambush, skirmish and
-    battle.</em></p>
+  bio: <p><em>Warriors are the professional men-at-arms, soldiers, mercenaries, and adventurers of Tamriel, trained with various weapons and armor styles, conditioned by long marches, and hardened by ambush, skirmish and battle.</em></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -1657,6 +1593,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1687,7 +1624,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '33.0'
+  current_enc: 33
   carry_rating:
     current: 0
     max: 24
@@ -1700,44 +1637,52 @@ system:
       total: 45
       base: 45
       favored: false
+      bonus: 0
     end:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     wp:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     prc:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 75
-    magic: null
+    magic: 0
     evade: 50
     observe: 55
     stealth: 20
@@ -1784,17 +1729,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   initiative:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
   speed:
-    value: '12'
+    value: 12
     base: 11
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1843,21 +1790,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1867,7 +1814,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2013,6 +1961,85 @@ system:
       ar: 6
       magic_ar: '0'
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2107,4 +2134,3 @@ prototypeToken:
 _id: GOlQsKKgHDrhVyzt
 sort: 300000
 _key: '!actors!GOlQsKKgHDrhVyzt'
-

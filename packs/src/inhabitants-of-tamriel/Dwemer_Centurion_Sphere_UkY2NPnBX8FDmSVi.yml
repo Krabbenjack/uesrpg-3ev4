@@ -71,10 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -152,10 +149,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character is immune to disease, poison, biological effects,
-        illusion spells and uses EB twice instead of WpB when calculating Wound
-        Threshold.</p>
+      description: <p>The character is immune to disease, poison, biological effects, illusion spells and uses EB twice instead of WpB when calculating Wound Threshold.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -311,9 +305,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character has a sphere instead of legs. All hits to the leg
-        location hit the sphere instead.</p>
+      description: <p>This character has a sphere instead of legs. All hits to the leg location hit the sphere instead.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -469,11 +461,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are weak to a certain damage type. They
-        increase damage of * type by X after any other mitigation, and suffer a
-        -10 penalty per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are weak to a certain damage type. They increase damage of * type by X after any other mitigation, and suffer a -10 penalty per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -542,11 +530,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP + 1 AP</p>
-
-        <p>As an attack, this character can fire at up to 3 targets with its
-        Crossbow as a single attack.</p>
+        <p>As an attack, this character can fire at up to 3 targets with its Crossbow as a single attack.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -622,13 +608,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 AP</p>
-
-        <p>The Centurion Sphere shifts to it&rsquo;s sphere form or shifts back.
-        In sphere form all attacks hit the sphere location, its Speed becomes
-        16, its Evade becomes 70, and it can only use the Steam Roll special
-        ability.</p>
+        <p>The Centurion Sphere shifts to it&rsquo;s sphere form or shifts back. In sphere form all attacks hit the sphere location, its Speed becomes 16, its Evade becomes 70, and it can only use the Steam Roll special ability.</p>
       dailyUse: false
       source: ''
       shiftForm: true
@@ -704,12 +686,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP +1 AP</p>
-
-        <p>While in sphere form, the Centurion Sphere moves in a straight line
-        and any characters it comes within 1m of must test Evade or take 1d10
-        damage and be knocked prone.</p>
+        <p>While in sphere form, the Centurion Sphere moves in a straight line and any characters it comes within 1m of must test Evade or take 1d10 damage and be knocked prone.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -799,9 +778,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p>A piece of heavy dwemer scrap metal. Can be melted down to create
-        ingots or sold for a tidy sum.&nbsp;</p>
+      description: <p>A piece of heavy dwemer scrap metal. Can be melted down to create ingots or sold for a tidy sum.&nbsp;</p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1120,9 +1097,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1229,9 +1204,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1250,9 +1223,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1338,9 +1309,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1359,11 +1328,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (4),
-        @Compendium[uesrpg-revision.journal.jL4N8O5dQsX76Gux]{Complex},
-        @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (1),
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (4), @Compendium[uesrpg-revision.journal.jL4N8O5dQsX76Gux]{Complex}, @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (1), @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1449,9 +1414,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1470,10 +1433,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1559,9 +1519,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1580,10 +1538,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.Q8ED7VzyqBKpfxEo]{Impaling},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.Q8ED7VzyqBKpfxEo]{Impaling}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1762,9 +1717,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1804,7 +1757,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338581276
   modifiedTime: 1732338586998
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1850,43 +1803,24 @@ system:
       value: 0
   race: Construct
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Centurion Spheres</h2>
-
-    <p>Centurion Spheres are another common form of Dwemer construct. They
-    typically move around in sphere form allowing them to navigate the specially
-    designed pipework most dwemer ruins contain. However when they enter a state
-    of combat readiness, the sphere splits and a mechanical humanoid torso, head
-    and arms emerge, each arm ends in a weapon or shield their heads are
-    typically stylised visages of their dwemeri creators.</p>
-
-    <p>They are not sentient and thus technically do not have any kind of
-    intelligence, however their creators provided them with the ability to
-    handle complex tactical situations. They remain in the ancient ruins of
-    Dwemer civilisation and are typically very aggressive toward anything
-    entering their masters domain despite the disappearance of the dwarves.</p>
-
+    <p>Centurion Spheres are another common form of Dwemer construct. They typically move around in sphere form allowing them to navigate the specially designed pipework most dwemer ruins contain. However when they enter a state of combat readiness, the sphere splits and a mechanical humanoid torso, head and arms emerge, each arm ends in a weapon or shield their heads are typically stylised visages of their dwemeri creators.</p>
+    <p>They are not sentient and thus technically do not have any kind of intelligence, however their creators provided them with the ability to handle complex tactical situations. They remain in the ancient ruins of Dwemer civilisation and are typically very aggressive toward anything entering their masters domain despite the disappearance of the dwarves.</p>
     <h2>Centurion Sphere Loot</h2>
-
     <ul>
-
-    <li>A character can attempt a +0 Profession (Engineering or Smithing) test
-    over 15 minutes to recover 1d4 pieces of dwemer scrap metal worth 90 Drakes
-    and 2 ENC each.</li>
-
-    <li>A character can attempt a +0 Alchemy test to extract DoS/2 doses of
-    Dwarven Oil, which is a Very Rare Alteration ingredient.</li>
-
+    <li>A character can attempt a +0 Profession (Engineering or Smithing) test over 15 minutes to recover 1d4 pieces of dwemer scrap metal worth 90 Drakes and 2 ENC each.</li>
+    <li>A character can attempt a +0 Alchemy test to extract DoS/2 doses of Dwarven Oil, which is a Very Rare Alteration ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
-  soul_energy: null
+  soul_energy: ''
   journal: ''
   notes: ''
   threat: majorSolo
@@ -1909,6 +1843,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1939,7 +1874,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '2.1'
+  current_enc: 2.1
   carry_rating:
     current: 0
     max: 24
@@ -1952,41 +1887,49 @@ system:
       total: 40
       base: 40
       favored: false
+      bonus: 0
     end:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     agi:
       value: 55
       total: 55
       base: 55
       favored: false
+      bonus: 0
     int:
       value: 20
       total: 20
       base: 20
       favored: false
+      bonus: 0
     wp:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     prc:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 60
     magic: 0
@@ -2036,17 +1979,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
   initiative:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   speed:
-    value: '14'
+    value: 14
     base: 14
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -2119,7 +2064,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2265,6 +2211,85 @@ system:
       ar: 5
       magic_ar: 2 Magic
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2359,4 +2384,3 @@ prototypeToken:
 _id: UkY2NPnBX8FDmSVi
 sort: 200000
 _key: '!actors!UkY2NPnBX8FDmSVi'
-

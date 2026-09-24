@@ -72,10 +72,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character with this trait is naturally tough, and reduces
-        incoming damage by X. This functions like AR, and reduces all damage
-        types, but it does not count as armor.</p>
+      description: <p>The character with this trait is naturally tough, and reduces incoming damage by X. This functions like AR, and reduces all damage types, but it does not count as armor.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -153,11 +150,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character has no need to make Survival skill tests in their
-        natural habitat, but must test Willpower to avoid fleeing combat if the
-        GM feels that it&rsquo;s ap-propriate (for example, if the creature
-        would feel intimidated by its foe).</p>
+      description: <p>The character has no need to make Survival skill tests in their natural habitat, but must test Willpower to avoid fleeing combat if the GM feels that it&rsquo;s ap-propriate (for example, if the creature would feel intimidated by its foe).</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -240,9 +233,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>The meat will spoil within a day if not properly
-        preserved.</em></p>
+      description: <p><em>The meat will spoil within a day if not properly preserved.</em></p>
       quantity: 1
       enc: 0
       totalENC: 0
@@ -353,10 +344,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p>On a <strong>+20 Survival test</strong>, a character can create one
-        piece of Full Hide or Fur armour using a Large Hide (or two Partial
-        pieces) over a Long Rest.&nbsp;</p>
+      description: <p>On a <strong>+20 Survival test</strong>, a character can create one piece of Full Hide or Fur armour using a Large Hide (or two Partial pieces) over a Long Rest.&nbsp;</p>
       quantity: 1
       enc: 1
       totalENC: 0
@@ -600,9 +588,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing} or
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing} or @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}'
       charge:
         value: 0
         max: 0
@@ -620,7 +606,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732336014225
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -667,58 +653,30 @@ system:
       value: 0
   race: Game, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Game Animals</h2>
-
-    <p>Game Animals of all sorts can be found across Tamriel, and are most
-    commonly hunted for their meat or prizes. This entry is mostly to aid in
-    characters hunting for rations in their downtime.</p>
-
+    <p>Game Animals of all sorts can be found across Tamriel, and are most commonly hunted for their meat or prizes. This entry is mostly to aid in characters hunting for rations in their downtime.</p>
     <h2>Game Animal Loot</h2>
-
     <ul>
-
-    <li>On a +20 Survival test, a character can remove the game animal's hide.
-    It takes a Long Rest to remove the pelt of a Large Game animal, worth 100
-    drakes. Failing the test spoils the hide, halving its worth.&nbsp;</li>
-
-    <li>On a +40 Survival test, a character can remove a trophy from a Large
-    Game animal over a Short Rest, worth 100 drakes.&nbsp;</li>
-
-    <li>On a +30 Simple Survival test, a character can harvest meat from a Game
-    Animal. He gains DoS*3 rations of meat from a Large Game animal which takes
-    a Long Rest. The meat will spoil if not preserved.</li>
-
+    <li>On a +20 Survival test, a character can remove the game animal's hide. It takes a Long Rest to remove the pelt of a Large Game animal, worth 100 drakes. Failing the test spoils the hide, halving its worth.&nbsp;</li>
+    <li>On a +40 Survival test, a character can remove a trophy from a Large Game animal over a Short Rest, worth 100 drakes.&nbsp;</li>
+    <li>On a +30 Simple Survival test, a character can harvest meat from a Game Animal. He gains DoS*3 rations of meat from a Large Game animal which takes a Long Rest. The meat will spoil if not preserved.</li>
     </ul>
-
-    <h3><strong>Additionally, any Game Animal may have any of the following
-    traits, depending on their species:&nbsp;</strong></h3>
-
+    <h3><strong>Additionally, any Game Animal may have any of the following traits, depending on their species:&nbsp;</strong></h3>
     <ul>
-
-    <li>Amphibious: Can breath water and ignores the skill cap placed on his
-    Combat rolls by his Athletics when fighting in water.&nbsp;</li>
-
-    <li>Bite: A Bite attack that deals damage automatically starts a Grapple. If
-    the target Counter Attacks a Bite attack, the Counter Attack ignores the
-    creature's AR and Natural Toughness trait.&nbsp;</li>
-
-    <li>Dark Sight: A creature with this trait can see and act normally in areas
-    with dim or no light.&nbsp;</li>
-
+    <li>Amphibious: Can breath water and ignores the skill cap placed on his Combat rolls by his Athletics when fighting in water.&nbsp;</li>
+    <li>Bite: A Bite attack that deals damage automatically starts a Grapple. If the target Counter Attacks a Bite attack, the Counter Attack ignores the creature's AR and Natural Toughness trait.&nbsp;</li>
+    <li>Dark Sight: A creature with this trait can see and act normally in areas with dim or no light.&nbsp;</li>
     <li>Flyer (Speed*3): The creature can fly at 3*Speed.&nbsp;</li>
-
     <li>Quadruped: When Dashing, triples Speed.&nbsp;</li>
-
     <li>Swimmer: Doubles its movement speed in water.</li>
-
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '30'
@@ -744,6 +702,7 @@ system:
     natToughness: 2
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -774,7 +733,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '2.0'
+  current_enc: 2
   carry_rating:
     current: 0
     max: 20
@@ -787,49 +746,57 @@ system:
       total: 30
       base: 30
       favored: false
+      bonus: 0
     end:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 10
       total: 10
       base: 10
       favored: false
+      bonus: 0
     wp:
       value: 10
       total: 10
       base: 10
       favored: false
+      bonus: 0
     prc:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 30
-    magic: null
+    magic: 0
     evade: 30
     observe: 55
     stealth: 30
-    knowledge: null
-    social: null
+    knowledge: 0
+    social: 0
     physical: 60
     commerce: 0
     profession1: 0
@@ -871,17 +838,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '8'
+    value: 8
     base: 8
     bonus: 0
   initiative:
-    value: '8'
+    value: 8
     base: 8
     bonus: 0
   speed:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: large
   size_cat:
     puny: Puny
@@ -930,21 +899,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -954,6 +923,7 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
+      rank: ''
   talents: ''
   traits: ''
   powers: ''
@@ -1100,6 +1070,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1192,4 +1241,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!4YAW2sVnQN0p3lpP'
-

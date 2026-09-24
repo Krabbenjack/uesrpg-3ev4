@@ -288,15 +288,10 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>This character can spend 1 SP when an ally attacks an enemy within
-        this character's reach. Doing so imposes a -10 penalty on the target's
-        defense.&nbsp;</p>
-
-        <p>Each ally using this ability adds +1 damage to the attack's damage
-        roll.&nbsp;</p>
+        <p>This character can spend 1 SP when an ally attacks an enemy within this character's reach. Doing so imposes a -10 penalty on the target's defense.&nbsp;</p>
+        <p>Each ally using this ability adds +1 damage to the attack's damage roll.&nbsp;</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -465,9 +460,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -486,9 +479,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -574,9 +565,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -595,9 +584,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness}'
       charge:
         value: 0
         max: 0
@@ -683,9 +670,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -790,9 +775,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -811,9 +794,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -898,9 +879,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 10
       enc: 0.1
       totalENC: 0
@@ -993,9 +972,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 10
       enc: 0.1
       totalENC: 0
@@ -1089,12 +1066,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1201,12 +1173,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1313,12 +1280,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1425,12 +1387,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1537,12 +1494,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1649,12 +1601,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1761,10 +1708,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>A basic iron shield, used across Tamriel by mercenaries, militia,
-        and soldiers. It is simple to maintain and can be made by almost any
-        apprentice smith.</em></p>
+      description: <p><em>A basic iron shield, used across Tamriel by mercenaries, militia, and soldiers. It is simple to maintain and can be made by almost any apprentice smith.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1803,7 +1747,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732336001817
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1850,50 +1794,24 @@ system:
       value: 0
   race: Goblin, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Goblins</h2>
-
-    <p>Goblins are savage, primitive humanoids found throughout Tamriel. They
-    live in clan based societies ruled by the strongest of them in a hierarchy
-    of mightmakes-right. Goblins have green skin, yellow-slitted eyes, large
-    fangs and elven ears, and stand atthe height of around a man&rsquo;s
-    chin.</p>
-
-    <p>The most common goblins are cave goblins, which dwell in caves, sewers,
-    ruins and other subterranean lairs. They typically build simple but deadly
-    traps, and construct minor fortifications in their underground bases.</p>
-
-    <p>The other main type of goblins are the clan goblins, which dwell as
-    nomads on the surface world, hunting and raiding as neccessary. Clan goblins
-    are far larger and stronger than their underground cousins, so naturally
-    pose a much larger threat on the offensive than the relatively diminuitive
-    cave goblins, who typically have the advantage on the defensive instead.</p>
-
-    <p>Goblins are known to train the dog-like Durzogs for battle, and raise
-    rats for their meat.</p>
-
+    <p>Goblins are savage, primitive humanoids found throughout Tamriel. They live in clan based societies ruled by the strongest of them in a hierarchy of mightmakes-right. Goblins have green skin, yellow-slitted eyes, large fangs and elven ears, and stand atthe height of around a man&rsquo;s chin.</p>
+    <p>The most common goblins are cave goblins, which dwell in caves, sewers, ruins and other subterranean lairs. They typically build simple but deadly traps, and construct minor fortifications in their underground bases.</p>
+    <p>The other main type of goblins are the clan goblins, which dwell as nomads on the surface world, hunting and raiding as neccessary. Clan goblins are far larger and stronger than their underground cousins, so naturally pose a much larger threat on the offensive than the relatively diminuitive cave goblins, who typically have the advantage on the defensive instead.</p>
+    <p>Goblins are known to train the dog-like Durzogs for battle, and raise rats for their meat.</p>
     <h2>Goblin Loot&nbsp;</h2>
-
     <ul>
-
-    <li>A goblin has on its person what it is equipped with, in addition to
-    about d4 drakes worth of junk weighing about 1 ENC.&nbsp;</li>
-
-    <li>A character can make a +0 Alchemy test to harvest a goblin ear, which is
-    an Uncommon Destruction ingredient. If the character succeeds with more than
-    1 DoS, they harvest two ears instead.&nbsp;</li>
-
-    <li>Goblins are likely to have treasure stashed somewhere in their den. At
-    the GM's discretion, the characters can make a number of rolls on the
-    Treasure table the GM feels appropriate for the den.</li>
-
+    <li>A goblin has on its person what it is equipped with, in addition to about d4 drakes worth of junk weighing about 1 ENC.&nbsp;</li>
+    <li>A character can make a +0 Alchemy test to harvest a goblin ear, which is an Uncommon Destruction ingredient. If the character succeeds with more than 1 DoS, they harvest two ears instead.&nbsp;</li>
+    <li>Goblins are likely to have treasure stashed somewhere in their den. At the GM's discretion, the characters can make a number of rolls on the Treasure table the GM feels appropriate for the den.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '100'
@@ -1919,6 +1837,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1949,7 +1868,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '20.0'
+  current_enc: 20
   carry_rating:
     current: 0
     max: 16
@@ -1962,41 +1881,49 @@ system:
       total: 35
       base: 35
       favored: false
+      bonus: 0
     end:
       value: 20
       total: 20
       base: 20
       favored: false
+      bonus: 0
     agi:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     int:
       value: 15
       total: 15
       base: 15
       favored: false
+      bonus: 0
     wp:
       value: 15
       total: 15
       base: 15
       favored: false
+      bonus: 0
     prc:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 10
       total: 10
       base: 10
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 45
     magic: 15
@@ -2046,17 +1973,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '6'
+    value: 6
     base: 6
     bonus: 0
   initiative:
-    value: '7'
+    value: 7
     base: 7
     bonus: 0
   speed:
-    value: '9'
+    value: 9
     base: 8
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: small
   size_cat:
     puny: Puny
@@ -2105,21 +2034,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -2129,7 +2058,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2275,6 +2205,85 @@ system:
       ar: 2
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2367,4 +2376,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!5b64qMu66tYR6et8'
-

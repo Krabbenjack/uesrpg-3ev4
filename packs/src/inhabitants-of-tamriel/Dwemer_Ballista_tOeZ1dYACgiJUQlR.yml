@@ -71,10 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -152,10 +149,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character is immune to disease, poison, biological effects,
-        illusion spells and uses EB twice instead of WpB when calculating Wound
-        Threshold.</p>
+      description: <p>The character is immune to disease, poison, biological effects, illusion spells and uses EB twice instead of WpB when calculating Wound Threshold.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -311,11 +305,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are weak to a certain damage type. They
-        increase damage of * type by X after any other mitigation, and suffer a
-        -10 penalty per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are weak to a certain damage type. They increase damage of * type by X after any other mitigation, and suffer a -10 penalty per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -384,11 +374,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>As part of an attack, this character can envelope its bolt with
-        flames, causing its attack to deal an extra 3 fire damage.</p>
+        <p>As part of an attack, this character can envelope its bolt with flames, causing its attack to deal an extra 3 fire damage.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -464,12 +452,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP + 1 AP</p>
-
-        <p>As part of an attack, this character&nbsp;charges a shot, allowing it
-        to sunder armor. Any targets struck suffer Damaged (1) on the affected
-        Hit Location.</p>
+        <p>As part of an attack, this character&nbsp;charges a shot, allowing it to sunder armor. Any targets struck suffer Damaged (1) on the affected Hit Location.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -559,9 +544,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p>A piece of heavy dwemer scrap metal. Can be melted down to create
-        ingots or sold for a tidy sum.&nbsp;</p>
+      description: <p>A piece of heavy dwemer scrap metal. Can be melted down to create ingots or sold for a tidy sum.&nbsp;</p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -766,9 +749,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -875,9 +856,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -896,11 +875,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.jL4N8O5dQsX76Gux]{Complex},
-        @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (5, min
-        2), @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.jL4N8O5dQsX76Gux]{Complex}, @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (5, min 2), @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -919,7 +894,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338553827
   modifiedTime: 1732338586998
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -965,45 +940,22 @@ system:
       value: 0
   race: Construct
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Dwemer Ballistae</h2>
-
-    <p>One of the most dangerous Steam Animunculi is the Dwarven Ballista, which
-    fires a bolt that can penetrate even the thickest armor.</p>
-
-    <p>The Dwemer created the ballistae as guardians and ranged support for
-    their homes and armies respectively, and whilst the Dwemer are long since
-    dead, the ballista maintain their vigil over their masters ancient homes.
-    These Animunculi are rarely alone, usually other centurions are close by and
-    quickly alerted when a ballista becomes aware of intruders.</p>
-
-    <p>The ballista&rsquo;s bolts are incredibly powerful and capable of firing
-    at ranges that exceed smaller crossbows and bows alike which makes them a
-    daunting foe to face unless the foe can sneak up on them, to be hit by one
-    of their bolts typically spells the end of the target, or at least scars
-    worthy of a story or two. Despite this, they take a long time to reload
-    which can create an opening, assuming whatever support the ballista had has
-    already been dealt with.</p>
-
+    <p>One of the most dangerous Steam Animunculi is the Dwarven Ballista, which fires a bolt that can penetrate even the thickest armor.</p>
+    <p>The Dwemer created the ballistae as guardians and ranged support for their homes and armies respectively, and whilst the Dwemer are long since dead, the ballista maintain their vigil over their masters ancient homes. These Animunculi are rarely alone, usually other centurions are close by and quickly alerted when a ballista becomes aware of intruders.</p>
+    <p>The ballista&rsquo;s bolts are incredibly powerful and capable of firing at ranges that exceed smaller crossbows and bows alike which makes them a daunting foe to face unless the foe can sneak up on them, to be hit by one of their bolts typically spells the end of the target, or at least scars worthy of a story or two. Despite this, they take a long time to reload which can create an opening, assuming whatever support the ballista had has already been dealt with.</p>
     <h2>Dwemer Ballista Loot</h2>
-
     <ul>
-
-    <li>A character can attempt a +0 Profession (Engineering or Smithing) test
-    over 15 minutes to recover 1d4 pieces of dwemer scrap metal worth 90 Drakes
-    and 2 ENC each.</li>
-
-    <li>A character can recover 1d10 of the bolts the ballista uses, these are
-    too large to use as bolts, but they can be modified with a +0 Smithing test
-    to be used as Dwemer Javelin instead.</li>
-
+    <li>A character can attempt a +0 Profession (Engineering or Smithing) test over 15 minutes to recover 1d4 pieces of dwemer scrap metal worth 90 Drakes and 2 ENC each.</li>
+    <li>A character can recover 1d10 of the bolts the ballista uses, these are too large to use as bolts, but they can be modified with a +0 Smithing test to be used as Dwemer Javelin instead.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: ''
@@ -1029,6 +981,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1059,7 +1012,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '2.0'
+  current_enc: 2
   carry_rating:
     current: 0
     max: 18
@@ -1072,41 +1025,49 @@ system:
       total: 30
       base: 30
       favored: false
+      bonus: 0
     end:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 20
       total: 20
       base: 20
       favored: false
+      bonus: 0
     wp:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     prc:
       value: 20
       total: 20
       base: 20
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 50
     magic: 0
@@ -1156,17 +1117,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   initiative:
-    value: '8'
+    value: 8
     base: 8
     bonus: 0
   speed:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1239,15 +1202,10 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: >-
-    <p><strong>Infused Ammunition (1 SP):&nbsp;</strong><span style="color:
-    #191813;">As part of an attack, this character can envelope its bolt with
-    flames, causing its attack to deal an extra 3 fire damage.</span></p>
-
-    <p><strong><span style="color: #191813;">Sundering Bolt (1 SP + 1
-    AP):&nbsp;</span></strong><span style="color: #191813;">As part of an
-    attack, this character charges a shot, allowing it to sunder armor. Any
-    targets struck suffer Damaged (1) on the affected Hit Location.</span></p>
+      rank: ''
+  talents: |-
+    <p><strong>Infused Ammunition (1 SP):&nbsp;</strong><span style="color: #191813;">As part of an attack, this character can envelope its bolt with flames, causing its attack to deal an extra 3 fire damage.</span></p>
+    <p><strong><span style="color: #191813;">Sundering Bolt (1 SP + 1 AP):&nbsp;</span></strong><span style="color: #191813;">As part of an attack, this character charges a shot, allowing it to sunder armor. Any targets struck suffer Damaged (1) on the affected Hit Location.</span></p>
   traits: ''
   powers: ''
   spells: ''
@@ -1394,6 +1352,85 @@ system:
       magic_ar: 2 Magic
       class: ''
   equipped: true
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1488,4 +1525,3 @@ prototypeToken:
 _id: tOeZ1dYACgiJUQlR
 sort: 100000
 _key: '!actors!tOeZ1dYACgiJUQlR'
-

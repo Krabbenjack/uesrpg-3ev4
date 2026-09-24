@@ -71,10 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -152,9 +149,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character deals 5 extra Shock damage on strike against targets
-        illuminated by bright light.</p>
+      description: <p>This character deals 5 extra Shock damage on strike against targets illuminated by bright light.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -232,10 +227,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character can wield 2H weapons with 1 hand. They may not dual
-        wield 2H weapons in this way. They may ignore the Unwieldy quality of a
-        weapon when parrying.</p>
+      description: <p>This character can wield 2H weapons with 1 hand. They may not dual wield 2H weapons in this way. They may ignore the Unwieldy quality of a weapon when parrying.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -313,10 +305,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to mundane weapons. If the
-        character suffers damage from a weapon/attack without the Magic quality
-        reduce that damage by X after any other mitigation.</p>
+      description: <p>Characters with this trait are resistant to mundane weapons. If the character suffers damage from a weapon/attack without the Magic quality reduce that damage by X after any other mitigation.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -394,11 +383,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -467,12 +452,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 - 3 SP</p>
-
-        <p>After this character rolls for damage, they may spend 1 - 3 Stamina
-        Points to increase their damage by +3 for each SP spent, to a maximum of
-        3 SP for +9 damage.</p>
+        <p>After this character rolls for damage, they may spend 1 - 3 Stamina Points to increase their damage by +3 for each SP spent, to a maximum of 3 SP for +9 damage.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -548,13 +530,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>As an action, this character can touch a target to cause 1d8 shock
-        damage and cause the target to cast bright light for 10m for one round.
-        The character can spend 1 SP each round to maintain this damage and
-        light exactly as if they were Upkeeping a spell.</p>
+        <p>As an action, this character can touch a target to cause 1d8 shock damage and cause the target to cast bright light for 10m for one round. The character can spend 1 SP each round to maintain this damage and light exactly as if they were Upkeeping a spell.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -630,11 +608,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>As a reaction, this character can reduce all incoming damage by 3 and
-        gain Immunity to Shock until its next turn.</p>
+        <p>As a reaction, this character can reduce all incoming damage by 3 and gain Immunity to Shock until its next turn.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -719,10 +695,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait have more magicka than usual. The size of
-        their Magicka Pool is increased by X. If the character would receive
-        this trait more than once, combine the X values.</p>
+      description: <p>Characters with this trait have more magicka than usual. The size of their Magicka Pool is increased by X. If the character would receive this trait more than once, combine the X values.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -920,9 +893,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 3
       totalENC: 0
@@ -941,12 +912,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 4
-      qualities: >-
-        Shock, @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: Shock, @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
       charge:
         value: 0
         max: 0
@@ -1032,9 +998,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1050,9 +1014,7 @@ items:
       excludeENC: false
       magic_ar: 3 Magic
       enchant_level: 4
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_leg
       item_cat:
         none: None
@@ -1143,9 +1105,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1161,9 +1121,7 @@ items:
       excludeENC: false
       magic_ar: 3 Magic
       enchant_level: 4
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_leg
       item_cat:
         none: None
@@ -1254,9 +1212,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1272,9 +1228,7 @@ items:
       excludeENC: false
       magic_ar: 3 Magic
       enchant_level: 4
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: body
       item_cat:
         none: None
@@ -1365,9 +1319,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1383,9 +1335,7 @@ items:
       excludeENC: false
       magic_ar: 3 Magic
       enchant_level: 4
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_arm
       item_cat:
         none: None
@@ -1476,9 +1426,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1494,9 +1442,7 @@ items:
       excludeENC: false
       magic_ar: 3 Magic
       enchant_level: 4
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_arm
       item_cat:
         none: None
@@ -1587,9 +1533,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1605,9 +1549,7 @@ items:
       excludeENC: false
       magic_ar: 3 Magic
       enchant_level: 4
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.dfIZDLRGKnnc5kty]{Medium}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: head
       item_cat:
         none: None
@@ -1694,11 +1636,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1778,11 +1716,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are weak to a certain damage type. They
-        increase damage of * type by X after any other mitigation, and suffer a
-        -10 penalty per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are weak to a certain damage type. They increase damage of * type by X after any other mitigation, and suffer a -10 penalty per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1799,7 +1733,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338799191
   modifiedTime: 1732338847856
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1845,50 +1779,25 @@ system:
       value: 0
   race: Auroran, Daedra
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Aurorans</h2>
-
-    <p>Be it heeding the call of the Ayleids or their master and creator
-    Meridia, Aurorans will typically be found in Ayleid ruins, for whatever
-    regal or divine purpose they may have been given. Their preference for heavy
-    armour and shock enchanted weapons is universal, and as such any
-    preparations dedicated to dealing with them can always take those factors
-    into account. The Aurorans are well known for their universal and nearly
-    inescapable true hatred of the undead, worshippers of the undead, and any
-    that may raise or produce undead.</p>
-
-    <p>Aurorans were essential in the defeat of Molag Bol during the Planemeld
-    during the Interregnum of the Second Era, and are as exalted for their deep
-    and dear hatred of the undead as their mistress and creator, the former
-    Magna-Ge, Merid-Nunda, or, the Daedric Prince of Light, Meridia.</p>
-
-    <p>They typically wield axes and look to be made of sunlight and bone, and
-    lack any sort of perceptible facial features, known only for their helmeted
-    heads, and lack of skin. They are ruthless and will slay any and all who may
-    tread their masters&rsquo; dwellings.</p>
-
+    <p>Be it heeding the call of the Ayleids or their master and creator Meridia, Aurorans will typically be found in Ayleid ruins, for whatever regal or divine purpose they may have been given. Their preference for heavy armour and shock enchanted weapons is universal, and as such any preparations dedicated to dealing with them can always take those factors into account. The Aurorans are well known for their universal and nearly inescapable true hatred of the undead, worshippers of the undead, and any that may raise or produce undead.</p>
+    <p>Aurorans were essential in the defeat of Molag Bol during the Planemeld during the Interregnum of the Second Era, and are as exalted for their deep and dear hatred of the undead as their mistress and creator, the former Magna-Ge, Merid-Nunda, or, the Daedric Prince of Light, Meridia.</p>
+    <p>They typically wield axes and look to be made of sunlight and bone, and lack any sort of perceptible facial features, known only for their helmeted heads, and lack of skin. They are ruthless and will slay any and all who may tread their masters&rsquo; dwellings.</p>
     <h2>Auroran Loot</h2>
-
     <ul>
-
-    <li>If slain while permanently bound to Mundus, an Auroran&rsquo;s weapons
-    and armour will be recoverable, otherwise the Auroran&rsquo;s body and
-    equipment vanish back to Oblivion.</li>
-
-    <li>Additionally, if slain while permanently bound to Mundus, a character
-    can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a
-    Legendary Restoration ingredient.</li>
-
+    <li>If slain while permanently bound to Mundus, an Auroran&rsquo;s weapons and armour will be recoverable, otherwise the Auroran&rsquo;s body and equipment vanish back to Oblivion.</li>
+    <li>Additionally, if slain while permanently bound to Mundus, a character can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a Legendary Restoration ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
-  soul_energy: 1200
+  soul_energy: '1200'
   journal: ''
   notes: ''
   threat: majorSolo
@@ -1911,6 +1820,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1941,7 +1851,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '28.0'
+  current_enc: 28
   carry_rating:
     current: 0
     max: 30
@@ -1954,41 +1864,49 @@ system:
       total: 50
       base: 50
       favored: false
+      bonus: 0
     end:
       value: 55
       total: 55
       base: 55
       favored: false
+      bonus: 0
     agi:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     int:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     wp:
       value: 55
       total: 55
       base: 55
       favored: false
+      bonus: 0
     prc:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     prs:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 90
     magic: 85
@@ -2038,17 +1956,19 @@ system:
     bonus: 45
   xp: 0
   wound_threshold:
-    value: '15'
+    value: 15
     base: 15
     bonus: 0
   initiative:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
   speed:
-    value: '13'
+    value: 13
     base: 13
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -2121,7 +2041,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2267,6 +2188,85 @@ system:
       ar: 7
       magic_ar: 3 Magic
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2361,4 +2361,3 @@ prototypeToken:
 _id: gbFr1PPE631AEvUm
 sort: 1400000
 _key: '!actors!gbFr1PPE631AEvUm'
-

@@ -62,17 +62,10 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>On this character's turn, it can consume the life of any nearby
-        thralls/allies it chooses within 30m. The consumed characters
-        immediately die and are unable to be revivified because they are
-        stripped of their essence.&nbsp;</p>
-
-        <p>The characer then gains temporary HP equal to the total remaining HP
-        of the thralls/allies he consumed that last until they are depleted or
-        until the end of the combat encounter.</p>
+        <p>On this character's turn, it can consume the life of any nearby thralls/allies it chooses within 30m. The consumed characters immediately die and are unable to be revivified because they are stripped of their essence.&nbsp;</p>
+        <p>The characer then gains temporary HP equal to the total remaining HP of the thralls/allies he consumed that last until they are depleted or until the end of the combat encounter.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -235,9 +228,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character's spells never backfire and they can cast spells at
-        any level without penalty.</p>
+      description: <p>This character's spells never backfire and they can cast spells at any level without penalty.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -315,11 +306,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -397,10 +384,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to mundane weapons. If the
-        character suffers damage from a weapon/attack without the Magic quality
-        reduce that damage by X after any other mitigation.</p>
+      description: <p>Characters with this trait are resistant to mundane weapons. If the character suffers damage from a weapon/attack without the Magic quality reduce that damage by X after any other mitigation.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -478,11 +462,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -560,13 +540,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are mere walking corpses. They do not
-        breathe, or require organs or correct pressures to function. They are
-        immune to things such as disease, poison, passive wound effects, aging,
-        fatigue, and a number of conditions including but not limited to: dazed,
-        deafened, and organ damage. Use common sense when deciding what can and
-        cannot affect characters with this trait.</p>
+      description: '<p>Characters with this trait are mere walking corpses. They do not breathe, or require organs or correct pressures to function. They are immune to things such as disease, poison, passive wound effects, aging, fatigue, and a number of conditions including but not limited to: dazed, deafened, and organ damage. Use common sense when deciding what can and cannot affect characters with this trait.</p>'
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -644,9 +618,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character does not spend Magicka to cast spells. Instead, they
-        may cast spells for free.</p>
+      description: <p>This character does not spend Magicka to cast spells. Instead, they may cast spells for free.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -724,10 +696,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character can use two word shouts without spending Stamina. They
-        may also test +0 Endurance to avoid spending Stamina on three word
-        shouts.</p>
+      description: <p>This character can use two word shouts without spending Stamina. They may also test +0 Endurance to avoid spending Stamina on three word shouts.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -811,12 +780,9 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
+      description: |-
         <p><em>Treat as Full armor.&nbsp;</em></p>
-
-        <p><em>This mask should have a unique enchantment or effect to make the
-        Dragon Priest powerful, interesting, or thematic. GM's are encouraged to
-        design their own enchantments to suit their needs.</em></p>
+        <p><em>This mask should have a unique enchantment or effect to make the Dragon Priest powerful, interesting, or thematic. GM's are encouraged to design their own enchantments to suit their needs.</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -832,9 +798,7 @@ items:
       excludeENC: false
       magic_ar: 7 Magic
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.aN3hsvyJGDAMPW2n]{Light},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.aN3hsvyJGDAMPW2n]{Light}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: head
       item_cat:
         none: None
@@ -925,22 +889,12 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>This weapon is infused with one of the following effects that may
-        be cast indefinitely for 0 Magicka and always succeeds with 1
-        DoS.&nbsp;</em></p>
-
+      description: |-
+        <p><em>This weapon is infused with one of the following effects that may be cast indefinitely for 0 Magicka and always succeeds with 1 DoS.&nbsp;</em></p>
         <ul>
-
-        <li><strong><em>Frost Bolt III:</em></strong><em> Deals 1d8 Frost
-        damage</em></li>
-
-        <li><strong><em>Fire Bolt III:&nbsp;</em></strong><em>Deals 1d8 Fire
-        damage</em></li>
-
-        <li><strong><em>Shock Bolt III:</em></strong><em> Deals 1d8 Shock
-        damage</em></li>
-
+        <li><strong><em>Frost Bolt III:</em></strong><em> Deals 1d8 Frost damage</em></li>
+        <li><strong><em>Fire Bolt III:&nbsp;</em></strong><em>Deals 1d8 Fire damage</em></li>
+        <li><strong><em>Shock Bolt III:</em></strong><em> Deals 1d8 Shock damage</em></li>
         </ul>
       quantity: 1
       enc: 4
@@ -960,10 +914,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.H74ao7uTiZrIVyUW]{Focus},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.H74ao7uTiZrIVyUW]{Focus}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1065,9 +1016,7 @@ items:
       excludeENC: false
       magic_ar: 6 Magic
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_leg
       item_cat:
         none: None
@@ -1174,9 +1123,7 @@ items:
       excludeENC: false
       magic_ar: 6 Magic
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_leg
       item_cat:
         none: None
@@ -1283,9 +1230,7 @@ items:
       excludeENC: false
       magic_ar: 6 Magic
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_arm
       item_cat:
         none: None
@@ -1392,9 +1337,7 @@ items:
       excludeENC: false
       magic_ar: 6 Magic
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_arm
       item_cat:
         none: None
@@ -1501,9 +1444,7 @@ items:
       excludeENC: false
       magic_ar: 6 Magic
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: body
       item_cat:
         none: None
@@ -1527,7 +1468,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339366537
   modifiedTime: 1732339428995
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1573,46 +1514,21 @@ system:
       value: 0
   race: Draugr, Leader, Undead
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Dragon Priests</h2>
-
-    <p>Dragon Priests are so diverse and characterful, it would be a disservice
-    to rigidly describe them here. Instead, it is up to GMs to develop their own
-    Dragon Priests, since if one is included it is likely going to be a major
-    villain for a campaign and deserves special attention.</p>
-
-    <p>Dragon Priests are both sorcerers, and Tongues, and combine the use of
-    profane magicks with the reality bending potency of the Thu'um. A Dragon
-    Priest, being a creature of the Merethic Era, knows as many Shouts as the GM
-    determines appropriate, up to the full power of the Shout. Additionally, a
-    Dragon Priest is equally proficient in all Schools of magic, and as a result
-    can take spells from any school. The GM is encouraged to create a creative
-    and powerful spell list, and really take advantage of the Imbued with
-    Magicka trait to really go crazy with spells. For example, while a Dragon
-    Priest does not innately have the Fly trait, because it is able to cast
-    without spending Magicka it can effectively have a level 7 Levitate at all
-    times.</p>
-
-    <p>A party needs to be prepared with sufficient antimagic, because a Dragon
-    Priest has no reason to hold back its awe-inspiring destructive powers,
-    because it is not confined to the mortal understandings of magic. Even if a
-    party somehow negates its sorceries, it still has a very powerful Thu'um to
-    reckon with.</p>
-
+    <p>Dragon Priests are so diverse and characterful, it would be a disservice to rigidly describe them here. Instead, it is up to GMs to develop their own Dragon Priests, since if one is included it is likely going to be a major villain for a campaign and deserves special attention.</p>
+    <p>Dragon Priests are both sorcerers, and Tongues, and combine the use of profane magicks with the reality bending potency of the Thu'um. A Dragon Priest, being a creature of the Merethic Era, knows as many Shouts as the GM determines appropriate, up to the full power of the Shout. Additionally, a Dragon Priest is equally proficient in all Schools of magic, and as a result can take spells from any school. The GM is encouraged to create a creative and powerful spell list, and really take advantage of the Imbued with Magicka trait to really go crazy with spells. For example, while a Dragon Priest does not innately have the Fly trait, because it is able to cast without spending Magicka it can effectively have a level 7 Levitate at all times.</p>
+    <p>A party needs to be prepared with sufficient antimagic, because a Dragon Priest has no reason to hold back its awe-inspiring destructive powers, because it is not confined to the mortal understandings of magic. Even if a party somehow negates its sorceries, it still has a very powerful Thu'um to reckon with.</p>
     <h2>Dragon Priest Loot</h2>
-
     <ul>
-
-    <li>GMs should consider the treasure a Dragon Priest has in his sanctum.
-    Additionally, they should design a unique enchantment for his Mask.</li>
-
+    <li>GMs should consider the treasure a Dragon Priest has in his sanctum. Additionally, they should design a unique enchantment for his Mask.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1200'
@@ -1638,6 +1554,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1668,7 +1585,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '26.0'
+  current_enc: 26
   carry_rating:
     current: 0
     max: 26
@@ -1681,41 +1598,49 @@ system:
       total: 40
       base: 40
       favored: false
+      bonus: 0
     end:
       value: 55
       total: 55
       base: 55
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 50
       total: 50
       base: 50
       favored: false
+      bonus: 0
     wp:
       value: 60
       total: 60
       base: 60
       favored: false
+      bonus: 0
     prc:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 60
     magic: 90
@@ -1765,17 +1690,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '15'
+    value: 15
     base: 15
     bonus: 0
   initiative:
-    value: '13'
+    value: 13
     base: 13
     bonus: 0
   speed:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: puny
   size_cat:
     puny: Puny
@@ -1848,7 +1775,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1994,6 +1922,85 @@ system:
       ar: 6
       magic_ar: 6 Magic
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2088,4 +2095,3 @@ prototypeToken:
 _id: ZFeldzF3may2Qk6o
 sort: 2200000
 _key: '!actors!ZFeldzF3may2Qk6o'
-

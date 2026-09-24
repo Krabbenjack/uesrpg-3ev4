@@ -71,11 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait automatically starts a grapple when it
-        strikes with it&rsquo;s jaws/mouth. If the target successfully Counter
-        Attacks a Bite, the Counter Attack ignores this character's AR and
-        Natural Toughness.</p>
+      description: <p>A character with this trait automatically starts a grapple when it strikes with it&rsquo;s jaws/mouth. If the target successfully Counter Attacks a Bite, the Counter Attack ignores this character's AR and Natural Toughness.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -153,10 +149,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -234,10 +227,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character is immune to any of the effects of the thing specified
-        in parenthesis. The character may have multiple instances of this trait
-        for different effects.</p>
+      description: <p>The character is immune to any of the effects of the thing specified in parenthesis. The character may have multiple instances of this trait for different effects.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -315,15 +305,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This creature ignore all movement restrictions from the Hidden
-        condition. If it kills a target with a melee attack while Hidden, it can
-        attempt a Stealth test opposed by the Observe test of anyone that could
-        have seen the attack. If successful, it retains the Hidden
-        condition.&nbsp;</p>
-
-        <p>Additionally, when this creature successfully rolls Stealth, it
-        scores a minimum of 4 DoS.</p>
+      description: |-
+        <p>This creature ignore all movement restrictions from the Hidden condition. If it kills a target with a melee attack while Hidden, it can attempt a Stealth test opposed by the Observe test of anyone that could have seen the attack. If successful, it retains the Hidden condition.&nbsp;</p>
+        <p>Additionally, when this creature successfully rolls Stealth, it scores a minimum of 4 DoS.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -401,9 +385,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character moves at 3x their Speed when using the Dash
-        action.</p>
+      description: <p>This character moves at 3x their Speed when using the Dash action.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -481,10 +463,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to mundane weapons. If the
-        character suffers damage from a weapon/attack without the Magic quality
-        reduce that damage by X after any other mitigation.</p>
+      description: <p>Characters with this trait are resistant to mundane weapons. If the character suffers damage from a weapon/attack without the Magic quality reduce that damage by X after any other mitigation.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -562,9 +541,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait deny those they are engaged in combat with
-        to use the Disengage action.</p>
+      description: <p>Characters with this trait deny those they are engaged in combat with to use the Disengage action.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -633,12 +610,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">If this character successfully bite a
-        target, the bitten Hit Location counts as being Crippled until the
-        target removes the character by breaking out of the Grapple.</span></p>
+        <p><span style="color: #191813;">If this character successfully bite a target, the bitten Hit Location counts as being Crippled until the target removes the character by breaking out of the Grapple.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -723,9 +697,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>After making a successful melee attack while Hidden, this character
-        can add 1d6+3 damage that ignores armor.</p>
+      description: <p>After making a successful melee attack while Hidden, this character can add 1d6+3 damage that ignores armor.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -798,12 +770,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP + 1 AP</p>
-
-        <p>As an Action, this character can spend 1 SP to breathe a great swathe
-        of fire in an 5m cone. The attack deals 1d10 fire damage to all targets
-        in the area.</p>
+        <p>As an Action, this character can spend 1 SP to breathe a great swathe of fire in an 5m cone. The attack deals 1d10 fire damage to all targets in the area.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -888,10 +857,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character with this trait is naturally tough, and reduces
-        incoming damage by X. This functions like AR, and reduces all damage
-        types, but it does not count as armor.</p>
+      description: <p>The character with this trait is naturally tough, and reduces incoming damage by X. This functions like AR, and reduces all damage types, but it does not count as armor.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1203,9 +1169,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1224,9 +1188,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        Fire, @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: Fire, @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
       charge:
         value: 0
         max: 0
@@ -1245,7 +1207,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338844196
   modifiedTime: 1732338847856
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1291,36 +1253,23 @@ system:
       value: 0
   race: Hound, Daedra
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Hell Hounds</h2>
-
-    <p>Hell Hounds are not tied to the service of any particular Daedric Prince,
-    and as a result fall under Peryite&rsquo;s protection. The Hell Hounds stalk
-    through shadows to chase their quarry. Who sends them, or why the pursue
-    their prey are entirely unknown.</p>
-
+    <p>Hell Hounds are not tied to the service of any particular Daedric Prince, and as a result fall under Peryite&rsquo;s protection. The Hell Hounds stalk through shadows to chase their quarry. Who sends them, or why the pursue their prey are entirely unknown.</p>
     <h2>Hell Hound Loot</h2>
-
     <ul>
-
-    <li>If slain while permanently bound to Mundus, a character can test Alchemy
-    at -40 to harvest its Shadow Ichor, which is a Legendary Illusion
-    ingredient, otherwise the Hell Hound will vanish back to Oblivion.</li>
-
-    <li>Additionally, if slain while permanently bound to Mundus, a character
-    can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a
-    Legendary Restoration ingredient.</li>
-
+    <li>If slain while permanently bound to Mundus, a character can test Alchemy at -40 to harvest its Shadow Ichor, which is a Legendary Illusion ingredient, otherwise the Hell Hound will vanish back to Oblivion.</li>
+    <li>Additionally, if slain while permanently bound to Mundus, a character can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a Legendary Restoration ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
-  soul_energy: 200
+  soul_energy: '200'
   journal: ''
   notes: ''
   threat: majorSolo
@@ -1343,6 +1292,7 @@ system:
     natToughness: 3
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1373,7 +1323,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '2.0'
+  current_enc: 2
   carry_rating:
     current: 0
     max: 18
@@ -1386,41 +1336,49 @@ system:
       total: 0
       base: 30
       favored: false
+      bonus: 0
     end:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     agi:
       value: 50
       total: 0
       base: 50
       favored: false
+      bonus: 0
     int:
       value: 15
       total: 0
       base: 15
       favored: false
+      bonus: 0
     wp:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     prc:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 0
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 60
     magic: 0
@@ -1470,17 +1428,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   initiative:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
   speed:
-    value: '13'
+    value: 13
     base: 13
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1553,7 +1513,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1699,6 +1660,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1793,4 +1833,3 @@ prototypeToken:
 _id: f2f10zm7TAap1QBN
 sort: 700000
 _key: '!actors!f2f10zm7TAap1QBN'
-

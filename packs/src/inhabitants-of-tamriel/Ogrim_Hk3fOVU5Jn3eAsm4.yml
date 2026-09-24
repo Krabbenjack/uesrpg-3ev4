@@ -71,10 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -152,9 +149,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait heal very quickly. They may make an
-        Endurance test at the start of each round to heal X HP.</p>
+      description: <p>Characters with this trait heal very quickly. They may make an Endurance test at the start of each round to heal X HP.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -232,10 +227,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to mundane weapons. If the
-        character suffers damage from a weapon/attack without the Magic quality
-        reduce that damage by X after any other mitigation.</p>
+      description: <p>Characters with this trait are resistant to mundane weapons. If the character suffers damage from a weapon/attack without the Magic quality reduce that damage by X after any other mitigation.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -313,9 +305,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are immune to the Stun and Dazed
-        conditions.</p>
+      description: <p>Characters with this trait are immune to the Stun and Dazed conditions.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -384,19 +374,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 2 SP</p>
-
-        <p>Upon taking damage, the Ogrim can spend 2 Stamina Points immediately
-        to negate all damage from the attack. If the attacking weapon has the
-        Impaling quality, the damage is only halved instead. When a creature's
-        melee attack is affected by this, they become Dazed for one round as
-        they stagger back. If the weapon has the Impaling quality, the wielder
-        must immediately pass a +30 Luck test or else the weapon is stuck in the
-        Ogrim's rolling mounds of fat, and the character is disarmed. Retrieving
-        the stuck weapon requires a Take Weapon special action that the Ogrim
-        does not oppose, but the character must still succeed on their Unarmed
-        or Athletics test.</p>
+        <p>Upon taking damage, the Ogrim can spend 2 Stamina Points immediately to negate all damage from the attack. If the attacking weapon has the Impaling quality, the damage is only halved instead. When a creature's melee attack is affected by this, they become Dazed for one round as they stagger back. If the weapon has the Impaling quality, the wielder must immediately pass a +30 Luck test or else the weapon is stuck in the Ogrim's rolling mounds of fat, and the character is disarmed. Retrieving the stuck weapon requires a Take Weapon special action that the Ogrim does not oppose, but the character must still succeed on their Unarmed or Athletics test.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -481,10 +461,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character with this trait is naturally tough, and reduces
-        incoming damage by X. This functions like AR, and reduces all damage
-        types, but it does not count as armor.</p>
+      description: <p>The character with this trait is naturally tough, and reduces incoming damage by X. This functions like AR, and reduces all damage types, but it does not count as armor.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -562,10 +539,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character has increased abilities compared to others. Increase
-        their HP, Wound Threshold (WT) and other relevant values using the
-        fields on this trait sheet.</p>
+      description: <p>This character has increased abilities compared to others. Increase their HP, Wound Threshold (WT) and other relevant values using the fields on this trait sheet.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -877,9 +851,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -898,10 +870,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -920,7 +889,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338856436
   modifiedTime: 1732338856436
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -966,40 +935,23 @@ system:
       value: 0
   race: Ogrim, Daedra
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Ogrim</h2>
-
-    <p>These lumbering, nipple-pierced Daedra can be found in the service of
-    Malacath mostly, but is sometimes affiliated with other Daedric princes such
-    as Molag Bal. They are very known to harass mortals, and are very hard to
-    kill because of their natural resistance to non-magical weapons.
-    Slow-witted, slow-bodied, and ponderous creatures, they are nonetheless
-    deadly to any foolish enough to wander too closely to the monstrous brutes.
-    They are a perfect frontline force for any seasoned conjurer.</p>
-
+    <p>These lumbering, nipple-pierced Daedra can be found in the service of Malacath mostly, but is sometimes affiliated with other Daedric princes such as Molag Bal. They are very known to harass mortals, and are very hard to kill because of their natural resistance to non-magical weapons. Slow-witted, slow-bodied, and ponderous creatures, they are nonetheless deadly to any foolish enough to wander too closely to the monstrous brutes. They are a perfect frontline force for any seasoned conjurer.</p>
     <h2>Ogrim Loot</h2>
-
     <ul>
-
-    <li>If slain while permanently bound to Mundus, a character can test Alchemy
-    at -10 to harvest the two Ogrim&rsquo;s Horns, which are each a Rare
-    Alteration ingredient. If not Bound to Mundus, the Ogrim simply
-    vanishes.</li>
-
-    <li>Additionally, if slain while permanently bound to Mundus, a character
-    can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a
-    Legendary Restoration ingredient.</li>
-
+    <li>If slain while permanently bound to Mundus, a character can test Alchemy at -10 to harvest the two Ogrim&rsquo;s Horns, which are each a Rare Alteration ingredient. If not Bound to Mundus, the Ogrim simply vanishes.</li>
+    <li>Additionally, if slain while permanently bound to Mundus, a character can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a Legendary Restoration ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
-  soul_energy: 1000
+  soul_energy: '1000'
   journal: ''
   notes: ''
   threat: majorGroup
@@ -1022,6 +974,7 @@ system:
     natToughness: 6
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1052,7 +1005,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '2.0'
+  current_enc: 2
   carry_rating:
     current: 0
     max: 36
@@ -1065,41 +1018,49 @@ system:
       total: 60
       base: 60
       favored: false
+      bonus: 0
     end:
       value: 60
       total: 60
       base: 60
       favored: false
+      bonus: 0
     agi:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     int:
       value: 20
       total: 20
       base: 20
       favored: false
+      bonus: 0
     wp:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     prc:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 80
     magic: 40
@@ -1149,17 +1110,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '19'
+    value: 19
     base: 19
     bonus: 3
   initiative:
-    value: '8'
+    value: 8
     base: 8
     bonus: 0
   speed:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: huge
   size_cat:
     puny: Puny
@@ -1232,7 +1195,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1378,6 +1342,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1472,4 +1515,3 @@ prototypeToken:
 _id: Hk3fOVU5Jn3eAsm4
 sort: 0
 _key: '!actors!Hk3fOVU5Jn3eAsm4'
-

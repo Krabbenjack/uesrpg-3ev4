@@ -63,11 +63,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">If this character successfully hits a
-        target, the character treats the Hit location as Grappled.</span></p>
+        <p><span style="color: #191813;">If this character successfully hits a target, the character treats the Hit location as Grappled.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -152,9 +150,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character can breathe water, and ignores the skill cap placed on
-        his combat rolls by his Athletics skill when fighting in water.</p>
+      description: <p>The character can breathe water, and ignores the skill cap placed on his combat rolls by his Athletics skill when fighting in water.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -232,11 +228,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character has no need to make Survival skill tests in their
-        natural habitat, but must test Willpower to avoid fleeing combat if the
-        GM feels that it&rsquo;s ap-propriate (for example, if the creature
-        would feel intimidated by its foe).</p>
+      description: <p>The character has no need to make Survival skill tests in their natural habitat, but must test Willpower to avoid fleeing combat if the GM feels that it&rsquo;s ap-propriate (for example, if the creature would feel intimidated by its foe).</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -314,11 +306,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait have a chance to resist diseases. Whenever
-        the character would be infected by a common disease, roll a d100. If the
-        roll is less than or equal to X, the character doesn&rsquo;t get the
-        disease.</p>
+      description: <p>Characters with this trait have a chance to resist diseases. Whenever the character would be infected by a common disease, roll a d100. If the roll is less than or equal to X, the character doesn&rsquo;t get the disease.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -557,16 +545,9 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
+      description: |-
         <ul>
-
-        <li>On a <strong>+20 Survival test,</strong> a character can, over the
-        course of a Long Rest, turn a mudcrab shell into one piece of Full
-        Mudcrab Chitin armour. Alternatively, creating a Full Mudcrab Chitin
-        chest piece requires two mudcrab hides. Mudcrab Chitin armour is exactly
-        the same as regular Chitin, but provides 1 Frost Resistance instead of 1
-        Fire Resistance.</li>
-
+        <li>On a <strong>+20 Survival test,</strong> a character can, over the course of a Long Rest, turn a mudcrab shell into one piece of Full Mudcrab Chitin armour. Alternatively, creating a Full Mudcrab Chitin chest piece requires two mudcrab hides. Mudcrab Chitin armour is exactly the same as regular Chitin, but provides 1 Frost Resistance instead of 1 Fire Resistance.</li>
         </ul>
       quantity: 1
       enc: 1
@@ -678,9 +659,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p>This meat will spoil if not preserved. After eating mudcrab meat, a
-        character must test Endurance +20 or contract Common Disease.</p>
+      description: <p>This meat will spoil if not preserved. After eating mudcrab meat, a character must test Endurance +20 or contract Common Disease.</p>
       quantity: 1
       enc: 0
       totalENC: 0
@@ -943,7 +922,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732336019591
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -990,48 +969,22 @@ system:
       value: 0
   race: Mudcrab, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Mudcrabs</h2>
-
-    <p>Mudcrabs are a ubiquitous coastal and river pest found all across the
-    breadth of the Empire and beyond. From Morrowind, to Skyrim, to the
-    heartlands of Cyrodiil, all the way to the golden yellow coasts of
-    Summerset, mudcrabs can be found. Mudcrabs often lurk in the shallow waters,
-    or on the waterfronts of virtually any body of salt or fresh water, sifting
-    the sand with their filter mouths for food.</p>
-
-    <p>Mudcrabs are often docile, or at least nonconfrontational, but many
-    otherwise unaware travellers or fishers find themselves literally tripping
-    and stumbling on mudcrabs they thought were just rocks or driftwood, to
-    which the mudcrabs do not take too kindly. Mudcrabs will cry out to rally
-    other mudcrabs in the area to repell aggressors from their feeding grounds
-    if they feel threatened, and will pursue targets an unreasonable distance
-    while giving chase.</p>
-
+    <p>Mudcrabs are a ubiquitous coastal and river pest found all across the breadth of the Empire and beyond. From Morrowind, to Skyrim, to the heartlands of Cyrodiil, all the way to the golden yellow coasts of Summerset, mudcrabs can be found. Mudcrabs often lurk in the shallow waters, or on the waterfronts of virtually any body of salt or fresh water, sifting the sand with their filter mouths for food.</p>
+    <p>Mudcrabs are often docile, or at least nonconfrontational, but many otherwise unaware travellers or fishers find themselves literally tripping and stumbling on mudcrabs they thought were just rocks or driftwood, to which the mudcrabs do not take too kindly. Mudcrabs will cry out to rally other mudcrabs in the area to repell aggressors from their feeding grounds if they feel threatened, and will pursue targets an unreasonable distance while giving chase.</p>
     <h2>Mudcrab Loot&nbsp;</h2>
-
     <ul>
-
-    <li>On a +30 Survival test, a character can remove the mudcrab's shell,
-    worth 15 drakes, over the course of a Short Rest. Failing this test spoils
-    the chitin and halves its worth.&nbsp;</li>
-
-    <li>On a +30 Simple Survival test, a character can harvest meat from a
-    mudcrab over a Short Rest. The character harvest DoS/2 days' rations of
-    meat, which will spoil if not preserved. After eating mudcrab meat, a
-    character must test Endurance +20 or contract Common Disease.&nbsp;</li>
-
-    <li>On a +0 Alchemy test over a Short Rest, a character can attempt to
-    harvest the Mudcrab's claw, which is a Common Restoration ingredient. If
-    they score greater than one DoS, they harvest two claws instead.</li>
-
+    <li>On a +30 Survival test, a character can remove the mudcrab's shell, worth 15 drakes, over the course of a Short Rest. Failing this test spoils the chitin and halves its worth.&nbsp;</li>
+    <li>On a +30 Simple Survival test, a character can harvest meat from a mudcrab over a Short Rest. The character harvest DoS/2 days' rations of meat, which will spoil if not preserved. After eating mudcrab meat, a character must test Endurance +20 or contract Common Disease.&nbsp;</li>
+    <li>On a +0 Alchemy test over a Short Rest, a character can attempt to harvest the Mudcrab's claw, which is a Common Restoration ingredient. If they score greater than one DoS, they harvest two claws instead.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '20'
@@ -1057,6 +1010,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1087,7 +1041,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '1.0'
+  current_enc: 1
   carry_rating:
     current: 0
     max: 8
@@ -1097,52 +1051,60 @@ system:
   characteristics:
     str:
       value: 15
-      total: null
+      total: 15
       base: 15
       favored: false
+      bonus: 0
     end:
       value: 24
-      total: null
+      total: 24
       base: 24
       favored: false
+      bonus: 0
     agi:
       value: 15
-      total: null
+      total: 15
       base: 15
       favored: false
+      bonus: 0
     int:
       value: 10
-      total: null
+      total: 10
       base: 10
       favored: false
+      bonus: 0
     wp:
       value: 10
-      total: null
+      total: 10
       base: 10
       favored: false
+      bonus: 0
     prc:
       value: 25
-      total: null
+      total: 25
       base: 25
       favored: false
+      bonus: 0
     prs:
       value: 5
-      total: null
+      total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
-      value: null
-      total: null
+      value: 0
+      total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 35
-    magic: null
+    magic: 0
     evade: 15
     observe: 25
     stealth: 70
-    knowledge: null
-    social: null
+    knowledge: 0
+    social: 0
     physical: 25
     commerce: 0
     profession1: 0
@@ -1184,17 +1146,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '4'
+    value: 4
     base: 4
     bonus: 0
   initiative:
-    value: '4'
+    value: 4
     base: 4
     bonus: 0
   speed:
-    value: '3'
+    value: 3
     base: 3
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: tiny
   size_cat:
     puny: Puny
@@ -1243,21 +1207,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1267,7 +1231,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1413,6 +1378,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1505,4 +1549,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!iyVEQh8uRJDb9ypL'
-

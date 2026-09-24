@@ -72,10 +72,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character with this trait is naturally tough, and reduces
-        incoming damage by X. This functions like AR, and reduces all damage
-        types, but it does not count as armor.</p>
+      description: <p>The character with this trait is naturally tough, and reduces incoming damage by X. This functions like AR, and reduces all damage types, but it does not count as armor.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -144,13 +141,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>When this creature makes its Regeneration roll at the start of its
-        turn, it can spend 1 SP to gain an additional +2d10 HP. This cannot be
-        used while suffering from the Burning condition or if this character
-        took Fire damage within 1 Round.</p>
+        <p>When this creature makes its Regeneration roll at the start of its turn, it can spend 1 SP to gain an additional +2d10 HP. This cannot be used while suffering from the Burning condition or if this character took Fire damage within 1 Round.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -226,13 +219,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>As part of a melee attack, this character can strike up to 3 targets
-        with its melee attack as a single attack. Roll once for the attack, and
-        resolve damage separately against all struck targets. This counts as an
-        AoE.</p>
+        <p>As part of a melee attack, this character can strike up to 3 targets with its melee attack as a single attack. Roll once for the attack, and resolve damage separately against all struck targets. This counts as an AoE.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -317,10 +306,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are diseased, and if they deal a wound to
-        another character with their natural weapons then that character must
-        test Endurance +/- X or contract a common disease.</p>
+      description: <p>Characters with this trait are diseased, and if they deal a wound to another character with their natural weapons then that character must test Endurance +/- X or contract a common disease.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -398,9 +384,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character moves at 3x their Speed when using the Dash
-        action.</p>
+      description: <p>This character moves at 3x their Speed when using the Dash action.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -478,9 +462,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait heal very quickly. They may make an
-        Endurance test at the start of each round to heal X HP.</p>
+      description: <p>Characters with this trait heal very quickly. They may make an Endurance test at the start of each round to heal X HP.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -558,9 +540,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are immune to the Stun and Dazed
-        conditions.</p>
+      description: <p>Characters with this trait are immune to the Stun and Dazed conditions.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -638,9 +618,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Requires (x) Head Wounds to Blind. Additionally, attempts to Blind
-        are at a -20.</p>
+      description: <p>Requires (x) Head Wounds to Blind. Additionally, attempts to Blind are at a -20.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -718,12 +696,8 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are weak to a certain damage type. They
-        increase damage of * type by X after any other mitigation, and suffer a
-        -10 penalty per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
-
+      description: |-
+        <p>Characters with this trait are weak to a certain damage type. They increase damage of * type by X after any other mitigation, and suffer a -10 penalty per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
         <p>This overrides Natural Toughness.</p>
       halfSpeed: false
       addHalfSpeed: false
@@ -802,11 +776,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -884,9 +854,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with trait roll damage twice and choose the higher
-        value.</p>
+      description: <p>Characters with trait roll damage twice and choose the higher value.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1067,11 +1035,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1089,7 +1053,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732335996360
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1136,58 +1100,25 @@ system:
       value: 0
   race: Troll, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Trolls</h2>
-
-    <p>Trolls are massive, ape-like apex predators with three eyes and
-    regenerative properties. They can be found all across Tamriel, but are more
-    common in the colder and temperate climates. They make permanent dens in
-    caves or under large rocky outcroppings, typically deep in the wilderness,
-    but it is not uncommon that a troll establishes its lair near civilization
-    to make preying upon it easier.</p>
-
-    <p>Although unintelligent and animalistic, some trolls are capable of
-    learning basic Tamrielic and literacy. They occasionally band into simple
-    tribes to raid towns, but these tribes quickly fall apart.</p>
-
-    <p>It is common knowledge that trolls are vulnerable to fire and flames,
-    which prevents their flesh from knitting itself back together, at least for
-    a time.</p>
-
+    <p>Trolls are massive, ape-like apex predators with three eyes and regenerative properties. They can be found all across Tamriel, but are more common in the colder and temperate climates. They make permanent dens in caves or under large rocky outcroppings, typically deep in the wilderness, but it is not uncommon that a troll establishes its lair near civilization to make preying upon it easier.</p>
+    <p>Although unintelligent and animalistic, some trolls are capable of learning basic Tamrielic and literacy. They occasionally band into simple tribes to raid towns, but these tribes quickly fall apart.</p>
+    <p>It is common knowledge that trolls are vulnerable to fire and flames, which prevents their flesh from knitting itself back together, at least for a time.</p>
     <h2>Troll Loot</h2>
-
     <ul>
-
-    <li>On a -10 Survival test, a character can remove the troll's hide, worth
-    150 drakes, over the course of a Short Rest. Frost troll hides are worth 300
-    drakes. Both are ENC 2. Failing this test spoils the pelt, halving its
-    worth.</li>
-
-    <li>On a +10 Survival test, a character can, over the course of a Long Rest,
-    turn a troll hide into two pieces of Full Troll Hide armour, or one Full
-    Troll Hide chest piece. Troll Hide armour is exactly the same as regular
-    Hide but has +2 AR, and Weakness (Fire, 1). Frost Troll Hide armour gives an
-    additional 3 Frost Resistance on the equipped location. Failing this test
-    spoils the pelt instead, rendering it useless and halving its worth.</li>
-
-    <li>On a +0 Alchemy test, a character can scrape the troll's bones for one
-    dose of troll fat, which is an Extremely Rare Restoration and Destruction
-    ingredient.&nbsp;</li>
-
-    <li>On a +20 Survival test, a character can fashion a Troll Skull Helm. A
-    Troll Skull Helm is a Full Bone helmet with +2 Magic AR, that grants the
-    wearer the Thick Skull trait while worn.&nbsp;</li>
-
-    <li>Armour made of Troll Bone has +2 Magic AR, and Troll Bone weapons have
-    the Magic trait.</li>
-
+    <li>On a -10 Survival test, a character can remove the troll's hide, worth 150 drakes, over the course of a Short Rest. Frost troll hides are worth 300 drakes. Both are ENC 2. Failing this test spoils the pelt, halving its worth.</li>
+    <li>On a +10 Survival test, a character can, over the course of a Long Rest, turn a troll hide into two pieces of Full Troll Hide armour, or one Full Troll Hide chest piece. Troll Hide armour is exactly the same as regular Hide but has +2 AR, and Weakness (Fire, 1). Frost Troll Hide armour gives an additional 3 Frost Resistance on the equipped location. Failing this test spoils the pelt instead, rendering it useless and halving its worth.</li>
+    <li>On a +0 Alchemy test, a character can scrape the troll's bones for one dose of troll fat, which is an Extremely Rare Restoration and Destruction ingredient.&nbsp;</li>
+    <li>On a +20 Survival test, a character can fashion a Troll Skull Helm. A Troll Skull Helm is a Full Bone helmet with +2 Magic AR, that grants the wearer the Thick Skull trait while worn.&nbsp;</li>
+    <li>Armour made of Troll Bone has +2 Magic AR, and Troll Bone weapons have the Magic trait.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: ''
@@ -1213,6 +1144,7 @@ system:
     natToughness: 4
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1243,7 +1175,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '0.0'
+  current_enc: 0
   carry_rating:
     current: 0
     max: 30
@@ -1256,49 +1188,57 @@ system:
       total: 0
       base: 50
       favored: false
+      bonus: 0
     end:
       value: 50
       total: 0
       base: 50
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 10
       total: 0
       base: 10
       favored: false
+      bonus: 0
     wp:
       value: 45
       total: 0
       base: 45
       favored: false
+      bonus: 0
     prc:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 0
       base: 5
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 80
-    magic: null
+    magic: 0
     evade: 50
     observe: 40
     stealth: 20
-    knowledge: null
-    social: null
+    knowledge: 0
+    social: 0
     physical: 70
     commerce: 0
     profession1: 0
@@ -1340,17 +1280,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '16'
+    value: 16
     base: 16
     bonus: 2
   initiative:
-    value: '8'
+    value: 8
     base: 8
     bonus: 0
   speed:
-    value: '13'
+    value: 13
     base: 13
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: large
   size_cat:
     puny: Puny
@@ -1399,21 +1341,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1423,6 +1365,7 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
+      rank: ''
   talents: ''
   traits: ''
   powers: ''
@@ -1569,6 +1512,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1661,4 +1683,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!PVyCxUqHHMPs4CSw'
-

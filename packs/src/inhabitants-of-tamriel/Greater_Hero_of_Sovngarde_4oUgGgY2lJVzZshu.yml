@@ -201,11 +201,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}'
       charge:
         value: 0
         max: 0
@@ -290,10 +286,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Replace 'Ammunition' with Bolts or Arrows.</p>
       quantity: 12
       enc: 0.1
@@ -387,10 +381,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Replace 'Ammunition' with Bolts or Arrows.</p>
       quantity: 12
       enc: 0.1
@@ -486,9 +478,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -507,9 +497,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (2),
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (2), @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -614,9 +602,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -702,9 +688,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><span style="color: #191813;"><em>An ancient nordic shield that once
-        belonged to a powerful warrior.</em></span></p>
+      description: '<p><span style="color: #191813;"><em>An ancient nordic shield that once belonged to a powerful warrior.</em></span></p>'
       quantity: 1
       enc: 3
       totalENC: 0
@@ -811,12 +795,9 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Can be either partial or full armor type.</em></p>
-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Full armor has 4 AR and 1 Frost MR.&nbsp;</em></p>
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Can be either partial or full armor type.</em></p>
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Full armor has 4 AR and 1 Frost MR.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -923,12 +904,9 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Can be either partial or full armor type.</em></p>
-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Full armor has 4 AR and 1 Frost MR.&nbsp;</em></p>
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Can be either partial or full armor type.</em></p>
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Full armor has 4 AR and 1 Frost MR.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1022,11 +1000,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>This character can add their Strength Bonus to their melee weapon
-        attack damage.</p>
+        <p>This character can add their Strength Bonus to their melee weapon attack damage.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -1104,11 +1080,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>The character can reduce the Reload quality of ranged weapons they
-        wield by 1.</p>
+        <p>The character can reduce the Reload quality of ranged weapons they wield by 1.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -1185,21 +1159,13 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 0 SP</p>
-
-        <p>The Greater Hero of Sovngarde can use an Action to Shout. With a -10
-        Magic Test, the Hero knows all three shouts below:</p>
-
+        <p>The Greater Hero of Sovngarde can use an Action to Shout. With a -10 Magic Test, the Hero knows all three shouts below:</p>
         <ul>
-
         <li>@Compendium[uesrpg-d100.powers.XenR9oO1bar2KGoM]{Battle Fury}</li>
-
         <li>@Compendium[uesrpg-d100.powers.fwRNKJ7sGoKoou6N]{Fire Breath}</li>
-
-        <li>@Compendium[uesrpg-d100.powers.bfYSS268E4MF5GrX]{Unrelenting
-        Force}</li>
-
+        <li>@Compendium[uesrpg-d100.powers.bfYSS268E4MF5GrX]{Unrelenting Force}</li>
         </ul>
       dailyUse: false
       source: Scroll of Thu'um
@@ -1287,9 +1253,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character is immune to the effects of disease, fear, poison, and
-        any magic that would affect his mind (all illusion magic).</p>
+      description: <p>The character is immune to the effects of disease, fear, poison, and any magic that would affect his mind (all illusion magic).</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1369,11 +1333,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1453,16 +1413,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character has been summoned into this world through magic. They
-        must obey the verbal commands of their master, who summoned them. If
-        their master is killed, they are banished back to their realm
-        instantly.</p>
-
-        <p>Summoned characters cannot attack their masters unless it is to
-        defend themselves. If this character is killed, they do not die in the
-        conventional sense: instead they are banished back to their realm of
-        origin, along with any items that may be on them at the time.</p>
+      description: |-
+        <p>The character has been summoned into this world through magic. They must obey the verbal commands of their master, who summoned them. If their master is killed, they are banished back to their realm instantly.</p>
+        <p>Summoned characters cannot attack their masters unless it is to defend themselves. If this character is killed, they do not die in the conventional sense: instead they are banished back to their realm of origin, along with any items that may be on them at the time.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1542,13 +1495,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are mere walking corpses. They do not
-        breathe, or require organs or correct pressures to function. They are
-        immune to things such as disease, poison, passive wound effects, aging,
-        fatigue, and a number of conditions including but not limited to: dazed,
-        deafened, and organ damage. Use common sense when deciding what can and
-        cannot affect characters with this trait.</p>
+      description: '<p>Characters with this trait are mere walking corpses. They do not breathe, or require organs or correct pressures to function. They are immune to things such as disease, poison, passive wound effects, aging, fatigue, and a number of conditions including but not limited to: dazed, deafened, and organ damage. Use common sense when deciding what can and cannot affect characters with this trait.</p>'
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1627,10 +1574,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Can only be damaged by Magic weapons or spells. Attacks from Warrior
-        Spirits ignore all AR from any armor that does not have the Magic
-        quality, and cannot be blocked by shields without that quality.</p>
+      description: <p>Can only be damaged by Magic weapons or spells. Attacks from Warrior Spirits ignore all AR from any armor that does not have the Magic quality, and cannot be blocked by shields without that quality.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1906,7 +1850,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339391825
   modifiedTime: 1732339428995
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1952,7 +1896,7 @@ system:
       value: 0
   race: Hero of Sovngarde, Spirit
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
@@ -1984,6 +1928,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -2027,41 +1972,49 @@ system:
       total: 60
       base: 60
       favored: false
+      bonus: 0
     end:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     agi:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     int:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     wp:
       value: 50
       total: 50
       base: 50
       favored: false
+      bonus: 0
     prc:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 90
     magic: 90
@@ -2100,6 +2053,7 @@ system:
   luck_points:
     value: 0
     max: 0
+    bonus: 0
   stamina:
     value: 4
     max: 0
@@ -2121,6 +2075,8 @@ system:
     value: 0
     base: 0
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -2193,6 +2149,7 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
+      rank: ''
   talents: ''
   traits: ''
   powers: ''
@@ -2208,6 +2165,85 @@ system:
   storeName: ''
   priceMod: 0
   fatigueLevel: 0
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   name: Heroes of Sovngarde
   displayName: 20
@@ -2287,4 +2323,3 @@ prototypeToken:
 _id: 4oUgGgY2lJVzZshu
 sort: 800000
 _key: '!actors!4oUgGgY2lJVzZshu'
-

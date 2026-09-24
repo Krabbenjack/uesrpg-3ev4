@@ -62,13 +62,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 2 SP +1 AP</p>
-
-        <p>If caught in melee, this character can make an opposed Acrobatics
-        roll vs the targets Combat Style or Athletics in order to move up to 6
-        meters away, and then perform a Free Action attack with any one of its
-        ranged weapons.</p>
+        <p>If caught in melee, this character can make an opposed Acrobatics roll vs the targets Combat Style or Athletics in order to move up to 6 meters away, and then perform a Free Action attack with any one of its ranged weapons.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -153,9 +149,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">Reduce all falls by 5 meters, and is
-        immune to becoming prone unless physically restrained.</span></p>
+      description: '<p><span style="color: #191813;">Reduce all falls by 5 meters, and is immune to becoming prone unless physically restrained.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -237,12 +231,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">Can perform a ranged attack as a free
-        action </span><span style="color: #191813;">after taking the Dash Action
-        but at a -10 penalty, but likewise </span><span style="color:
-        #191813;">inflicts a -10 penalty to all incoming ranged attacks on the
-        </span><span style="color: #191813;">same round.</span></p>
+      description: '<p><span style="color: #191813;">Can perform a ranged attack as a free action </span><span style="color: #191813;">after taking the Dash Action but at a -10 penalty, but likewise </span><span style="color: #191813;">inflicts a -10 penalty to all incoming ranged attacks on the </span><span style="color: #191813;">same round.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -324,9 +313,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character does not track magicka,
-        and can instead cast each spell it knows once.</span></p>
+      description: '<p><span style="color: #191813;">This character does not track magicka, and can instead cast each spell it knows once.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -415,12 +402,9 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">*Base damage is the wielder's Natural Weapon damage.</em></p>
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">*Base damage is the wielder's Natural Weapon damage.</em></p>
       quantity: 1
       enc: 1
       totalENC: 0
@@ -439,10 +423,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (1),
-        @Compendium[uesrpg-revision.journal.zlB1i3aexZMAh6yZ]{Hand to Hand},
-        @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (1), @Compendium[uesrpg-revision.journal.zlB1i3aexZMAh6yZ]{Hand to Hand}, @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}'
       charge:
         value: 0
         max: 0
@@ -529,9 +510,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -550,10 +529,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness},
-        @Compendium[uesrpg-revision.journal.rOEKxH0jiC62uvFH]{Thrown} (5/10/15),
-        @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}
+      qualities: '@Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness}, @Compendium[uesrpg-revision.journal.rOEKxH0jiC62uvFH]{Thrown} (5/10/15), @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}'
       charge:
         value: 0
         max: 0
@@ -640,9 +616,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -661,9 +635,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (1),
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (1), @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -749,10 +721,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Rename 'Ammunition' to 'Arrow' or 'Bolt'.</p>
       quantity: 10
       enc: 0.1
@@ -847,10 +817,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Rename 'Ammunition' to 'Arrow' or 'Bolt'.</p>
       quantity: 10
       enc: 0.1
@@ -946,12 +914,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1059,12 +1022,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1172,12 +1130,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1285,12 +1238,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1398,12 +1346,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1511,12 +1454,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1572,89 +1510,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>The next time the caster jumps within 1 minute they may jump [Spell
-        Strength] meters higher or further.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>The next time the caster jumps within 1 minute they may jump [Spell Strength] meters higher or further.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 10.0153%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 9.15877%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 9.15881%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 9.37287%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 8.85101%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 8.63689%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 9.4269%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 10.0153%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 9.15877%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 9.15881%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 9.37287%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 8.85101%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 8.63689%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 9.4269%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 10.0153%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 9.15877%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 9.15881%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.37287%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 8.85101%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 8.63689%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">8</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 10.0153%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 9.15877%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 9.15881%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 9.37287%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 8.85101%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 8.63689%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">6</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -1701,90 +1592,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>The caster chooses a locked door or container within 1 meter. If the
-        extended test threshold to unlock it is [Spell Strength] or lower, then
-        it instantly unlocks itself.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>The caster chooses a locked door or container within 1 meter. If the extended test threshold to unlock it is [Spell Strength] or lower, then it instantly unlocks itself.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 10.0153%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 9.15877%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 9.15881%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 9.37287%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 8.85101%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 8.63689%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 9.4269%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 10.0153%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 9.15877%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 9.15881%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 9.37287%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 8.85101%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 8.63689%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 9.4269%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 10.0153%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.15877%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 9.15881%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.37287%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 8.85101%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 8.63689%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">22</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 10.0153%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 9.15877%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.15881%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 9.37287%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 8.85101%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 8.63689%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -1815,7 +1658,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338910515
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1861,17 +1704,14 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>Acrobat is a polite euphemism for agile burglars and second-story
-    men. These thieves avoid detection by stealth, and rely on mobility and
-    cunning to avoid capture.</em></p>
+  bio: <p><em>Acrobat is a polite euphemism for agile burglars and second-story men. These thieves avoid detection by stealth, and rely on mobility and cunning to avoid capture.</em></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -1896,6 +1736,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1926,7 +1767,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '15.0'
+  current_enc: 15
   carry_rating:
     current: 0
     max: 20
@@ -1939,41 +1780,49 @@ system:
       total: 35
       base: 35
       favored: false
+      bonus: 0
     end:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     agi:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     int:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     wp:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     prc:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     prs:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 65
     magic: 55
@@ -2023,17 +1872,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
   initiative:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   speed:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -2089,14 +1940,14 @@ system:
       name: Acrobatics
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -2106,7 +1957,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2252,6 +2104,85 @@ system:
       ar: 1
       magic_ar: 1 Fire
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2346,4 +2277,3 @@ prototypeToken:
 _id: nUjeFfUiSNa2YIo3
 sort: 4700000
 _key: '!actors!nUjeFfUiSNa2YIo3'
-

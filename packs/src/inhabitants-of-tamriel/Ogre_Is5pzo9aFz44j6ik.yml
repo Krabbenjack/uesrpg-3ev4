@@ -63,13 +63,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>As part of a melee attack, this character can strike up to 3 targets
-        with its melee attack as a single attack. Roll once for the attack, and
-        resolve damage separately against all struck targets. This counts as an
-        AoE.</p>
+        <p>As part of a melee attack, this character can strike up to 3 targets with its melee attack as a single attack. Roll once for the attack, and resolve damage separately against all struck targets. This counts as an AoE.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -154,9 +150,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are immune to the Stun and Dazed
-        conditions.</p>
+      description: <p>Characters with this trait are immune to the Stun and Dazed conditions.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -312,11 +306,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are weak to a certain damage type. They
-        increase damage of * type by X after any other mitigation, and suffer a
-        -10 penalty per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are weak to a certain damage type. They increase damage of * type by X after any other mitigation, and suffer a -10 penalty per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -514,9 +504,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -535,11 +523,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}'
       charge:
         value: 0
         max: 0
@@ -625,9 +609,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -646,10 +628,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -767,7 +746,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732336020577
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -814,54 +793,24 @@ system:
       value: 0
   race: Ogre, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Ogres</h2>
-
-    <p>An adventurer is most likely to come across an ogre while exploring the
-    backwoods and natural caverns of Cyrodiil, though they can be found across
-    all of Tamriel, particularly in the Dragontail and Wrothgarian Mountains. If
-    food is to be found, one can be sure that ogres are not far behind.</p>
-
-    <p>While many would think ogres are stupid or dim witted, ogres have proven
-    in the past to possess reasonable intelligence, at least in the case of
-    their leadership. For example, the Ironhand ogres proved a significant
-    threat to the region of Stormhaven, and the ogres of Wrothgar helped found
-    the first Orsinium alongside the orcs and goblins.</p>
-
-    <p>Ogre dwellings are home to small, primitive huntergatherer communities.
-    Their culture is also primitive, and their dwellings are home to rotting
-    carcasses, stripped bones, and the occasional shrine to Malacath, their
-    patron. Ogres raiding settlements is far from unheard of, and often a
-    legitimate concern for those in the frontier regions in Cyrodiil, though
-    these raids most often end in stolen livestock rather than sacked villages.
-    In combat, ogres use large clubs, rocks, and their crushing fists as
-    weapons.</p>
-
-    <p>Ogres are notoriously heavy sleepers, and are astutely imperceptive.
-    However, this very lack of perception girds them from illusion magic.</p>
-
+    <p>An adventurer is most likely to come across an ogre while exploring the backwoods and natural caverns of Cyrodiil, though they can be found across all of Tamriel, particularly in the Dragontail and Wrothgarian Mountains. If food is to be found, one can be sure that ogres are not far behind.</p>
+    <p>While many would think ogres are stupid or dim witted, ogres have proven in the past to possess reasonable intelligence, at least in the case of their leadership. For example, the Ironhand ogres proved a significant threat to the region of Stormhaven, and the ogres of Wrothgar helped found the first Orsinium alongside the orcs and goblins.</p>
+    <p>Ogre dwellings are home to small, primitive huntergatherer communities. Their culture is also primitive, and their dwellings are home to rotting carcasses, stripped bones, and the occasional shrine to Malacath, their patron. Ogres raiding settlements is far from unheard of, and often a legitimate concern for those in the frontier regions in Cyrodiil, though these raids most often end in stolen livestock rather than sacked villages. In combat, ogres use large clubs, rocks, and their crushing fists as weapons.</p>
+    <p>Ogres are notoriously heavy sleepers, and are astutely imperceptive. However, this very lack of perception girds them from illusion magic.</p>
     <h2>Ogre Loot</h2>
-
     <ul>
-
-    <li>An ogre has on its person what it is equipped with, in addition to about
-    2d10 drakes worth of trophies weighing 1 ENC.</li>
-
-    <li>A character can make a +0 Alchemy test to harvest and grind up one dose
-    of ogre teeth, which is a Very Rare Alteration ingredient. If the character
-    scores more than 1 DoS on the test, they harvest 2 doses instead.&nbsp;</li>
-
-    <li>Ogres are likely to have treasure stashed somewhere in their den. At the
-    GM's discretion, the characters can make a number of rolls on the Treasure
-    table the GM feels appropriate for the den.</li>
-
+    <li>An ogre has on its person what it is equipped with, in addition to about 2d10 drakes worth of trophies weighing 1 ENC.</li>
+    <li>A character can make a +0 Alchemy test to harvest and grind up one dose of ogre teeth, which is a Very Rare Alteration ingredient. If the character scores more than 1 DoS on the test, they harvest 2 doses instead.&nbsp;</li>
+    <li>Ogres are likely to have treasure stashed somewhere in their den. At the GM's discretion, the characters can make a number of rolls on the Treasure table the GM feels appropriate for the den.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '300'
@@ -887,6 +836,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -917,7 +867,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '6.0'
+  current_enc: 6
   carry_rating:
     current: 0
     max: 28
@@ -930,44 +880,52 @@ system:
       total: 0
       base: 55
       favored: false
+      bonus: 0
     end:
       value: 45
       total: 0
       base: 45
       favored: false
+      bonus: 0
     agi:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     int:
       value: 15
       total: 0
       base: 15
       favored: false
+      bonus: 0
     wp:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     prc:
       value: 25
       total: 0
       base: 25
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 0
       base: 5
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 65
-    magic: null
+    magic: 0
     evade: 30
     observe: 25
     stealth: 15
@@ -1014,17 +972,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
   initiative:
-    value: '7'
+    value: 7
     base: 7
     bonus: 1
   speed:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: large
   size_cat:
     puny: Puny
@@ -1073,21 +1033,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1097,7 +1057,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1243,6 +1204,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1335,4 +1375,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!Is5pzo9aFz44j6ik'
-

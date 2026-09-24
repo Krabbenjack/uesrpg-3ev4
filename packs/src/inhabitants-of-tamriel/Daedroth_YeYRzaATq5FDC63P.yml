@@ -71,9 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character is not limited by the usual Attacks or Stamina per
-        round restrictions.</p>
+      description: <p>This character is not limited by the usual Attacks or Stamina per round restrictions.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -151,11 +149,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait automatically starts a grapple when it
-        strikes with it&rsquo;s jaws/mouth. If the target successfully Counter
-        Attacks a Bite, the Counter Attack ignores this character's AR and
-        Natural Toughness.</p>
+      description: <p>A character with this trait automatically starts a grapple when it strikes with it&rsquo;s jaws/mouth. If the target successfully Counter Attacks a Bite, the Counter Attack ignores this character's AR and Natural Toughness.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -233,10 +227,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -314,9 +305,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>At the start of an encounter with this character, all opposed
-        characters must test Panic at -20.</p>
+      description: <p>At the start of an encounter with this character, all opposed characters must test Panic at -20.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -394,10 +383,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to mundane weapons. If the
-        character suffers damage from a weapon/attack without the Magic quality
-        reduce that damage by X after any other mitigation.</p>
+      description: <p>Characters with this trait are resistant to mundane weapons. If the character suffers damage from a weapon/attack without the Magic quality reduce that damage by X after any other mitigation.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -475,11 +461,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -557,9 +539,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with trait roll damage twice and choose the higher
-        value.</p>
+      description: <p>Characters with trait roll damage twice and choose the higher value.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -637,11 +617,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are weak to a certain damage type. They
-        increase damage of * type by X after any other mitigation, and suffer a
-        -10 penalty per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are weak to a certain damage type. They increase damage of * type by X after any other mitigation, and suffer a -10 penalty per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -710,12 +686,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>If this character successfully Bites a target, it can spend 1 SP to
-        violently thrash the target, dealing a bonus +1d12 damage that ignores
-        armor.</p>
+        <p>If this character successfully Bites a target, it can spend 1 SP to violently thrash the target, dealing a bonus +1d12 damage that ignores armor.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -791,12 +764,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP + 1 AP</p>
-
-        <p>As an Action, this character can spend 1 SP to breathe a great swathe
-        of fire in an 5m cone. The attack deals 2d6 fire damage to all targets
-        in the area.</p>
+        <p>As an Action, this character can spend 1 SP to breathe a great swathe of fire in an 5m cone. The attack deals 2d6 fire damage to all targets in the area.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -872,11 +842,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 AP</p>
-
-        <p>As an Action, this character can cast the Shield 3 spell without
-        expending Magicka.</p>
+        <p>As an Action, this character can cast the Shield 3 spell without expending Magicka.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -961,10 +929,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character with this trait is naturally tough, and reduces
-        incoming damage by X. This functions like AR, and reduces all damage
-        types, but it does not count as armor.</p>
+      description: <p>The character with this trait is naturally tough, and reduces incoming damage by X. This functions like AR, and reduces all damage types, but it does not count as armor.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1042,10 +1007,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character has increased abilities compared to others. Increase
-        their HP, Wound Threshold (WT) and other relevant values using the
-        fields on this trait sheet.</p>
+      description: <p>This character has increased abilities compared to others. Increase their HP, Wound Threshold (WT) and other relevant values using the fields on this trait sheet.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1468,9 +1430,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1489,10 +1449,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1578,9 +1535,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1599,10 +1554,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting} or
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting} or @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1688,9 +1640,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1730,7 +1680,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338807951
   modifiedTime: 1732338847856
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1776,54 +1726,25 @@ system:
       value: 0
   race: Daedroth, Daedra
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Daedroth</h2>
-
-    <p>These fearsome beasts are one the most physically powerful monstrosities
-    that Oblivion can hold. Mostly associated with the Daedric princes Molag Bal
-    and Mehrunes Dagon, these Daedra are the perfect shock troops to decimate
-    any foe in their way.</p>
-
-    <p>With crocodile sized heads and enormous bodies larger than most mortal
-    man and mer, a single bite from one of these could tear someone in two with
-    ease. Some have even been known to wear armor and use weapons, but for the
-    most part they prefer to use their claws and mouth to rip their foes apart.
-    Boasting resistances to non-magical weapons and fire, this Daedra is also
-    not easy to kill, and even possesses a fire breath that roasts their enemies
-    alive. Do not take this Daedra lightly, as it will not hesitate to destroy
-    any party of adventurers with ease.</p>
-
+    <p>These fearsome beasts are one the most physically powerful monstrosities that Oblivion can hold. Mostly associated with the Daedric princes Molag Bal and Mehrunes Dagon, these Daedra are the perfect shock troops to decimate any foe in their way.</p>
+    <p>With crocodile sized heads and enormous bodies larger than most mortal man and mer, a single bite from one of these could tear someone in two with ease. Some have even been known to wear armor and use weapons, but for the most part they prefer to use their claws and mouth to rip their foes apart. Boasting resistances to non-magical weapons and fire, this Daedra is also not easy to kill, and even possesses a fire breath that roasts their enemies alive. Do not take this Daedra lightly, as it will not hesitate to destroy any party of adventurers with ease.</p>
     <h2>Daedroth Loot</h2>
-
     <ul>
-
-    <li>If slain while permanently bound to Mundus, a character can test Alchemy
-    at -20 to harvest the Deadroth&rsquo;s Teeth, which are a Very Rare
-    Alteration ingredient.</li>
-
-    <li>Additionally, if slain while permanently bound to Mundus, a character
-    can test Survival at -10 over the course of a Long Rest to flay the
-    Daedroth&rsquo;s hide, worth 1000 drakes. A character can use a Daedroth
-    hide to create a piece of Daedroth Scale Armour, which is Full Armour, with
-    the same stats as Full Dwemer armour, but it also grants +5 Magic AR, and
-    grants the wearer Resistance (Normal Weapons, Fire, 5) on the worn Hit
-    Location, but also causes the wearer to have Weakness (Shock, 3) on all Hit
-    Locations. Daedroth Scale Armour cannot be Enchanted.</li>
-
-    <li>Additionally, if slain while permanently bound to Mundus, a character
-    can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a
-    Legendary Restoration ingredient.</li>
-
+    <li>If slain while permanently bound to Mundus, a character can test Alchemy at -20 to harvest the Deadroth&rsquo;s Teeth, which are a Very Rare Alteration ingredient.</li>
+    <li>Additionally, if slain while permanently bound to Mundus, a character can test Survival at -10 over the course of a Long Rest to flay the Daedroth&rsquo;s hide, worth 1000 drakes. A character can use a Daedroth hide to create a piece of Daedroth Scale Armour, which is Full Armour, with the same stats as Full Dwemer armour, but it also grants +5 Magic AR, and grants the wearer Resistance (Normal Weapons, Fire, 5) on the worn Hit Location, but also causes the wearer to have Weakness (Shock, 3) on all Hit Locations. Daedroth Scale Armour cannot be Enchanted.</li>
+    <li>Additionally, if slain while permanently bound to Mundus, a character can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a Legendary Restoration ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
-  soul_energy: 1000
+  soul_energy: '1000'
   journal: ''
   notes: ''
   threat: deadlyGroup
@@ -1846,6 +1767,7 @@ system:
     natToughness: 2
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1876,7 +1798,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '4.2'
+  current_enc: 4.2
   carry_rating:
     current: 0
     max: 36
@@ -1889,41 +1811,49 @@ system:
       total: 65
       base: 65
       favored: false
+      bonus: 0
     end:
       value: 60
       total: 60
       base: 60
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 20
       total: 20
       base: 20
       favored: false
+      bonus: 0
     wp:
       value: 50
       total: 50
       base: 50
       favored: false
+      bonus: 0
     prc:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 85
     magic: 20
@@ -1973,17 +1903,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '20'
+    value: 20
     base: 20
     bonus: 3
   initiative:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
   speed:
-    value: '15'
+    value: 15
     base: 15
     bonus: 1
+    swimSpeed: 0
+    flySpeed: 0
   size: large
   size_cat:
     puny: Puny
@@ -2056,7 +1988,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2202,6 +2135,85 @@ system:
       ar: 8
       magic_ar: '0'
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2296,4 +2308,3 @@ prototypeToken:
 _id: YeYRzaATq5FDC63P
 sort: 900000
 _key: '!actors!YeYRzaATq5FDC63P'
-

@@ -71,11 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait automatically starts a grapple when it
-        strikes with it&rsquo;s jaws/mouth. If the target successfully Counter
-        Attacks a Bite, the Counter Attack ignores this character's AR and
-        Natural Toughness.</p>
+      description: <p>A character with this trait automatically starts a grapple when it strikes with it&rsquo;s jaws/mouth. If the target successfully Counter Attacks a Bite, the Counter Attack ignores this character's AR and Natural Toughness.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -153,10 +149,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Any time this character would be struck in melee that is partially or
-        fully resisted by its AR value, it causes 1d4 Magic damage to the
-        attacker.</p>
+      description: <p>Any time this character would be struck in melee that is partially or fully resisted by its AR value, it causes 1d4 Magic damage to the attacker.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -234,10 +227,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -315,11 +305,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -397,9 +383,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with trait roll damage twice and choose the higher
-        value.</p>
+      description: <p>Characters with trait roll damage twice and choose the higher value.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -477,11 +461,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are weak to a certain damage type. They
-        increase damage of * type by X after any other mitigation, and suffer a
-        -10 penalty per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are weak to a certain damage type. They increase damage of * type by X after any other mitigation, and suffer a -10 penalty per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -550,13 +530,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">This character can lower their head and
-        charge forward to trample foes. It can move up to 3x its Speed and any
-        characters it moves within 1m of must test Evade or take 1d6 Crushing
-        damage and be knocked prone.</span></p>
+        <p><span style="color: #191813;">This character can lower their head and charge forward to trample foes. It can move up to 3x its Speed and any characters it moves within 1m of must test Evade or take 1d6 Crushing damage and be knocked prone.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -641,10 +617,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character with this trait is naturally tough, and reduces
-        incoming damage by X. This functions like AR, and reduces all damage
-        types, but it does not count as armor.</p>
+      description: <p>The character with this trait is naturally tough, and reduces incoming damage by X. This functions like AR, and reduces all damage types, but it does not count as armor.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -722,10 +695,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character has increased abilities compared to others. Increase
-        their HP, Wound Threshold (WT) and other relevant values using the
-        fields on this trait sheet.</p>
+      description: <p>This character has increased abilities compared to others. Increase their HP, Wound Threshold (WT) and other relevant values using the fields on this trait sheet.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1149,9 +1119,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1170,10 +1138,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1255,9 +1220,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1276,9 +1239,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1364,9 +1325,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1473,9 +1432,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 0
       totalENC: 0
@@ -1494,10 +1451,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1516,7 +1470,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.60
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338803770
   modifiedTime: 1732343080928
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1562,46 +1516,21 @@ system:
       value: 0
   race: Clannfear, Daedra
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering the Clannfear</h2>
-
-    <p>Clannfear are typically found in the Deadlands, and are mostly associated
-    with the Daedric Prince Mehrunes Dagon. These monsters are among the more
-    common variety of summoned monsters by conjurers, as they aren&rsquo;t too
-    hard to handle. At the beginning of any fight this Daedra charges through
-    its enemies, knocking them down and crushing through their armor. It also
-    boasts a unique ability to reflect damage, another quality that makes it
-    suitable to be used on the frontlines of battle.</p>
-
+    <p>Clannfear are typically found in the Deadlands, and are mostly associated with the Daedric Prince Mehrunes Dagon. These monsters are among the more common variety of summoned monsters by conjurers, as they aren&rsquo;t too hard to handle. At the beginning of any fight this Daedra charges through its enemies, knocking them down and crushing through their armor. It also boasts a unique ability to reflect damage, another quality that makes it suitable to be used on the frontlines of battle.</p>
     <h2>Clannfear Loot</h2>
-
     <ul>
-
-    <li>If slain while permanently bound to Mundus, a character can test Alchemy
-    at -10 to harvest the Clannfear&rsquo;s Claws, which are a Rare Destruction
-    ingredient, otherwise the Clannfear vanished back to the realms of
-    Oblivion.</li>
-
-    <li>Additionally, if slain while permanently bound to Mundus, a character
-    can test Survival at -20 over the course of a Long Rest to flay the
-    Clannfear&rsquo;s hide, worth 100 drakes. On a -30 Survival test over
-    another Long Rest, a character can turn the Clannfear hide into one piece of
-    Full Clannfear Leather Armour or two pieces of Partial Clannfear Leather
-    Armour. Clannfear Leather Armour is exactly the same as Leather Armour but
-    has +1 AR, and additionally grants the wearer the Daedric Reflection trait
-    on the worn Hit Location. Clannfear Leather Armour cannot be Enchanted.</li>
-
-    <li>Additionally, if slain while permanently bound to Mundus, a character
-    can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a
-    Legendary Restoration ingredient.</li>
-
+    <li>If slain while permanently bound to Mundus, a character can test Alchemy at -10 to harvest the Clannfear&rsquo;s Claws, which are a Rare Destruction ingredient, otherwise the Clannfear vanished back to the realms of Oblivion.</li>
+    <li>Additionally, if slain while permanently bound to Mundus, a character can test Survival at -20 over the course of a Long Rest to flay the Clannfear&rsquo;s hide, worth 100 drakes. On a -30 Survival test over another Long Rest, a character can turn the Clannfear hide into one piece of Full Clannfear Leather Armour or two pieces of Partial Clannfear Leather Armour. Clannfear Leather Armour is exactly the same as Leather Armour but has +1 AR, and additionally grants the wearer the Daedric Reflection trait on the worn Hit Location. Clannfear Leather Armour cannot be Enchanted.</li>
+    <li>Additionally, if slain while permanently bound to Mundus, a character can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a Legendary Restoration ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '400'
@@ -1627,6 +1556,7 @@ system:
     natToughness: 1
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1657,7 +1587,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '2.2'
+  current_enc: 2.2
   carry_rating:
     current: 0
     max: 28
@@ -1670,41 +1600,49 @@ system:
       total: 0
       base: 50
       favored: false
+      bonus: 0
     end:
       value: 45
       total: 0
       base: 45
       favored: false
+      bonus: 0
     agi:
       value: 50
       total: 0
       base: 50
       favored: false
+      bonus: 0
     int:
       value: 25
       total: 0
       base: 25
       favored: false
+      bonus: 0
     wp:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     prc:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 0
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 70
     magic: 25
@@ -1754,17 +1692,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '13'
+    value: 13
     base: 13
     bonus: 0
   initiative:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   speed:
-    value: '15'
+    value: 15
     base: 15
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1837,7 +1777,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1984,6 +1925,85 @@ system:
       magic_ar: '0'
       class: ''
   equipped: true
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2078,4 +2098,3 @@ prototypeToken:
 _id: ska1GDQlJKnCn9TN
 sort: 1500000
 _key: '!actors!ska1GDQlJKnCn9TN'
-

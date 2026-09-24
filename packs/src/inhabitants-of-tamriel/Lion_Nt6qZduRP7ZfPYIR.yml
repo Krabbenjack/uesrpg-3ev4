@@ -77,14 +77,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p>On a <strong>+20 Survival test</strong>, a character can, over the
-        course of a Long Rest, turn a lion hide into one piece of Full Lion Hide
-        armour. Alternatively, creating a Full Lion Hide chest piece requires
-        two lion hides. Lion Hide armour is exactly the same as regular Hide,
-        but each piece gives the wearer a cumulative +5 bonus to resisting Fear.
-        Failing the Survival test spoils the hide, halving its worth and
-        rendering it useless.</p>
+      description: <p>On a <strong>+20 Survival test</strong>, a character can, over the course of a Long Rest, turn a lion hide into one piece of Full Lion Hide armour. Alternatively, creating a Full Lion Hide chest piece requires two lion hides. Lion Hide armour is exactly the same as regular Hide, but each piece gives the wearer a cumulative +5 bonus to resisting Fear. Failing the Survival test spoils the hide, halving its worth and rendering it useless.</p>
       quantity: 1
       enc: 1
       totalENC: 0
@@ -195,9 +188,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>The meat will spoil within a day if not properly
-        preserved.</em></p>
+      description: <p><em>The meat will spoil within a day if not properly preserved.</em></p>
       quantity: 1
       enc: 0
       totalENC: 0
@@ -408,12 +399,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">This character can roll a second attack
-        against a target that it successfully damaged. This attack cannot win
-        Combat Advantage.</span></p>
+        <p><span style="color: #191813;">This character can roll a second attack against a target that it successfully damaged. This attack cannot win Combat Advantage.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -498,11 +486,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character has no need to make Survival skill tests in their
-        natural habitat, but must test Willpower to avoid fleeing combat if the
-        GM feels that it&rsquo;s ap-propriate (for example, if the creature
-        would feel intimidated by its foe).</p>
+      description: <p>The character has no need to make Survival skill tests in their natural habitat, but must test Willpower to avoid fleeing combat if the GM feels that it&rsquo;s ap-propriate (for example, if the creature would feel intimidated by its foe).</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -580,11 +564,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait automatically starts a grapple when it
-        strikes with it&rsquo;s jaws/mouth. If the target successfully Counter
-        Attacks a Bite, the Counter Attack ignores this character's AR and
-        Natural Toughness.</p>
+      description: <p>A character with this trait automatically starts a grapple when it strikes with it&rsquo;s jaws/mouth. If the target successfully Counter Attacks a Bite, the Counter Attack ignores this character's AR and Natural Toughness.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -662,9 +642,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait reduce the distance they fall by 4
-        meters.</p>
+      description: <p>Characters with this trait reduce the distance they fall by 4 meters.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -742,10 +720,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -823,10 +798,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are diseased, and if they deal a wound to
-        another character with their natural weapons then that character must
-        test Endurance +/- X or contract a common disease.</p>
+      description: <p>Characters with this trait are diseased, and if they deal a wound to another character with their natural weapons then that character must test Endurance +/- X or contract a common disease.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -904,9 +876,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character moves at 3x their Speed when using the Dash
-        action.</p>
+      description: <p>This character moves at 3x their Speed when using the Dash action.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1132,7 +1102,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732336015114
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1179,49 +1149,23 @@ system:
       value: 0
   race: Lion, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Lions</h2>
-
-    <p>Lions, and other big cats such as mountain lions, tigers, cougars, and
-    the like, can be found either in prides or as solitary hunters, depending on
-    the species. A lion&rsquo;s pride is composed of a group of females and one
-    male. The females will work together to hunt, first using stealth, then
-    using explosive power and incredible speed to close the gap. The lions are
-    coordinated and dangerous, and will cut off routes of escape.</p>
-
-    <p>A lone lion will instead use stealth and cunning to separate a single
-    target out from their herd or group, and violently run them to the ground,
-    hoping their companions leave them behind.</p>
-
-    <p>Lions tend to be slothful when not hunting, and typically maintain a
-    handful of small dens over their ranging lands. They could be considered
-    semimigratory, depending on the season and the patterns of their prey. Lions
-    will typically retreat from a poor fight, and are clever enough to not start
-    a fight they can&rsquo;t win.</p>
-
+    <p>Lions, and other big cats such as mountain lions, tigers, cougars, and the like, can be found either in prides or as solitary hunters, depending on the species. A lion&rsquo;s pride is composed of a group of females and one male. The females will work together to hunt, first using stealth, then using explosive power and incredible speed to close the gap. The lions are coordinated and dangerous, and will cut off routes of escape.</p>
+    <p>A lone lion will instead use stealth and cunning to separate a single target out from their herd or group, and violently run them to the ground, hoping their companions leave them behind.</p>
+    <p>Lions tend to be slothful when not hunting, and typically maintain a handful of small dens over their ranging lands. They could be considered semimigratory, depending on the season and the patterns of their prey. Lions will typically retreat from a poor fight, and are clever enough to not start a fight they can&rsquo;t win.</p>
     <h2>Lion Loot&nbsp;</h2>
-
     <ul>
-
-    <li>On a +30 Survival test, a character can remove the lion's hide, worth 40
-    drakes, over the course of a Long Rest. Failing this test spoils the hide
-    and halves its worth.</li>
-
-    <li>On a +30 Simple Survival test, a character can harvest meat from a lion
-    over a Long Rest. The character harvest DoS*2 days' rations of meat, which
-    will spoil if not preserved.</li>
-
-    <li>On a +0 Alchemy test over a Short Rest, a character can remove and
-    prepare the lion's eyes, which are each one Rare Destruction
-    ingredient.</li>
-
+    <li>On a +30 Survival test, a character can remove the lion's hide, worth 40 drakes, over the course of a Long Rest. Failing this test spoils the hide and halves its worth.</li>
+    <li>On a +30 Simple Survival test, a character can harvest meat from a lion over a Long Rest. The character harvest DoS*2 days' rations of meat, which will spoil if not preserved.</li>
+    <li>On a +0 Alchemy test over a Short Rest, a character can remove and prepare the lion's eyes, which are each one Rare Destruction ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '60'
@@ -1247,6 +1191,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1277,7 +1222,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '1.0'
+  current_enc: 1
   carry_rating:
     current: 0
     max: 22
@@ -1287,52 +1232,60 @@ system:
   characteristics:
     str:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     end:
       value: 35
-      total: null
+      total: 35
       base: 35
       favored: false
+      bonus: 0
     agi:
       value: 45
-      total: null
+      total: 45
       base: 45
       favored: false
+      bonus: 0
     int:
       value: 15
-      total: null
+      total: 15
       base: 15
       favored: false
+      bonus: 0
     wp:
       value: 25
-      total: null
+      total: 25
       base: 25
       favored: false
+      bonus: 0
     prc:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     prs:
       value: 5
-      total: null
+      total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
-      value: null
-      total: null
+      value: 0
+      total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 55
-    magic: null
+    magic: 0
     evade: 55
     observe: 60
     stealth: 75
-    knowledge: null
-    social: null
+    knowledge: 0
+    social: 0
     physical: 60
     commerce: 0
     profession1: 0
@@ -1374,17 +1327,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   initiative:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   speed:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1433,21 +1388,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1457,10 +1412,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: >-
-    <p><strong>Rake (1 SP):</strong> The Lion can rake a target savagely, and
-    roll a second attack against a target that was successfully damaged. This
-    attack cannot win specials.</p>
+      rank: ''
+  talents: <p><strong>Rake (1 SP):</strong> The Lion can rake a target savagely, and roll a second attack against a target that was successfully damaged. This attack cannot win specials.</p>
   traits: ''
   powers: ''
   spells: ''
@@ -1606,6 +1559,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1698,4 +1730,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!Nt6qZduRP7ZfPYIR'
-

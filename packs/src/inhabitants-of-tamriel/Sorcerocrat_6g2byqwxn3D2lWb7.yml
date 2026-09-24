@@ -71,10 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character can oppose Deceive with Investigate, and use Knowledge
-        or Lore in place of Social skill tests when acting on behalf of their
-        respective institution.</p>
+      description: <p>This character can oppose Deceive with Investigate, and use Knowledge or Lore in place of Social skill tests when acting on behalf of their respective institution.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -156,9 +153,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character does not track magicka,
-        and can instead cast each spell it knows once.</span></p>
+      description: '<p><span style="color: #191813;">This character does not track magicka, and can instead cast each spell it knows once.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -195,90 +190,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>The caster chooses a door or container within 1 meter, which
-        immediately locks itself. Defeating this lock requires an extended
-        Subterfuge test with a success threshold of [Spell Strength].</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>The caster chooses a door or container within 1 meter, which immediately locks itself. Defeating this lock requires an extended Subterfuge test with a success threshold of [Spell Strength].</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 10.0153%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 9.15877%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 9.15881%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 9.37287%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 8.85101%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 8.63689%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 9.4269%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 10.0153%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 9.15877%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 9.15881%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 9.37287%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 8.85101%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 8.63689%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 9.4269%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 10.0153%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.15877%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 9.15881%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.37287%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 8.85101%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 8.63689%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">22</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 10.0153%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 9.15877%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.15881%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 9.37287%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 8.85101%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 8.63689%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 1
@@ -325,90 +272,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>The caster chooses a locked door or container within 1 meter. If the
-        extended test threshold to unlock it is [Spell Strength] or lower, then
-        it instantly unlocks itself.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>The caster chooses a locked door or container within 1 meter. If the extended test threshold to unlock it is [Spell Strength] or lower, then it instantly unlocks itself.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 10.0153%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 9.15877%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 9.15881%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 9.37287%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 8.85101%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 8.63689%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 9.4269%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 10.0153%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 9.15877%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 9.15881%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 9.37287%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 8.85101%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 8.63689%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 9.4269%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 10.0153%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.15877%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 9.15881%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.37287%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 8.85101%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 8.63689%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">22</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 33.4506%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 33.4506%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 10.0153%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 9.15877%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.15881%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 9.37287%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 8.85101%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 8.63689%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 1
@@ -455,90 +354,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Target character within 50m becomes receptive to others, and the next
-        character to attempt a Persuade or Deceive test on them within 1 minute
-        receives a [Spell Strength] bonus.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Target character within 50m becomes receptive to others, and the next character to attempt a Persuade or Deceive test on them within 1 minute receives a [Spell Strength] bonus.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">14</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">18</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">+5</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">+10</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">+15</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">+20</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">+25</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">+30</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">+35</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -585,89 +436,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Creates a light orbiting the caster that illuminates an area within
-        [Spell Strength] meters for 1 minute.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Creates a light orbiting the caster that illuminates an area within [Spell Strength] meters for 1 minute.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">8</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">20</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">30</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">40</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">50</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">60</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">70</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 1
@@ -714,97 +518,48 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Target character within 50m must make a Willpower test with a [Spell
-        Strength] modifier or be Silenced for 1 round.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Target character within 50m must make a Willpower test with a [Spell Strength] modifier or be Silenced for 1 round.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">22</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">25</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">+20</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">+10</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">+0</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">-10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">-20</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">-30</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">-40</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
       cost: 8
       spell_str: ''
-      attributes: >-
-        @Compendium[uesrpg-revision.journal.etuR7vddrnv3ot2J]{Upkeep},
-        @Compendium[uesrpg-revision.journal.lvno9sPj405BCHon]{Direct Attack}
+      attributes: '@Compendium[uesrpg-revision.journal.etuR7vddrnv3ot2J]{Upkeep}, @Compendium[uesrpg-revision.journal.lvno9sPj405BCHon]{Direct Attack}'
       form: Target
       school: illusion
       school_cat:
@@ -845,89 +600,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>The caster gains the Telekinesis ([Spell Strength]) trait for 1
-        minute.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>The caster gains the Telekinesis ([Spell Strength]) trait for 1 minute.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">22</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">7</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 1
@@ -974,89 +682,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>The caster gains the Telepathy ([Spell Strength]) trait for 1
-        minute.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>The caster gains the Telepathy ([Spell Strength]) trait for 1 minute.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">22</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">7</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 1
@@ -1103,89 +764,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Caster increases their [characteristic] score by [Spell Strength] for
-        1 round. This affects all attributes derived from that score.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Caster increases their [characteristic] score by [Spell Strength] for 1 round. This affects all attributes derived from that score.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">17</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">25</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">33</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">41</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">49</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">57</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">15</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">20</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">25</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">30</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">35</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -1216,7 +830,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339088776
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1262,17 +876,14 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>Efficient bureaucrats using magic to assist their daily duties,
-    primarily found in High Rock. While their Breton counterparts are far more
-    common, Sorcerocrats are also found in Nibenay in great numbers.</em></p>
+  bio: <p><em>Efficient bureaucrats using magic to assist their daily duties, primarily found in High Rock. While their Breton counterparts are far more common, Sorcerocrats are also found in Nibenay in great numbers.</em></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -1297,6 +908,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1327,7 +939,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '0.0'
+  current_enc: 0
   carry_rating:
     current: 0
     max: 18
@@ -1340,41 +952,49 @@ system:
       total: 0
       base: 30
       favored: false
+      bonus: 0
     end:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     agi:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     int:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     wp:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     prc:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 10
     magic: 60
@@ -1424,17 +1044,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   initiative:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
   speed:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1507,7 +1129,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1653,6 +1276,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1747,4 +1449,3 @@ prototypeToken:
 _id: 6g2byqwxn3D2lWb7
 sort: 100000
 _key: '!actors!6g2byqwxn3D2lWb7'
-

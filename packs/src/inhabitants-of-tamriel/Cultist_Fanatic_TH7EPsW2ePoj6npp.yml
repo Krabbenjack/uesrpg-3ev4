@@ -71,9 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character is a fanatic and receives +40 to resist Fear
-        tests.</p>
+      description: <p>This character is a fanatic and receives +40 to resist Fear tests.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -146,15 +144,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 AP</p>
-
-        <p><span style="color: #191813;">After attacking or being attacked, a
-        </span><span style="color: #191813;">Fanatic may become enraged, gaining
-        the @Compendium[uesrpg-revision.journal.SN3fl9mDUN3etmnh]{Proven.} trait
-        for all weapons they carry, which </span><span style="color:
-        #191813;">allows him to roll damage twice and pick the highest
-        number.</span></p>
+        <p><span style="color: #191813;">After attacking or being attacked, a </span><span style="color: #191813;">Fanatic may become enraged, gaining the @Compendium[uesrpg-revision.journal.SN3fl9mDUN3etmnh]{Proven.} trait for all weapons they carry, which </span><span style="color: #191813;">allows him to roll damage twice and pick the highest number.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -246,9 +238,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -267,9 +257,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.InDSKbnEwiwBQUeq]{Flail}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.InDSKbnEwiwBQUeq]{Flail}'
       charge:
         value: 0
         max: 0
@@ -356,9 +344,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -377,9 +363,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -466,12 +450,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -579,12 +558,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -692,12 +666,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -805,12 +774,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -918,12 +882,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1031,12 +990,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Leather armor is lighter and more flexible than metal, giving the
-        wearer that much more room to work with. Crafted from various layers of
-        cured/tanned skin, leather armor provides some protection against bladed
-        weapons and the material even offers some minor protection from
-        fire.&nbsp;</em></p>
+      description: <p><em>Leather armor is lighter and more flexible than metal, giving the wearer that much more room to work with. Crafted from various layers of cured/tanned skin, leather armor provides some protection against bladed weapons and the material even offers some minor protection from fire.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1076,7 +1030,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338980838
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1122,18 +1076,14 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>A cultist can be part of countless cults - whether he is a proponent
-    of the Imperial Cult or a follower of a Daedric Prince, cultists are devoted
-    to their religion with zealous belief. These cultists are the most devout of
-    their group.</em></p>
+  bio: <p><em>A cultist can be part of countless cults - whether he is a proponent of the Imperial Cult or a follower of a Daedric Prince, cultists are devoted to their religion with zealous belief. These cultists are the most devout of their group.</em></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -1158,6 +1108,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1188,7 +1139,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '21.0'
+  current_enc: 21
   carry_rating:
     current: 0
     max: 22
@@ -1201,44 +1152,52 @@ system:
       total: 0
       base: 40
       favored: false
+      bonus: 0
     end:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     agi:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     int:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     wp:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     prc:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 60
-    magic: null
+    magic: 0
     evade: 45
     observe: 40
     stealth: 15
@@ -1285,17 +1244,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
   initiative:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   speed:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1351,14 +1312,14 @@ system:
       name: Deceive
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1368,7 +1329,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1514,6 +1476,85 @@ system:
       ar: 3
       magic_ar: 1 Fire
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1608,4 +1649,3 @@ prototypeToken:
 _id: TH7EPsW2ePoj6npp
 sort: 3000000
 _key: '!actors!TH7EPsW2ePoj6npp'
-

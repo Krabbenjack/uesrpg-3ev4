@@ -176,11 +176,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>This character can add their Strength Bonus to their melee weapon
-        attack damage.</p>
+        <p>This character can add their Strength Bonus to their melee weapon attack damage.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -256,13 +254,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>After successfully parrying a melee attack, this character can make a
-        free Attack Action against the target he parried as long as the target
-        is in reach. This does not count toward the total attacks per round
-        limit.</p>
+        <p>After successfully parrying a melee attack, this character can make a free Attack Action against the target he parried as long as the target is in reach. This does not count toward the total attacks per round limit.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -338,13 +332,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">As part of a melee attack with a 2H
-        weapon, this character can strike up to 3 targets within reach as a
-        single attack. Roll once for the attack and resolve damage seperately
-        for each target.</span></p>
+        <p><span style="color: #191813;">As part of a melee attack with a 2H weapon, this character can strike up to 3 targets within reach as a single attack. Roll once for the attack and resolve damage seperately for each target.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -429,13 +419,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are mere walking corpses. They do not
-        breathe, or require organs or correct pressures to function. They are
-        immune to things such as disease, poison, passive wound effects, aging,
-        fatigue, and a number of conditions including but not limited to: dazed,
-        deafened, and organ damage. Use common sense when deciding what can and
-        cannot affect characters with this trait.</p>
+      description: '<p>Characters with this trait are mere walking corpses. They do not breathe, or require organs or correct pressures to function. They are immune to things such as disease, poison, passive wound effects, aging, fatigue, and a number of conditions including but not limited to: dazed, deafened, and organ damage. Use common sense when deciding what can and cannot affect characters with this trait.</p>'
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -513,11 +497,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -620,11 +600,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}'
       charge:
         value: 0
         max: 0
@@ -729,10 +705,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}'
       charge:
         value: 0
         max: 0
@@ -837,9 +810,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -925,9 +896,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Ancient nordic armor crafted for a specific individual who was a
-        leader and powerful warrior when they were alive.</em></p>
+      description: <p><em>Ancient nordic armor crafted for a specific individual who was a leader and powerful warrior when they were alive.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1020,21 +989,13 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>The Draugr Scourge can use an Action to Shout. With a +0 Magic Test,
-        the Scourge knows the first word of one of the shouts below:</p>
-
+        <p>The Draugr Scourge can use an Action to Shout. With a +0 Magic Test, the Scourge knows the first word of one of the shouts below:</p>
         <ul>
-
         <li>@Compendium[uesrpg-d100.powers.qIOZbEz9AX4lQNae]{Disarm}</li>
-
         <li>@Compendium[uesrpg-d100.powers.BKJFmdN4f9K8cYAF]{Frost Breath}</li>
-
-        <li>@Compendium[uesrpg-d100.powers.bfYSS268E4MF5GrX]{Unrelenting
-        Force}</li>
-
+        <li>@Compendium[uesrpg-d100.powers.bfYSS268E4MF5GrX]{Unrelenting Force}</li>
         </ul>
       dailyUse: false
       source: Scroll of Thu'um
@@ -1059,7 +1020,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339373223
   modifiedTime: 1732339428995
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1105,42 +1066,21 @@ system:
       value: 0
   race: Draugr, Undead
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Draugr Scourges</h2>
-
-    <p>Draugr Scourges dwell amongst the Draugr, standing head and shoulders
-    above their lesser peers. During the time of the Dragon Cult, the gifted
-    children of cultists were indoctrinated into the cult and taught the powers
-    of the Thu'um by their Dovah masters. Draugr Scourges simply represent all
-    manner of such greater Draugr, who retain the mystical knowledge of the
-    past.</p>
-
-    <p>Draugr Scourges can be encountered amongst normal Draugr, often leading a
-    small warband and using the prestige and clout they had in life to seize a
-    sort of basic leadership role in battle. A Draugr Scourge is a champion of
-    melee combat, and a practitioner of the Thu'um, making them a deadly
-    opponent to an unprepared adventurer. A Draugr Scourge excells at both
-    duelling and fighting against groups, and is comfortable using a diverse set
-    of weapons for different jobs. They can be thought of as being champion
-    level Draugr, more than an even match for a heroic character.</p>
-
+    <p>Draugr Scourges dwell amongst the Draugr, standing head and shoulders above their lesser peers. During the time of the Dragon Cult, the gifted children of cultists were indoctrinated into the cult and taught the powers of the Thu'um by their Dovah masters. Draugr Scourges simply represent all manner of such greater Draugr, who retain the mystical knowledge of the past.</p>
+    <p>Draugr Scourges can be encountered amongst normal Draugr, often leading a small warband and using the prestige and clout they had in life to seize a sort of basic leadership role in battle. A Draugr Scourge is a champion of melee combat, and a practitioner of the Thu'um, making them a deadly opponent to an unprepared adventurer. A Draugr Scourge excells at both duelling and fighting against groups, and is comfortable using a diverse set of weapons for different jobs. They can be thought of as being champion level Draugr, more than an even match for a heroic character.</p>
     <h2>Draugr Loot</h2>
-
     <ul>
-
-    <li>A group of Draugr often carry treasures worth a number of rolls on the
-    Treasure Table determined by the GM.</li>
-
-    <li>A character can harvest a Draugr's tongue, which is a Common Destruction
-    ingredient.</li>
-
+    <li>A group of Draugr often carry treasures worth a number of rolls on the Treasure Table determined by the GM.</li>
+    <li>A character can harvest a Draugr's tongue, which is a Common Destruction ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '300'
@@ -1166,6 +1106,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1196,7 +1137,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '33.1'
+  current_enc: 33.1
   carry_rating:
     current: 0
     max: 26
@@ -1209,41 +1150,49 @@ system:
       total: 45
       base: 45
       favored: false
+      bonus: 0
     end:
       value: 50
       total: 50
       base: 50
       favored: false
+      bonus: 0
     agi:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     int:
       value: 20
       total: 20
       base: 20
       favored: false
+      bonus: 0
     wp:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     prc:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 75
     magic: 65
@@ -1293,17 +1242,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '13'
+    value: 13
     base: 13
     bonus: 0
   initiative:
-    value: '8'
+    value: 8
     base: 8
     bonus: 0
   speed:
-    value: '10'
+    value: 10
     base: 9
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1376,7 +1327,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1522,6 +1474,85 @@ system:
       ar: 6
       magic_ar: 1 Frost
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1616,4 +1647,3 @@ prototypeToken:
 _id: ZqWIyhofvBGATUb6
 sort: 1400000
 _key: '!actors!ZqWIyhofvBGATUb6'
-

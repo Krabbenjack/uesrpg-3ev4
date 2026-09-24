@@ -62,13 +62,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>As an Action, this character can work themselves into a frenzy,
-        during which they are immune to Fear, roll damage twice and pick the
-        highest roll, and add +3 to all melee damage. This rage lasts until the
-        character chooses to calm down, or is Stunned or Dazed.</p>
+        <p>As an Action, this character can work themselves into a frenzy, during which they are immune to Fear, roll damage twice and pick the highest roll, and add +3 to all melee damage. This rage lasts until the character chooses to calm down, or is Stunned or Dazed.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -153,9 +149,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character gains +1 DoS on all
-        combat tets when engaged in melee.</span></p>
+      description: '<p><span style="color: #191813;">This character gains +1 DoS on all combat tets when engaged in melee.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -237,9 +231,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character gains the Natural
-        Toughness (4) trait when not wearing any armor.</span></p>
+      description: '<p><span style="color: #191813;">This character gains the Natural Toughness (4) trait when not wearing any armor.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -321,11 +313,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -472,12 +460,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>As part of a melee attack, this character can strike two targets in
-        Reach as a single action. If wielding a weapon in two hands, the
-        character instead strikes three targets. Roll once for the attack.</p>
+        <p>As part of a melee attack, this character can strike two targets in Reach as a single action. If wielding a weapon in two hands, the character instead strikes three targets. Roll once for the attack.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -569,9 +554,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 3
       totalENC: 0
@@ -590,11 +573,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.iNRvDXhCiPR8lHX9]{Concussive.}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.iNRvDXhCiPR8lHX9]{Concussive.}'
       charge:
         value: 0
         max: 0
@@ -681,9 +660,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -702,10 +679,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.iNRvDXhCiPR8lHX9]{Concussive.}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.iNRvDXhCiPR8lHX9]{Concussive.}'
       charge:
         value: 0
         max: 0
@@ -792,9 +766,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -813,11 +785,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.iNRvDXhCiPR8lHX9]{Concussive.}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.iNRvDXhCiPR8lHX9]{Concussive.}'
       charge:
         value: 0
         max: 0
@@ -836,7 +804,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339038626
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -882,17 +850,14 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>While all barbarians are savages, few are as ruthlessly manic as
-    these ferocious warriors. They are very resilient and have mastered the art
-    of cleaving through their enemies.</em></p>
+  bio: <p><em>While all barbarians are savages, few are as ruthlessly manic as these ferocious warriors. They are very resilient and have mastered the art of cleaving through their enemies.</em></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -917,6 +882,7 @@ system:
     natToughness: 4
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -947,7 +913,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '11.0'
+  current_enc: 11
   carry_rating:
     current: 0
     max: 28
@@ -960,44 +926,52 @@ system:
       total: 0
       base: 50
       favored: false
+      bonus: 0
     end:
       value: 45
       total: 0
       base: 45
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     wp:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     prc:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     prs:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 80
-    magic: null
+    magic: 0
     evade: 50
     observe: 65
     stealth: 20
@@ -1044,17 +1018,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '13'
+    value: 13
     base: 13
     bonus: 1
   initiative:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   speed:
-    value: '13'
+    value: 13
     base: 13
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1110,14 +1086,14 @@ system:
       name: Persuade (Str)
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1127,7 +1103,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1273,6 +1250,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1367,4 +1423,3 @@ prototypeToken:
 _id: bdz8alOa0aLWn7cX
 sort: 900000
 _key: '!actors!bdz8alOa0aLWn7cX'
-

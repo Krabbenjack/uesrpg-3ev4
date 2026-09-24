@@ -62,12 +62,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 - 3 SP</p>
-
-        <p>After this character rolls for damage, they may spend 1 - 3 Stamina
-        Points to increase their damage by +3 for each SP spent, to a maximum of
-        3 SP for +9 damage.</p>
+        <p>After this character rolls for damage, they may spend 1 - 3 Stamina Points to increase their damage by +3 for each SP spent, to a maximum of 3 SP for +9 damage.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -143,11 +140,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>This character can double its Shield BR against physical damage as
-        part of the Block Action.</p>
+        <p>This character can double its Shield BR against physical damage as part of the Block Action.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -232,10 +227,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -313,9 +305,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character can re-roll failed tests to resist magic effects once
-        per test.</p>
+      description: <p>This character can re-roll failed tests to resist magic effects once per test.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -393,10 +383,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to mundane weapons. If the
-        character suffers damage from a weapon/attack without the Magic quality
-        reduce that damage by X after any other mitigation.</p>
+      description: <p>Characters with this trait are resistant to mundane weapons. If the character suffers damage from a weapon/attack without the Magic quality reduce that damage by X after any other mitigation.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -474,11 +461,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -556,10 +539,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Whenever this character would be affected by a magic spell, roll
-        1d10. If the result is less than or equal to X, then the spell is
-        resolved against the original caster instead.</p>
+      description: <p>Whenever this character would be affected by a magic spell, roll 1d10. If the result is less than or equal to X, then the spell is resolved against the original caster instead.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -637,9 +617,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait gain a bonus DoS on attack rolls made
-        while an ally with this trait is in Reach of the same target.</p>
+      description: <p>Characters with this trait gain a bonus DoS on attack rolls made while an ally with this trait is in Reach of the same target.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -837,9 +815,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -858,9 +834,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (1),
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (1), @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -946,9 +920,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 3
       totalENC: 0
@@ -967,10 +939,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1056,9 +1025,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1077,11 +1044,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -1166,10 +1129,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Replace 'Ammunition' with Bolts or Arrows.</p>
       quantity: 12
       enc: 0.1
@@ -1263,10 +1224,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Replace 'Ammunition' with Bolts or Arrows.</p>
       quantity: 12
       enc: 0.1
@@ -1361,9 +1320,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1379,9 +1336,7 @@ items:
       excludeENC: true
       magic_ar: '11'
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.2QEgtXVs9q5qjcOW]{Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: shield
       item_cat:
         none: None
@@ -1472,9 +1427,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 6
       totalENC: 0
@@ -1490,9 +1443,7 @@ items:
       excludeENC: false
       magic_ar: '7'
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_leg
       item_cat:
         none: None
@@ -1583,9 +1534,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 6
       totalENC: 0
@@ -1601,9 +1550,7 @@ items:
       excludeENC: false
       magic_ar: '7'
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_leg
       item_cat:
         none: None
@@ -1694,9 +1641,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 6
       totalENC: 0
@@ -1712,9 +1657,7 @@ items:
       excludeENC: false
       magic_ar: '7'
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: body
       item_cat:
         none: None
@@ -1805,9 +1748,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 6
       totalENC: 0
@@ -1823,9 +1764,7 @@ items:
       excludeENC: false
       magic_ar: '7'
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_arm
       item_cat:
         none: None
@@ -1916,9 +1855,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 6
       totalENC: 0
@@ -1934,9 +1871,7 @@ items:
       excludeENC: false
       magic_ar: '7'
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: l_arm
       item_cat:
         none: None
@@ -2027,9 +1962,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 6
       totalENC: 0
@@ -2045,9 +1978,7 @@ items:
       excludeENC: false
       magic_ar: '7'
       enchant_level: 5
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy},
-        @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.yhQtp7PjFrHUr5YJ]{Super-Heavy}, @Compendium[uesrpg-revision.journal.m7HXbo12Aeel3Jlk]{Magic}'
       category: head
       item_cat:
         none: None
@@ -2071,7 +2002,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338812241
   modifiedTime: 1732338847856
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -2117,55 +2048,26 @@ system:
       value: 0
   race: Dremora, Daedra
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Dremora</h2>
-
-    <p>Dremora can be seen all across Oblivion, in service to most of the
-    Daedric princes, but the most common Princes you&rsquo;ll see them employed
-    by are Molag Bal, Mehrunes Dagon, and Boethia. These fearsome warriors have
-    a class based clan system, the more important to watch out for are the
-    Kynreeve, Kynmarcher, Markynaz, and Valkynaz. These are more powerful
-    Dremora that are leaders of the lesser Dremora of their clan.</p>
-
-    <p>Being very powerful warriors as well as mages, the Dremora are very
-    formidable in battle and will not hesitate to utterly obliterate their
-    enemies with a fireball in one hand a legendary sword in the other. Armed
-    with some the best crafted gear as well, It would be unwise to take on these
-    Daedra head on in a fight</p>
-
-    <p>Along with other Daedra the Dremora share a mutual hatred of the mortal
-    race. Despite this Dremora are actually one of the few most commonly
-    summoned Daedra, despite being among the strongest Daedra. They&rsquo;re
-    employed by many powerful spellcasters to do their bidding for however long
-    they are summoned, which can sometimes be indefinitely tied to the
-    spellcaster.</p>
-
-    <p>Dremora Churls are the lowest ranking of these Daedra, and from the bulk
-    of the standing armies of Oblivion&rsquo;s most militant Princes.</p>
-
+    <p>Dremora can be seen all across Oblivion, in service to most of the Daedric princes, but the most common Princes you&rsquo;ll see them employed by are Molag Bal, Mehrunes Dagon, and Boethia. These fearsome warriors have a class based clan system, the more important to watch out for are the Kynreeve, Kynmarcher, Markynaz, and Valkynaz. These are more powerful Dremora that are leaders of the lesser Dremora of their clan.</p>
+    <p>Being very powerful warriors as well as mages, the Dremora are very formidable in battle and will not hesitate to utterly obliterate their enemies with a fireball in one hand a legendary sword in the other. Armed with some the best crafted gear as well, It would be unwise to take on these Daedra head on in a fight</p>
+    <p>Along with other Daedra the Dremora share a mutual hatred of the mortal race. Despite this Dremora are actually one of the few most commonly summoned Daedra, despite being among the strongest Daedra. They&rsquo;re employed by many powerful spellcasters to do their bidding for however long they are summoned, which can sometimes be indefinitely tied to the spellcaster.</p>
+    <p>Dremora Churls are the lowest ranking of these Daedra, and from the bulk of the standing armies of Oblivion&rsquo;s most militant Princes.</p>
     <h2>Dremora Churl Loot</h2>
-
     <ul>
-
-    <li>If slain while permanently bound to Mundus, a Dremora Churl&rsquo;s
-    weapons and armour will be recoverable, otherwise the Dremora&rsquo;s body
-    and equipment vanish back to Oblivion. Dremora arms and armour have the same
-    enchant value and weight as Daedric.</li>
-
-    <li>Additionally, if slain while permanently bound to Mundus, a character
-    can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a
-    Legendary Restoration ingredient.</li>
-
+    <li>If slain while permanently bound to Mundus, a Dremora Churl&rsquo;s weapons and armour will be recoverable, otherwise the Dremora&rsquo;s body and equipment vanish back to Oblivion. Dremora arms and armour have the same enchant value and weight as Daedric.</li>
+    <li>Additionally, if slain while permanently bound to Mundus, a character can make a -40 Alchemy test to salvage the Daedra&rsquo;s Heart, which is a Legendary Restoration ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
-  soul_energy: 500
+  soul_energy: '500'
   journal: ''
   notes: ''
   threat: minorSolo
@@ -2188,6 +2090,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -2218,7 +2121,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '38.2'
+  current_enc: 38.2
   carry_rating:
     current: 0
     max: 22
@@ -2231,41 +2134,49 @@ system:
       total: 40
       base: 40
       favored: false
+      bonus: 0
     end:
       value: 38
       total: 38
       base: 38
       favored: false
+      bonus: 0
     agi:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     int:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     wp:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     prc:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 25
       total: 25
       base: 25
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 60
     magic: 55
@@ -2315,17 +2226,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   initiative:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   speed:
-    value: '10'
+    value: 10
     base: 9
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -2398,7 +2311,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2544,6 +2458,85 @@ system:
       ar: 7
       magic_ar: '7'
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2638,4 +2631,3 @@ prototypeToken:
 _id: tG30eXEgUYR7Y2cz
 sort: 1200000
 _key: '!actors!tG30eXEgUYR7Y2cz'
-

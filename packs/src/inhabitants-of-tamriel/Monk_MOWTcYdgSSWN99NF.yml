@@ -62,13 +62,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">This character can spend 1 SP to make a
-        counter-attack using a hand-to-hand weapon or unarmed strike. This does
-        not count toward the character's maximum number of attacks per
-        round.</span></p>
+        <p><span style="color: #191813;">This character can spend 1 SP to make a counter-attack using a hand-to-hand weapon or unarmed strike. This does not count toward the character's maximum number of attacks per round.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -153,13 +149,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character's base unarmed damage is 1d6+4 and they increase the
-        slashing or crushing damage of any hand-to-hand weapons they wield by
-        1.&nbsp;</p>
-
-        <p>They also do not suffer any penalties normally applied when wielding
-        hand-to-hand weapons.</p>
+      description: |-
+        <p>This character's base unarmed damage is 1d6+4 and they increase the slashing or crushing damage of any hand-to-hand weapons they wield by 1.&nbsp;</p>
+        <p>They also do not suffer any penalties normally applied when wielding hand-to-hand weapons.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -241,9 +233,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character does not track magicka,
-        and can instead cast each spell it knows once.</span></p>
+      description: '<p><span style="color: #191813;">This character does not track magicka, and can instead cast each spell it knows once.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -325,10 +315,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Can parry any melee or non magic ranged attack while unarmed, and
-        gains a minimum of 4 DoS when grappling, restraining or engangling an
-        opponent.</p>
+      description: <p>Can parry any melee or non magic ranged attack while unarmed, and gains a minimum of 4 DoS when grappling, restraining or engangling an opponent.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -417,12 +404,9 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">*Base damage is the wielder's Natural Weapon damage.</em></p>
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">*Base damage is the wielder's Natural Weapon damage.</em></p>
       quantity: 1
       enc: 1
       totalENC: 0
@@ -441,10 +425,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (1),
-        @Compendium[uesrpg-revision.journal.zlB1i3aexZMAh6yZ]{Hand to Hand},
-        @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (1), @Compendium[uesrpg-revision.journal.zlB1i3aexZMAh6yZ]{Hand to Hand}, @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}'
       charge:
         value: 0
         max: 0
@@ -531,9 +512,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -552,10 +531,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness},
-        @Compendium[uesrpg-revision.journal.rOEKxH0jiC62uvFH]{Thrown} (5/10/15),
-        @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}
+      qualities: '@Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness}, @Compendium[uesrpg-revision.journal.rOEKxH0jiC62uvFH]{Thrown} (5/10/15), @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}'
       charge:
         value: 0
         max: 0
@@ -642,9 +618,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -663,9 +637,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (1),
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.m6FZ2DuL1SSGOqr2]{Reload} (1), @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -751,10 +723,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Rename 'Ammunition' to 'Arrow' or 'Bolt'.</p>
       quantity: 10
       enc: 0.1
@@ -849,10 +819,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Rename 'Ammunition' to 'Arrow' or 'Bolt'.</p>
       quantity: 10
       enc: 0.1
@@ -1003,88 +971,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
+      description: |-
         <p>Caster regains [Spell Strength] HP.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">9</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">15</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">14</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -1183,9 +1105,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1204,10 +1124,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.iNRvDXhCiPR8lHX9]{Concussive.},
-        @Compendium[uesrpg-revision.journal.J1fYlZ5DQd3of7iS]{Arcane},
-        @Compendium[uesrpg-revision.journal.x3LoLj3qboUGTTaq]{Wood}
+      qualities: '@Compendium[uesrpg-revision.journal.iNRvDXhCiPR8lHX9]{Concussive.}, @Compendium[uesrpg-revision.journal.J1fYlZ5DQd3of7iS]{Arcane}, @Compendium[uesrpg-revision.journal.x3LoLj3qboUGTTaq]{Wood}'
       charge:
         value: 0
         max: 0
@@ -1226,7 +1143,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339023902
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1272,18 +1189,14 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>Monks are students of the ancient martial arts of hand-to-hand combat
-    and unarmored self defense. Monks avoid detection by stealth, mobility, and
-    Agility, and are skilled with a variety of ranged and close-combat
-    weapons.</em></p>
+  bio: <p><em>Monks are students of the ancient martial arts of hand-to-hand combat and unarmored self defense. Monks avoid detection by stealth, mobility, and Agility, and are skilled with a variety of ranged and close-combat weapons.</em></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -1308,6 +1221,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1338,7 +1252,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '7.0'
+  current_enc: 7
   carry_rating:
     current: 0
     max: 26
@@ -1351,44 +1265,52 @@ system:
       total: 0
       base: 40
       favored: false
+      bonus: 0
     end:
       value: 50
       total: 0
       base: 50
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     wp:
       value: 45
       total: 0
       base: 45
       favored: false
+      bonus: 0
     prc:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     prs:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 80
-    magic: null
+    magic: 0
     evade: 80
     observe: 70
     stealth: 80
@@ -1435,17 +1357,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '13'
+    value: 13
     base: 13
     bonus: 0
   initiative:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   speed:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1494,21 +1418,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1518,7 +1442,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1664,6 +1589,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1758,4 +1762,3 @@ prototypeToken:
 _id: MOWTcYdgSSWN99NF
 sort: 2500000
 _key: '!actors!MOWTcYdgSSWN99NF'
-

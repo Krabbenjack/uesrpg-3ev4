@@ -177,11 +177,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>If this character has the Spellcaster talent, they may spend 1 SP to
-        refresh all of their used spells.</p>
+        <p>If this character has the Spellcaster talent, they may spend 1 SP to refresh all of their used spells.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -422,9 +420,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character does not track magicka,
-        and can instead cast each spell it knows once.</span></p>
+      description: '<p><span style="color: #191813;">This character does not track magicka, and can instead cast each spell it knows once.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -566,98 +562,48 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Fires a bolt of elemental energy at target character within 100m.
-        Deals [Spell Strength] [type] damage.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Fires a bolt of elemental energy at target character within 100m. Deals [Spell Strength] [type] damage.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">14</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">16</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">1d8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">1d10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">2d8</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">2d10</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Fire], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}
-        (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload}
-        (+WpB to Dmg)
+      attributes: '[Fire], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
       form: Bolt
       school: destruction
       school_cat:
@@ -698,98 +644,48 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Fires a bolt of elemental energy at target character within 100m.
-        Deals [Spell Strength] [type] damage.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Fires a bolt of elemental energy at target character within 100m. Deals [Spell Strength] [type] damage.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">14</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">16</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">1d8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">1d10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">2d8</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">2d10</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Frost], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}
-        (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload}
-        (+WpB to Dmg)
+      attributes: '[Frost], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
       form: Bolt
       school: destruction
       school_cat:
@@ -830,98 +726,48 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Fires a bolt of elemental energy at target character within 100m.
-        Deals [Spell Strength] [type] damage.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Fires a bolt of elemental energy at target character within 100m. Deals [Spell Strength] [type] damage.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">14</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">16</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">1d8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">1d10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">2d8</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">2d10</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Shock], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}
-        (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload}
-        (+WpB to Dmg)
+      attributes: '[Shock], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
       form: Bolt
       school: destruction
       school_cat:
@@ -962,99 +808,48 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Fires a bolt of elemental energy at target character within 100m.
-        Deals [Spell Strength] [type] damage.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Fires a bolt of elemental energy at target character within 100m. Deals [Spell Strength] [type] damage.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">14</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">16</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">1d8</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">1d10</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">2d8</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">2d10</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Poison], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R
-        Attack} (100m),
-        @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to
-        Dmg)
+      attributes: '[Poison], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (100m), @Compendium[uesrpg-revision.journal.ELRN5yhwQUASYJXL]{Overload} (+WpB to Dmg)'
       form: Bolt
       school: destruction
       school_cat:
@@ -1099,124 +894,48 @@ items:
       JMrHvZADCRvhdKBh: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p><span style="color: #191813;">Affects the caster and all targets
-        within 1 + Z meters of the caster.</span></p>
-
-        <p style="box-sizing: border-box; user-select: text; color:
-        #191813;">Cost is calculated as: (4 + Z) + ( 2 * SL), minimum of 7.</p>
-
-        <table style="user-select: text; width: 465.455px; font-size: 12px;
-        color: #191813; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p><span style="color: #191813;">Affects the caster and all targets within 1 + Z meters of the caster.</span></p>
+        <p style="box-sizing: border-box; user-select: text; color: #191813;">Cost is calculated as: (4 + Z) + ( 2 * SL), minimum of 7.</p>
+        <table style="user-select: text; width: 465.455px; font-size: 12px; color: #191813; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody style="box-sizing: border-box; user-select: text;">
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Level</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">1</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">2</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">3</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">4</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">5</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">6</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">7</strong></td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Level</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">1</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">2</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">3</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">4</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">5</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">6</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">7</strong></td>
         </tr>
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Cost</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;">4</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;">6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;">8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;">10</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">12</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;">14</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">16</td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Cost</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;">4</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;">6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;">8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;">10</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">12</td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;">14</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">16</td>
         </tr>
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Spell Strength</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;">1d4</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;">1d6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;">1d8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;">1d10</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">2d6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;">2d8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">2d10</td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Spell Strength</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;">1d4</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;">1d6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;">1d8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;">1d10</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">2d6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;">2d8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">2d10</td>
         </tr>
-
         </tbody>
-
         </table>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Fire], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}
-        (100m), @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE}
-        (1+Zm, sphere)
+      attributes: '[Fire], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (100m), @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE} (1+Zm, sphere)'
       form: Pulse
       school: destruction
       school_cat:
@@ -1269,124 +988,48 @@ items:
       JMrHvZADCRvhdKBh: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p><span style="color: #191813;">Affects the caster and all targets
-        within 1 + Z meters of the caster.</span></p>
-
-        <p style="box-sizing: border-box; user-select: text; color:
-        #191813;">Cost is calculated as: (4 + Z) + ( 2 * SL), minimum of 7.</p>
-
-        <table style="user-select: text; width: 465.455px; font-size: 12px;
-        color: #191813; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p><span style="color: #191813;">Affects the caster and all targets within 1 + Z meters of the caster.</span></p>
+        <p style="box-sizing: border-box; user-select: text; color: #191813;">Cost is calculated as: (4 + Z) + ( 2 * SL), minimum of 7.</p>
+        <table style="user-select: text; width: 465.455px; font-size: 12px; color: #191813; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody style="box-sizing: border-box; user-select: text;">
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Level</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">1</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">2</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">3</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">4</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">5</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">6</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">7</strong></td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Level</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">1</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">2</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">3</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">4</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">5</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">6</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">7</strong></td>
         </tr>
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Cost</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;">4</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;">6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;">8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;">10</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">12</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;">14</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">16</td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Cost</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;">4</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;">6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;">8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;">10</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">12</td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;">14</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">16</td>
         </tr>
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Spell Strength</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;">1d4</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;">1d6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;">1d8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;">1d10</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">2d6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;">2d8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">2d10</td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Spell Strength</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;">1d4</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;">1d6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;">1d8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;">1d10</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">2d6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;">2d8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">2d10</td>
         </tr>
-
         </tbody>
-
         </table>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Frost], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}
-        (100m), @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE}
-        (1+Zm, sphere)
+      attributes: '[Frost], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (100m), @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE} (1+Zm, sphere)'
       form: Pulse
       school: destruction
       school_cat:
@@ -1439,124 +1082,48 @@ items:
       JMrHvZADCRvhdKBh: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p><span style="color: #191813;">Affects the caster and all targets
-        within 1 + Z meters of the caster.</span></p>
-
-        <p style="box-sizing: border-box; user-select: text; color:
-        #191813;">Cost is calculated as: (4 + Z) + ( 2 * SL), minimum of 7.</p>
-
-        <table style="user-select: text; width: 465.455px; font-size: 12px;
-        color: #191813; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p><span style="color: #191813;">Affects the caster and all targets within 1 + Z meters of the caster.</span></p>
+        <p style="box-sizing: border-box; user-select: text; color: #191813;">Cost is calculated as: (4 + Z) + ( 2 * SL), minimum of 7.</p>
+        <table style="user-select: text; width: 465.455px; font-size: 12px; color: #191813; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody style="box-sizing: border-box; user-select: text;">
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Level</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">1</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">2</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">3</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">4</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">5</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">6</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">7</strong></td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Level</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">1</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">2</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">3</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">4</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">5</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">6</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">7</strong></td>
         </tr>
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Cost</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;">4</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;">6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;">8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;">10</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">12</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;">14</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">16</td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Cost</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;">4</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;">6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;">8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;">10</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">12</td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;">14</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">16</td>
         </tr>
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Spell Strength</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;">1d4</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;">1d6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;">1d8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;">1d10</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">2d6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;">2d8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">2d10</td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Spell Strength</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;">1d4</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;">1d6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;">1d8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;">1d10</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">2d6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;">2d8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">2d10</td>
         </tr>
-
         </tbody>
-
         </table>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Shock], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}
-        (100m), @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE}
-        (1+Zm, sphere)
+      attributes: '[Shock], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (100m), @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE} (1+Zm, sphere)'
       form: Pulse
       school: destruction
       school_cat:
@@ -1609,125 +1176,48 @@ items:
       JMrHvZADCRvhdKBh: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p><span style="color: #191813;">Affects the caster and all targets
-        within 1 + Z meters of the caster.</span></p>
-
-        <p style="box-sizing: border-box; user-select: text; color:
-        #191813;">Cost is calculated as: (4 + Z) + ( 2 * SL), minimum of 7.</p>
-
-        <table style="user-select: text; width: 465.455px; font-size: 12px;
-        color: #191813; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p><span style="color: #191813;">Affects the caster and all targets within 1 + Z meters of the caster.</span></p>
+        <p style="box-sizing: border-box; user-select: text; color: #191813;">Cost is calculated as: (4 + Z) + ( 2 * SL), minimum of 7.</p>
+        <table style="user-select: text; width: 465.455px; font-size: 12px; color: #191813; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody style="box-sizing: border-box; user-select: text;">
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Level</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">1</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">2</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">3</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">4</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">5</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">6</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;"><strong style="box-sizing:
-        border-box; user-select: text;">7</strong></td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Level</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">1</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">2</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">3</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">4</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">5</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">6</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;"><strong style="box-sizing: border-box; user-select: text;">7</strong></td>
         </tr>
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Cost</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;">4</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;">6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;">8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;">10</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">12</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;">14</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">16</td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Cost</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;">4</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;">6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;">8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;">10</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">12</td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;">14</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">16</td>
         </tr>
-
         <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-
-        <td style="box-sizing: border-box; user-select: text; width: 116.193px;
-        height: 17px;"><strong style="box-sizing: border-box; user-select:
-        text;">Spell Strength</strong></td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 52.7273px;
-        height: 17px; text-align: center;">1d4</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50px;
-        height: 17px; text-align: center;">1d6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 47.2727px;
-        height: 17px; text-align: center;">1d8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 50.9091px;
-        height: 17px; text-align: center;">1d10</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">2d6</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 43.6364px;
-        height: 17px; text-align: center;">2d8</td>
-
-        <td style="box-sizing: border-box; user-select: text; width: 46.3636px;
-        height: 17px; text-align: center;">2d10</td>
-
+        <td style="box-sizing: border-box; user-select: text; width: 116.193px; height: 17px;"><strong style="box-sizing: border-box; user-select: text;">Spell Strength</strong></td>
+        <td style="box-sizing: border-box; user-select: text; width: 52.7273px; height: 17px; text-align: center;">1d4</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50px; height: 17px; text-align: center;">1d6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 47.2727px; height: 17px; text-align: center;">1d8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 50.9091px; height: 17px; text-align: center;">1d10</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">2d6</td>
+        <td style="box-sizing: border-box; user-select: text; width: 43.6364px; height: 17px; text-align: center;">2d8</td>
+        <td style="box-sizing: border-box; user-select: text; width: 46.3636px; height: 17px; text-align: center;">2d10</td>
         </tr>
-
         </tbody>
-
         </table>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Poison], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R
-        Attack} (100m),
-        @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE} (1+Zm,
-        sphere)
+      attributes: '[Poison], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (100m), @Compendium[uesrpg-revision.journal.nsLri17F6nvgG4uC]{AoE} (1+Zm, sphere)'
       form: Pulse
       school: destruction
       school_cat:
@@ -1780,105 +1270,50 @@ items:
       JMrHvZADCRvhdKBh: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p><span style="color: #191813;">Affects a single target within 50m of
-        the caster. Then affects up to Z addititional targets chosen by the
-        caster, each within 10m of the previous target(use first roll). If a
-        target evades this attack, the spell skips that target on moves on to
-        the next target.</span></p>
-
-        <p><span style="color: #191813;">Cost is calculated as: 5 + (Z * 2) + (2
-        * SL), a minimum of 9.</span></p>
-
+      description: |-
+        <p><span style="color: #191813;">Affects a single target within 50m of the caster. Then affects up to Z addititional targets chosen by the caster, each within 10m of the previous target(use first roll). If a target evades this attack, the spell skips that target on moves on to the next target.</span></p>
+        <p><span style="color: #191813;">Cost is calculated as: 5 + (Z * 2) + (2 * SL), a minimum of 9.</span></p>
         <p>&nbsp;</p>
-
-        <table style="width: 465.455px; height: 51px;" border="2"
-        cellspacing="2" cellpadding="1">
-
+        <table style="width: 465.455px; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
         <td style="width: 116.193px; height: 17px;"><strong>Level</strong></td>
-
-        <td style="width: 52.7273px; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 50px; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 47.2727px; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 50.9091px; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 43.6364px; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 52.7273px; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 50px; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 47.2727px; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 50.9091px; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 46.3636px; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 43.6364px; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 46.3636px; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
         <td style="width: 116.193px; height: 17px;"><strong>Cost</strong></td>
-
         <td style="width: 52.7273px; height: 17px; text-align: center;">4</td>
-
         <td style="width: 50px; height: 17px; text-align: center;">6</td>
-
         <td style="width: 47.2727px; height: 17px; text-align: center;">8</td>
-
         <td style="width: 50.9091px; height: 17px; text-align: center;">10</td>
-
         <td style="width: 46.3636px; height: 17px; text-align: center;">12</td>
-
         <td style="width: 43.6364px; height: 17px; text-align: center;">14</td>
-
         <td style="width: 46.3636px; height: 17px; text-align: center;">16</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 116.193px; height: 17px;"><strong>Spell
-        Strength</strong></td>
-
+        <td style="width: 116.193px; height: 17px;"><strong>Spell Strength</strong></td>
         <td style="width: 52.7273px; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 50px; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 47.2727px; height: 17px; text-align: center;">1d8</td>
-
-        <td style="width: 50.9091px; height: 17px; text-align:
-        center;">1d10</td>
-
+        <td style="width: 50.9091px; height: 17px; text-align: center;">1d10</td>
         <td style="width: 46.3636px; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 43.6364px; height: 17px; text-align: center;">2d8</td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;">2d10</td>
-
+        <td style="width: 46.3636px; height: 17px; text-align: center;">2d10</td>
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Fire], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}
-        (50m)
+      attributes: '[Fire], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (50m)'
       form: Chain
       school: destruction
       school_cat:
@@ -1931,105 +1366,50 @@ items:
       JMrHvZADCRvhdKBh: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p><span style="color: #191813;">Affects a single target within 50m of
-        the caster. Then affects up to Z addititional targets chosen by the
-        caster, each within 10m of the previous target(use first roll). If a
-        target evades this attack, the spell skips that target on moves on to
-        the next target.</span></p>
-
-        <p><span style="color: #191813;">Cost is calculated as: 5 + (Z * 2) + (2
-        * SL), a minimum of 9.</span></p>
-
+      description: |-
+        <p><span style="color: #191813;">Affects a single target within 50m of the caster. Then affects up to Z addititional targets chosen by the caster, each within 10m of the previous target(use first roll). If a target evades this attack, the spell skips that target on moves on to the next target.</span></p>
+        <p><span style="color: #191813;">Cost is calculated as: 5 + (Z * 2) + (2 * SL), a minimum of 9.</span></p>
         <p>&nbsp;</p>
-
-        <table style="width: 465.455px; height: 51px;" border="2"
-        cellspacing="2" cellpadding="1">
-
+        <table style="width: 465.455px; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
         <td style="width: 116.193px; height: 17px;"><strong>Level</strong></td>
-
-        <td style="width: 52.7273px; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 50px; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 47.2727px; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 50.9091px; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 43.6364px; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 52.7273px; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 50px; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 47.2727px; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 50.9091px; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 46.3636px; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 43.6364px; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 46.3636px; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
         <td style="width: 116.193px; height: 17px;"><strong>Cost</strong></td>
-
         <td style="width: 52.7273px; height: 17px; text-align: center;">4</td>
-
         <td style="width: 50px; height: 17px; text-align: center;">6</td>
-
         <td style="width: 47.2727px; height: 17px; text-align: center;">8</td>
-
         <td style="width: 50.9091px; height: 17px; text-align: center;">10</td>
-
         <td style="width: 46.3636px; height: 17px; text-align: center;">12</td>
-
         <td style="width: 43.6364px; height: 17px; text-align: center;">14</td>
-
         <td style="width: 46.3636px; height: 17px; text-align: center;">16</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 116.193px; height: 17px;"><strong>Spell
-        Strength</strong></td>
-
+        <td style="width: 116.193px; height: 17px;"><strong>Spell Strength</strong></td>
         <td style="width: 52.7273px; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 50px; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 47.2727px; height: 17px; text-align: center;">1d8</td>
-
-        <td style="width: 50.9091px; height: 17px; text-align:
-        center;">1d10</td>
-
+        <td style="width: 50.9091px; height: 17px; text-align: center;">1d10</td>
         <td style="width: 46.3636px; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 43.6364px; height: 17px; text-align: center;">2d8</td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;">2d10</td>
-
+        <td style="width: 46.3636px; height: 17px; text-align: center;">2d10</td>
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Frost], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}
-        (50m)
+      attributes: '[Frost], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (50m)'
       form: Chain
       school: destruction
       school_cat:
@@ -2082,105 +1462,50 @@ items:
       JMrHvZADCRvhdKBh: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p><span style="color: #191813;">Affects a single target within 50m of
-        the caster. Then affects up to Z addititional targets chosen by the
-        caster, each within 10m of the previous target(use first roll). If a
-        target evades this attack, the spell skips that target on moves on to
-        the next target.</span></p>
-
-        <p><span style="color: #191813;">Cost is calculated as: 5 + (Z * 2) + (2
-        * SL), a minimum of 9.</span></p>
-
+      description: |-
+        <p><span style="color: #191813;">Affects a single target within 50m of the caster. Then affects up to Z addititional targets chosen by the caster, each within 10m of the previous target(use first roll). If a target evades this attack, the spell skips that target on moves on to the next target.</span></p>
+        <p><span style="color: #191813;">Cost is calculated as: 5 + (Z * 2) + (2 * SL), a minimum of 9.</span></p>
         <p>&nbsp;</p>
-
-        <table style="width: 465.455px; height: 51px;" border="2"
-        cellspacing="2" cellpadding="1">
-
+        <table style="width: 465.455px; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
         <td style="width: 116.193px; height: 17px;"><strong>Level</strong></td>
-
-        <td style="width: 52.7273px; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 50px; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 47.2727px; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 50.9091px; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 43.6364px; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 52.7273px; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 50px; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 47.2727px; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 50.9091px; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 46.3636px; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 43.6364px; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 46.3636px; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
         <td style="width: 116.193px; height: 17px;"><strong>Cost</strong></td>
-
         <td style="width: 52.7273px; height: 17px; text-align: center;">4</td>
-
         <td style="width: 50px; height: 17px; text-align: center;">6</td>
-
         <td style="width: 47.2727px; height: 17px; text-align: center;">8</td>
-
         <td style="width: 50.9091px; height: 17px; text-align: center;">10</td>
-
         <td style="width: 46.3636px; height: 17px; text-align: center;">12</td>
-
         <td style="width: 43.6364px; height: 17px; text-align: center;">14</td>
-
         <td style="width: 46.3636px; height: 17px; text-align: center;">16</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 116.193px; height: 17px;"><strong>Spell
-        Strength</strong></td>
-
+        <td style="width: 116.193px; height: 17px;"><strong>Spell Strength</strong></td>
         <td style="width: 52.7273px; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 50px; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 47.2727px; height: 17px; text-align: center;">1d8</td>
-
-        <td style="width: 50.9091px; height: 17px; text-align:
-        center;">1d10</td>
-
+        <td style="width: 50.9091px; height: 17px; text-align: center;">1d10</td>
         <td style="width: 46.3636px; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 43.6364px; height: 17px; text-align: center;">2d8</td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;">2d10</td>
-
+        <td style="width: 46.3636px; height: 17px; text-align: center;">2d10</td>
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Shock], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack}
-        (50m)
+      attributes: '[Shock], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (50m)'
       form: Chain
       school: destruction
       school_cat:
@@ -2233,105 +1558,50 @@ items:
       JMrHvZADCRvhdKBh: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p><span style="color: #191813;">Affects a single target within 50m of
-        the caster. Then affects up to Z addititional targets chosen by the
-        caster, each within 10m of the previous target(use first roll). If a
-        target evades this attack, the spell skips that target on moves on to
-        the next target.</span></p>
-
-        <p><span style="color: #191813;">Cost is calculated as: 5 + (Z * 2) + (2
-        * SL), a minimum of 9.</span></p>
-
+      description: |-
+        <p><span style="color: #191813;">Affects a single target within 50m of the caster. Then affects up to Z addititional targets chosen by the caster, each within 10m of the previous target(use first roll). If a target evades this attack, the spell skips that target on moves on to the next target.</span></p>
+        <p><span style="color: #191813;">Cost is calculated as: 5 + (Z * 2) + (2 * SL), a minimum of 9.</span></p>
         <p>&nbsp;</p>
-
-        <table style="width: 465.455px; height: 51px;" border="2"
-        cellspacing="2" cellpadding="1">
-
+        <table style="width: 465.455px; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
         <td style="width: 116.193px; height: 17px;"><strong>Level</strong></td>
-
-        <td style="width: 52.7273px; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 50px; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 47.2727px; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 50.9091px; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 43.6364px; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 52.7273px; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 50px; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 47.2727px; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 50.9091px; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 46.3636px; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 43.6364px; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 46.3636px; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
         <td style="width: 116.193px; height: 17px;"><strong>Cost</strong></td>
-
         <td style="width: 52.7273px; height: 17px; text-align: center;">4</td>
-
         <td style="width: 50px; height: 17px; text-align: center;">6</td>
-
         <td style="width: 47.2727px; height: 17px; text-align: center;">8</td>
-
         <td style="width: 50.9091px; height: 17px; text-align: center;">10</td>
-
         <td style="width: 46.3636px; height: 17px; text-align: center;">12</td>
-
         <td style="width: 43.6364px; height: 17px; text-align: center;">14</td>
-
         <td style="width: 46.3636px; height: 17px; text-align: center;">16</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 116.193px; height: 17px;"><strong>Spell
-        Strength</strong></td>
-
+        <td style="width: 116.193px; height: 17px;"><strong>Spell Strength</strong></td>
         <td style="width: 52.7273px; height: 17px; text-align: center;">1d4</td>
-
         <td style="width: 50px; height: 17px; text-align: center;">1d6</td>
-
         <td style="width: 47.2727px; height: 17px; text-align: center;">1d8</td>
-
-        <td style="width: 50.9091px; height: 17px; text-align:
-        center;">1d10</td>
-
+        <td style="width: 50.9091px; height: 17px; text-align: center;">1d10</td>
         <td style="width: 46.3636px; height: 17px; text-align: center;">2d6</td>
-
         <td style="width: 43.6364px; height: 17px; text-align: center;">2d8</td>
-
-        <td style="width: 46.3636px; height: 17px; text-align:
-        center;">2d10</td>
-
+        <td style="width: 46.3636px; height: 17px; text-align: center;">2d10</td>
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: 1d6
       level: 2
       cost: 6
       spell_str: ''
-      attributes: >-
-        [Poison], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R
-        Attack} (50m)
+      attributes: '[Poison], @Compendium[uesrpg-revision.journal.XtV9n7rHuDGDbW2j]{R Attack} (50m)'
       form: Chain
       school: destruction
       school_cat:
@@ -2363,7 +1633,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732336010241
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -2410,53 +1680,23 @@ system:
       value: 0
   race: Imp, Spellcaster, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Imps</h2>
-
-    <p>Imps can be found across Tamriel, but are most common in the Cyrodiilic
-    highlands. Their preferred dwellings are caves, ruins, abandoned villages,
-    or the trees themselves, the small creatures are not particularly picky.</p>
-
-    <p>Imps are of low to average intelligence, and can be found living in small
-    communities, but to call them any sort of society would be a stretch. Imps
-    band together to bring down larger prey, which they eat and plunder, but the
-    moment their mutual goals are met, the imps will turn on one another,
-    convinced the treasure and meat is theirs and theirs alone. For this reason,
-    imps are most commonly found solitary, or in the presence of other dead
-    imps.</p>
-
-    <p>Despite their violent nature, they have been known to have been tamed and
-    befriended by men and mer. They have been recorded to occasionally carry
-    precious items like enchanted rings and even small effigies of their own
-    kind. Whether or not the imps in question understand the true nature of the
-    magic items they carry, or how and why they would have such dolls is
-    entirely unknown.</p>
-
-    <p>Imps attack nearly exclusively using primitive hedgemagicks, and they are
-    happy to attack any travellers or creatures they find, often going up
-    against monsters and heroes many times their size without fear. Imps never
-    flee from combat, and are suicidally brave.</p>
-
-    <p>Where all these imps are coming from, considering they tend to violently
-    kill one another, and often die to large monsters or adventurers in suicidal
-    attacks, nobody knows. It is a complete and total mystery, and has been for
-    centuries.</p>
-
+    <p>Imps can be found across Tamriel, but are most common in the Cyrodiilic highlands. Their preferred dwellings are caves, ruins, abandoned villages, or the trees themselves, the small creatures are not particularly picky.</p>
+    <p>Imps are of low to average intelligence, and can be found living in small communities, but to call them any sort of society would be a stretch. Imps band together to bring down larger prey, which they eat and plunder, but the moment their mutual goals are met, the imps will turn on one another, convinced the treasure and meat is theirs and theirs alone. For this reason, imps are most commonly found solitary, or in the presence of other dead imps.</p>
+    <p>Despite their violent nature, they have been known to have been tamed and befriended by men and mer. They have been recorded to occasionally carry precious items like enchanted rings and even small effigies of their own kind. Whether or not the imps in question understand the true nature of the magic items they carry, or how and why they would have such dolls is entirely unknown.</p>
+    <p>Imps attack nearly exclusively using primitive hedgemagicks, and they are happy to attack any travellers or creatures they find, often going up against monsters and heroes many times their size without fear. Imps never flee from combat, and are suicidally brave.</p>
+    <p>Where all these imps are coming from, considering they tend to violently kill one another, and often die to large monsters or adventurers in suicidal attacks, nobody knows. It is a complete and total mystery, and has been for centuries.</p>
     <h2>Imp Loot</h2>
-
     <ul>
-
-    <li>On a +0 Alchemy test over a Short Rest, a character can carefully
-    retrieve the delicate imp gall, which is a Very Rare Destruction and
-    Restoration ingredient.</li>
-
+    <li>On a +0 Alchemy test over a Short Rest, a character can carefully retrieve the delicate imp gall, which is a Very Rare Destruction and Restoration ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '120'
@@ -2482,6 +1722,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -2512,7 +1753,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '0.0'
+  current_enc: 0
   carry_rating:
     current: 0
     max: 6
@@ -2522,44 +1763,52 @@ system:
   characteristics:
     str:
       value: 15
-      total: null
+      total: 15
       base: 15
       favored: false
+      bonus: 0
     end:
       value: 15
-      total: null
+      total: 15
       base: 15
       favored: false
+      bonus: 0
     agi:
       value: 35
-      total: null
+      total: 35
       base: 35
       favored: false
+      bonus: 0
     int:
       value: 25
-      total: null
+      total: 25
       base: 25
       favored: false
+      bonus: 0
     wp:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     prc:
       value: 30
-      total: null
+      total: 30
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 5
-      total: null
+      total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
-      value: null
-      total: null
+      value: 0
+      total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 15
     magic: 55
@@ -2609,17 +1858,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '6'
+    value: 6
     base: 6
     bonus: 0
   initiative:
-    value: '8'
+    value: 8
     base: 8
     bonus: 0
   speed:
-    value: '7'
+    value: 7
     base: 7
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: tiny
   size_cat:
     puny: Puny
@@ -2668,21 +1919,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -2692,7 +1943,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2838,6 +2090,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2930,4 +2261,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!NTI0G8bTLN9pVgWT'
-

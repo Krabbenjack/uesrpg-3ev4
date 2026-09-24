@@ -71,9 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character adds a bonus DoS to any successful Combat Style or
-        evade test made while within melee range of only one opponent.</p>
+      description: <p>The character adds a bonus DoS to any successful Combat Style or evade test made while within melee range of only one opponent.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -155,10 +153,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>While being watched by a crowd, this character can spend 1 AP to test
-        Social. If they succeed, they gain a +20 to all Combat tests until they
-        fail a Combat test.</p>
+      description: <p>While being watched by a crowd, this character can spend 1 AP to test Social. If they succeed, they gain a +20 to all Combat tests until they fail a Combat test.</p>
       xpCost: 0
       level: 0
       talentReq: ''
@@ -247,9 +242,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -268,10 +261,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing} (2),
-        @Compendium[uesrpg-revision.journal.9tFMijYvjZUSN2HV]{Dueling Weapon},
-        @Compendium[uesrpg-revision.journal.Wfal2Flb1JAm3QyD]{Hooked}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing} (2), @Compendium[uesrpg-revision.journal.9tFMijYvjZUSN2HV]{Dueling Weapon}, @Compendium[uesrpg-revision.journal.Wfal2Flb1JAm3QyD]{Hooked}'
       charge:
         value: 0
         max: 0
@@ -358,9 +348,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 3
       totalENC: 0
@@ -379,10 +367,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.Q8ED7VzyqBKpfxEo]{Impaling},
-        @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.Q8ED7VzyqBKpfxEo]{Impaling}, @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -469,9 +454,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -490,9 +473,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.DfC1501wL64oIckY]{Entangling},
-        @Compendium[uesrpg-revision.journal.rOEKxH0jiC62uvFH]{Thrown} (3/4/5)
+      qualities: '@Compendium[uesrpg-revision.journal.DfC1501wL64oIckY]{Entangling}, @Compendium[uesrpg-revision.journal.rOEKxH0jiC62uvFH]{Thrown} (3/4/5)'
       charge:
         value: 0
         max: 0
@@ -579,11 +560,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -691,11 +668,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -803,11 +776,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -915,11 +884,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1027,11 +992,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1139,11 +1100,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Basic Iron Armor is used by most amateur milita, mercenary
-        groups, and even common bandits. The armor is tough and easy to craft
-        and repair, making it the gold standard for any warriors looking for
-        protection and reliability at a low cost.</em></p>
+      description: <p><em>Basic Iron Armor is used by most amateur milita, mercenary groups, and even common bandits. The armor is tough and easy to craft and repair, making it the gold standard for any warriors looking for protection and reliability at a low cost.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1183,7 +1140,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338994062
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1229,18 +1186,14 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>Throughout all the Arenas and battles for sport across Tamriel, there
-    lies a great many people across all races willing to join. These fighters
-    have a flair for the dramatic, and battle as if it is an art form, always
-    ready to please a crowd.</em></p>
+  bio: <p><em>Throughout all the Arenas and battles for sport across Tamriel, there lies a great many people across all races willing to join. These fighters have a flair for the dramatic, and battle as if it is an art form, always ready to please a crowd.</em></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -1265,6 +1218,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1295,7 +1249,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '23.0'
+  current_enc: 23
   carry_rating:
     current: 0
     max: 22
@@ -1308,44 +1262,52 @@ system:
       total: 0
       base: 45
       favored: false
+      bonus: 0
     end:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     agi:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     int:
       value: 25
       total: 0
       base: 25
       favored: false
+      bonus: 0
     wp:
       value: 25
       total: 0
       base: 25
       favored: false
+      bonus: 0
     prc:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 75
-    magic: null
+    magic: 0
     evade: 30
     observe: 40
     stealth: 15
@@ -1392,17 +1354,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
   initiative:
-    value: '8'
+    value: 8
     base: 8
     bonus: 0
   speed:
-    value: '10'
+    value: 10
     base: 9
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1451,21 +1415,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1475,6 +1439,7 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
+      rank: ''
   talents: ''
   traits: ''
   powers: ''
@@ -1621,6 +1586,85 @@ system:
       ar: 3
       magic_ar: '0'
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1715,4 +1759,3 @@ prototypeToken:
 _id: v0Qe2aYnUgagxBPM
 sort: 2900000
 _key: '!actors!v0Qe2aYnUgagxBPM'
-

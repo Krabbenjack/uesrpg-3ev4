@@ -185,13 +185,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are mere walking corpses. They do not
-        breathe, or require organs or correct pressures to function. They are
-        immune to things such as disease, poison, passive wound effects, aging,
-        fatigue, and a number of conditions including but not limited to: dazed,
-        deafened, and organ damage. Use common sense when deciding what can and
-        cannot affect characters with this trait.</p>
+      description: '<p>Characters with this trait are mere walking corpses. They do not breathe, or require organs or correct pressures to function. They are immune to things such as disease, poison, passive wound effects, aging, fatigue, and a number of conditions including but not limited to: dazed, deafened, and organ damage. Use common sense when deciding what can and cannot affect characters with this trait.</p>'
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -269,11 +263,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -351,11 +341,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -424,13 +410,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">As part of a melee attack with a 2H
-        weapon, this character can strike up to 3 targets within reach as a
-        single attack. Roll once for the attack and resolve damage seperately
-        for each target.</span></p>
+        <p><span style="color: #191813;">As part of a melee attack with a 2H weapon, this character can strike up to 3 targets within reach as a single attack. Roll once for the attack and resolve damage seperately for each target.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -506,13 +488,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>After successfully parrying a melee attack, this character can make a
-        free Attack Action against the target he parried as long as the target
-        is in reach. This does not count toward the total attacks per round
-        limit.</p>
+        <p>After successfully parrying a melee attack, this character can make a free Attack Action against the target he parried as long as the target is in reach. This does not count toward the total attacks per round limit.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -622,11 +600,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}'
       charge:
         value: 0
         max: 0
@@ -712,9 +686,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p style="box-sizing: border-box; user-select: text; color:
-        #191813;"><em style="color: #000000;">An ancient nordic weapon.</em></p>
+      description: '<p style="box-sizing: border-box; user-select: text; color: #191813;"><em style="color: #000000;">An ancient nordic weapon.</em></p>'
       quantity: 1
       enc: 4
       totalENC: 0
@@ -733,10 +705,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.6urnr7lIlWIINHiL]{Magic}'
       charge:
         value: 0
         max: 0
@@ -822,9 +791,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p style="box-sizing: border-box; user-select: text; color:
-        #191813;"><em style="color: #000000;">An ancient nordic weapon.</em></p>
+      description: '<p style="box-sizing: border-box; user-select: text; color: #191813;"><em style="color: #000000;">An ancient nordic weapon.</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -843,9 +810,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing},
-        @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}
+      qualities: '@Compendium[uesrpg-revision.journal.8QrUeG8YXaLx1BqW]{Slashing}, @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}'
       charge:
         value: 0
         max: 0
@@ -931,9 +896,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em>Ancient nordic armor crafted for a specific individual who was a
-        leader and powerful warrior when they were alive.</em></p>
+      description: <p><em>Ancient nordic armor crafted for a specific individual who was a leader and powerful warrior when they were alive.</em></p>
       quantity: 1
       enc: 4
       totalENC: 0
@@ -1040,9 +1003,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><span style="color: #191813;"><em>An ancient nordic shield that once
-        belonged to a powerful warrior.</em></span></p>
+      description: '<p><span style="color: #191813;"><em>An ancient nordic shield that once belonged to a powerful warrior.</em></span></p>'
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1135,26 +1096,15 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>The Draugr Deathlord can use an Action to Shout. With a +0 Magic
-        Test, the Deathlord knows the first two words of three of the shouts
-        below:</p>
-
+        <p>The Draugr Deathlord can use an Action to Shout. With a +0 Magic Test, the Deathlord knows the first two words of three of the shouts below:</p>
         <ul>
-
         <li>@Compendium[uesrpg-d100.powers.6GDDWg4dUFdOL6mz]{Dismay}</li>
-
         <li>@Compendium[uesrpg-d100.powers.BKJFmdN4f9K8cYAF]{Frost Breath}</li>
-
         <li>@Compendium[uesrpg-d100.powers.BYjDZpxayQ7qJmhJ]{Fleshrend}</li>
-
         <li>@Compendium[uesrpg-d100.powers.0HV5rp2YGl9X28di]{Slow Time}</li>
-
-        <li>@Compendium[uesrpg-d100.powers.bfYSS268E4MF5GrX]{Unrelenting
-        Force}</li>
-
+        <li>@Compendium[uesrpg-d100.powers.bfYSS268E4MF5GrX]{Unrelenting Force}</li>
         </ul>
       dailyUse: false
       source: Scroll of Thu'um
@@ -1232,14 +1182,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><strong><span style="color: #191813;">Cost:</span></strong><span
-        style="color: #191813;"> 1 SP</span></p>
-
-        <p><span style="color: #191813;">On its turn as part of an Action, the
-        Draugr can spend 1 SP to call his Draugr to fight harder. All allied
-        Draugr within 10m can immediately make an attack as a free
-        action.</span></p>
+      description: |-
+        <p><strong><span style="color: #191813;">Cost:</span></strong><span style="color: #191813;"> 1 SP</span></p>
+        <p><span style="color: #191813;">On its turn as part of an Action, the Draugr can spend 1 SP to call his Draugr to fight harder. All allied Draugr within 10m can immediately make an attack as a free action.</span></p>
       dailyUse: false
       source: Scroll of Thu'um
       shiftForm: false
@@ -1263,7 +1208,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339371046
   modifiedTime: 1732339428995
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1309,49 +1254,22 @@ system:
       value: 0
   race: Draugr, Undead
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Draugr Deathlords</h2>
-
-    <p>A Draugr Deathlord is a fearsome foe. Both skilled at martial combat and
-    with the use of the Thu'um, a Deathlord is not easily bested. Combined with
-    his ability to muster Draugr to give them bonus attacks, makes fighting a
-    Deathlord in his home turf an absolutely brutal fight. Characters hunting a
-    Draugr Deathlord should take special care to separate him from his retinue,
-    or have a way to quickly deal with them or the Deathlord will overwhelm them
-    with volume of attacks.</p>
-
-    <p>The Deathlord has 4 AP, meaning he has a LOT ofpotential attacks and
-    defences, and combined with his Slow Time shout, a Deathlord is more than a
-    match for a party of adventurers.</p>
-
-    <p>Draugr Deathlords are often found in the deepest part of their ruins,
-    often accompanying or protecting the sarcophagus of his Dragon Priest
-    master, if he has one. Some more ambitious Deathlords occassionally attack
-    settlements, but this hasn't happened in a long time. Because Deathlords are
-    so often on the defensive, they have time to plot out elaborate and cruel
-    defensive strategies, and have often designed their sanctums to be "kill
-    rooms," built for the explicit purpose of absolutely halting any invading
-    forces with extreme force.</p>
-
+    <p>A Draugr Deathlord is a fearsome foe. Both skilled at martial combat and with the use of the Thu'um, a Deathlord is not easily bested. Combined with his ability to muster Draugr to give them bonus attacks, makes fighting a Deathlord in his home turf an absolutely brutal fight. Characters hunting a Draugr Deathlord should take special care to separate him from his retinue, or have a way to quickly deal with them or the Deathlord will overwhelm them with volume of attacks.</p>
+    <p>The Deathlord has 4 AP, meaning he has a LOT ofpotential attacks and defences, and combined with his Slow Time shout, a Deathlord is more than a match for a party of adventurers.</p>
+    <p>Draugr Deathlords are often found in the deepest part of their ruins, often accompanying or protecting the sarcophagus of his Dragon Priest master, if he has one. Some more ambitious Deathlords occassionally attack settlements, but this hasn't happened in a long time. Because Deathlords are so often on the defensive, they have time to plot out elaborate and cruel defensive strategies, and have often designed their sanctums to be "kill rooms," built for the explicit purpose of absolutely halting any invading forces with extreme force.</p>
     <h2>Draugr Deathlord Loot</h2>
-
     <ul>
-
-    <li>A Draugr Deathlord is often buried with the material wealth he
-    accumulated in life, which is a lot. The GM can tell you how many rolls a
-    character gets on the Treasure Table, but the suggested range is at least 10
-    or more.</li>
-
-    <li>A character can harvest a Draugr Deathlord's tongue, which is a
-    Legendary Destruction ingredient.</li>
-
+    <li>A Draugr Deathlord is often buried with the material wealth he accumulated in life, which is a lot. The GM can tell you how many rolls a character gets on the Treasure Table, but the suggested range is at least 10 or more.</li>
+    <li>A character can harvest a Draugr Deathlord's tongue, which is a Legendary Destruction ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1000'
@@ -1377,6 +1295,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1407,7 +1326,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '37.1'
+  current_enc: 37.1
   carry_rating:
     current: 0
     max: 30
@@ -1420,41 +1339,49 @@ system:
       total: 50
       base: 50
       favored: false
+      bonus: 0
     end:
       value: 55
       total: 55
       base: 55
       favored: false
+      bonus: 0
     agi:
       value: 40
       total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     wp:
       value: 55
       total: 55
       base: 55
       favored: false
+      bonus: 0
     prc:
       value: 45
       total: 45
       base: 45
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 90
     magic: 80
@@ -1504,17 +1431,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '15'
+    value: 15
     base: 15
     bonus: 0
   initiative:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   speed:
-    value: '13'
+    value: 13
     base: 12
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1587,18 +1516,12 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: >-
-    <p>The Draugr Deathlord&rsquo;s weapons may have one of the following
-    enchantments:</p>
-
-    <p>&bull; <strong>Frostbiter:</strong> Deals 4 bonus Frost damage on
-    Strike.</p>
-
-    <p>&bull; <strong>Heartdrinker:</strong> The wielder heals up to 4 HP on
-    Strike, limited by the damage of the attack.</p>
-
-    <p>&bull; <strong>Mage-Killer:</strong> The target tests a -10 Willpower or
-    is Silenced for two Rounds on Strike.</p>
+      rank: ''
+  talents: |-
+    <p>The Draugr Deathlord&rsquo;s weapons may have one of the following enchantments:</p>
+    <p>&bull; <strong>Frostbiter:</strong> Deals 4 bonus Frost damage on Strike.</p>
+    <p>&bull; <strong>Heartdrinker:</strong> The wielder heals up to 4 HP on Strike, limited by the damage of the attack.</p>
+    <p>&bull; <strong>Mage-Killer:</strong> The target tests a -10 Willpower or is Silenced for two Rounds on Strike.</p>
   traits: ''
   powers: ''
   spells: ''
@@ -1744,6 +1667,85 @@ system:
       ar: 8
       magic_ar: 3 Frost
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1838,4 +1840,3 @@ prototypeToken:
 _id: QxCqUuYy4EqSAk93
 sort: 1200000
 _key: '!actors!QxCqUuYy4EqSAk93'
-

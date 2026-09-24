@@ -185,10 +185,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait can see normally even in areas with total
-        darkness, and never takes penalties for acting in areas with dim or no
-        lighting.</p>
+      description: <p>A character with this trait can see normally even in areas with total darkness, and never takes penalties for acting in areas with dim or no lighting.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -266,10 +263,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character is immune to any of the effects of the thing specified
-        in parenthesis. The character may have multiple instances of this trait
-        for different effects.</p>
+      description: <p>The character is immune to any of the effects of the thing specified in parenthesis. The character may have multiple instances of this trait for different effects.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -347,11 +341,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -429,10 +419,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to mundane weapons. If the
-        character suffers damage from a weapon/attack without the Magic quality
-        reduce that damage by X after any other mitigation.</p>
+      description: <p>Characters with this trait are resistant to mundane weapons. If the character suffers damage from a weapon/attack without the Magic quality reduce that damage by X after any other mitigation.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -510,14 +497,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait have purely skeletal forms. Attempts to
-        hit them with ranged weapons suffer a -20 penalty. Characters with this
-        trait also automatically gain the Undead trait as well, and are immune
-        to the Burning (X) condition.</p>
-
-        <p>This creature is immune to the Slashing damage bonus from weapons,
-        but suf-fers twice the Crushing bonus from weapons.</p>
+      description: |-
+        <p>Characters with this trait have purely skeletal forms. Attempts to hit them with ranged weapons suffer a -20 penalty. Characters with this trait also automatically gain the Undead trait as well, and are immune to the Burning (X) condition.</p>
+        <p>This creature is immune to the Slashing damage bonus from weapons, but suf-fers twice the Crushing bonus from weapons.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -595,13 +577,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are mere walking corpses. They do not
-        breathe, or require organs or correct pressures to function. They are
-        immune to things such as disease, poison, passive wound effects, aging,
-        fatigue, and a number of conditions including but not limited to: dazed,
-        deafened, and organ damage. Use common sense when deciding what can and
-        cannot affect characters with this trait.</p>
+      description: '<p>Characters with this trait are mere walking corpses. They do not breathe, or require organs or correct pressures to function. They are immune to things such as disease, poison, passive wound effects, aging, fatigue, and a number of conditions including but not limited to: dazed, deafened, and organ damage. Use common sense when deciding what can and cannot affect characters with this trait.</p>'
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -670,11 +646,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>This character can add their Strength Bonus to their melee weapon
-        attack damage.</p>
+        <p>This character can add their Strength Bonus to their melee weapon attack damage.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -750,11 +724,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>The character can reduce the Reload quality of ranged weapons they
-        wield by 1.</p>
+        <p>The character can reduce the Reload quality of ranged weapons they wield by 1.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -830,11 +802,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 2 SP</p>
-
-        <p>This character can ignore a single damaging hit with a non-Crushing
-        or non-Magical weapon that strikes its Body Hit Location.</p>
+        <p>This character can ignore a single damaging hit with a non-Crushing or non-Magical weapon that strikes its Body Hit Location.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -919,10 +889,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character has increased abilities compared to others. Increase
-        their HP, Wound Threshold (WT) and other relevant values using the
-        fields on this trait sheet.</p>
+      description: <p>This character has increased abilities compared to others. Increase their HP, Wound Threshold (WT) and other relevant values using the fields on this trait sheet.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1000,10 +967,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait have more magicka than usual. The size of
-        their Magicka Pool is increased by X. If the character would receive
-        this trait more than once, combine the X values.</p>
+      description: <p>Characters with this trait have more magicka than usual. The size of their Magicka Pool is increased by X. If the character would receive this trait more than once, combine the X values.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1211,9 +1175,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -1299,9 +1261,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 2
       totalENC: 0
@@ -1320,9 +1280,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -1532,9 +1490,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -1619,10 +1575,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Replace 'Ammunition' with Bolts or Arrows.</p>
       quantity: 12
       enc: 0.1
@@ -1716,10 +1670,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Replace 'Ammunition' with Bolts or Arrows.</p>
       quantity: 12
       enc: 0.1
@@ -1814,12 +1766,9 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Can be either partial or full armor type.</em></p>
-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Full armor has 4 AR.</em></p>
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Can be either partial or full armor type.</em></p>
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Full armor has 4 AR.</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1859,7 +1808,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339424733
   modifiedTime: 1732339428995
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1905,44 +1854,21 @@ system:
       value: 0
   race: Skeleton, Undead
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Skeletons</h2>
-
-    <p>Skeletons are the reanimated bones that many necromancers and other dark
-    magics can create and command. Usually found in or around ancient ruins or
-    guarding a necromancer&rsquo;s lair, they can be potent foes against the
-    average adventurer and pose a serious threat to untrained combatants. More
-    experienced adventurers should have no problem disposing of them, but they
-    tend to have numbers on their side. Additionally, due to their lack of
-    internal organs and not needing core body muscles to function, many
-    otherwise well-placed blows and thrusts will go cleanly between their ribs
-    and other bones, leaving them mostly unscathed.</p>
-
-    <p>If encountered as a servant to a necromancer, a skeleton will fiercely
-    fight to protect its master, as it is bound by the black magics holding it
-    together to do so as its imperative task. Skeletons under direct control of
-    a necromancer are able to fight intelligently, acting as an extension of the
-    necromancer himself.</p>
-
-    <p>If found without a master, a skeleton will usually attack anything on
-    sight for no apparent reason. In this case, skeletons are little more than
-    wild animals. They may fight to the death or simply take a few swings and
-    run when things get dangerous.</p>
-
+    <p>Skeletons are the reanimated bones that many necromancers and other dark magics can create and command. Usually found in or around ancient ruins or guarding a necromancer&rsquo;s lair, they can be potent foes against the average adventurer and pose a serious threat to untrained combatants. More experienced adventurers should have no problem disposing of them, but they tend to have numbers on their side. Additionally, due to their lack of internal organs and not needing core body muscles to function, many otherwise well-placed blows and thrusts will go cleanly between their ribs and other bones, leaving them mostly unscathed.</p>
+    <p>If encountered as a servant to a necromancer, a skeleton will fiercely fight to protect its master, as it is bound by the black magics holding it together to do so as its imperative task. Skeletons under direct control of a necromancer are able to fight intelligently, acting as an extension of the necromancer himself.</p>
+    <p>If found without a master, a skeleton will usually attack anything on sight for no apparent reason. In this case, skeletons are little more than wild animals. They may fight to the death or simply take a few swings and run when things get dangerous.</p>
     <h2>Skeleton Loot</h2>
-
     <ul>
-
-    <li>Over a Short Rest, a character can test Alchemy +10 to grind up DoS
-    doses of bonemeal, which are Common Alteration ingredients.</li>
-
+    <li>Over a Short Rest, a character can test Alchemy +10 to grind up DoS doses of bonemeal, which are Common Alteration ingredients.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '75'
@@ -1968,6 +1894,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1998,7 +1925,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '24.1'
+  current_enc: 24.1
   carry_rating:
     current: 0
     max: 22
@@ -2011,41 +1938,49 @@ system:
       total: 40
       base: 40
       favored: false
+      bonus: 0
     end:
       value: 35
       total: 35
       base: 35
       favored: false
+      bonus: 0
     agi:
       value: 30
       total: 30
       base: 30
       favored: false
+      bonus: 0
     int:
       value: 10
       total: 10
       base: 10
       favored: false
+      bonus: 0
     wp:
       value: 10
       total: 10
       base: 10
       favored: false
+      bonus: 0
     prc:
       value: 25
       total: 25
       base: 25
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 50
     magic: 0
@@ -2095,17 +2030,19 @@ system:
     bonus: 20
   xp: 0
   wound_threshold:
-    value: '11'
+    value: 11
     base: 11
     bonus: 3
   initiative:
-    value: '6'
+    value: 6
     base: 6
     bonus: 0
   speed:
-    value: '7'
+    value: 7
     base: 6
     bonus: -3
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -2178,7 +2115,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -2324,6 +2262,85 @@ system:
       ar: 3
       magic_ar: '0'
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2418,4 +2435,3 @@ prototypeToken:
 _id: w2CXKtaNfl0VXjEV
 sort: 500000
 _key: '!actors!w2CXKtaNfl0VXjEV'
-

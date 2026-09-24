@@ -63,12 +63,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 2 SP</p>
-
-        <p><span style="color: #191813;">Can perform a melee attack at 1m that
-        deals 2d8 Crushing damage. All targets of Medium or smaller within Reach
-        must test Acrobatics or Athletics or be knocked prone.</span></p>
+        <p><span style="color: #191813;">Can perform a melee attack at 1m that deals 2d8 Crushing damage. All targets of Medium or smaller within Reach must test Acrobatics or Athletics or be knocked prone.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -153,10 +150,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character with this trait is naturally tough, and reduces
-        incoming damage by X. This functions like AR, and reduces all damage
-        types, but it does not count as armor.</p>
+      description: <p>The character with this trait is naturally tough, and reduces incoming damage by X. This functions like AR, and reduces all damage types, but it does not count as armor.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -234,11 +228,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>The character has no need to make Survival skill tests in their
-        natural habitat, but must test Willpower to avoid fleeing combat if the
-        GM feels that it&rsquo;s ap-propriate (for example, if the creature
-        would feel intimidated by its foe).</p>
+      description: <p>The character has no need to make Survival skill tests in their natural habitat, but must test Willpower to avoid fleeing combat if the GM feels that it&rsquo;s ap-propriate (for example, if the creature would feel intimidated by its foe).</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -316,11 +306,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>A character with this trait automatically starts a grapple when it
-        strikes with it&rsquo;s jaws/mouth. If the target successfully Counter
-        Attacks a Bite, the Counter Attack ignores this character's AR and
-        Natural Toughness.</p>
+      description: <p>A character with this trait automatically starts a grapple when it strikes with it&rsquo;s jaws/mouth. If the target successfully Counter Attacks a Bite, the Counter Attack ignores this character's AR and Natural Toughness.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -398,10 +384,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are diseased, and if they deal a wound to
-        another character with their natural weapons then that character must
-        test Endurance +/- X or contract a common disease.</p>
+      description: <p>Characters with this trait are diseased, and if they deal a wound to another character with their natural weapons then that character must test Endurance +/- X or contract a common disease.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -479,9 +462,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>This character moves at 3x their Speed when using the Dash
-        action.</p>
+      description: <p>This character moves at 3x their Speed when using the Dash action.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -564,16 +545,9 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
+      description: |-
         <ul>
-
-        <li>On a <strong>+20 Survival</strong> test, a character can, over the
-        course of a Long Rest, turn a bear pelt into two pieces of Full Bear Fur
-        armour, or one Full Bear Fur chest piece. Snow Bear Fur armour is the
-        same as regular Fur but gives 3 additional Frost Resistance and +1 AR on
-        the equipped location. Failing this test spoils the pelt instead,
-        rendering it useless and halving its worth.</li>
-
+        <li>On a <strong>+20 Survival</strong> test, a character can, over the course of a Long Rest, turn a bear pelt into two pieces of Full Bear Fur armour, or one Full Bear Fur chest piece. Snow Bear Fur armour is the same as regular Fur but gives 3 additional Frost Resistance and +1 AR on the equipped location. Failing this test spoils the pelt instead, rendering it useless and halving its worth.</li>
         </ul>
       quantity: 1
       enc: 2
@@ -905,11 +879,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -987,9 +957,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with trait roll damage twice and choose the higher
-        value.</p>
+      description: <p>Characters with trait roll damage twice and choose the higher value.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -1275,9 +1243,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 0
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting} or
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting} or @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}'
       charge:
         value: 0
         max: 0
@@ -1295,7 +1261,7 @@ flags: {}
 _stats:
   coreVersion: '12.331'
   systemId: null
-  systemVersion: null
+  systemVersion: 1.0.0-RC.83
   createdTime: null
   modifiedTime: 1732336024426
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1342,55 +1308,24 @@ system:
       value: 0
   race: Bear, Beast
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Bears</h2>
-
-    <p>Bears are often found in their dens or roaming in search of food. During
-    winter, bears will be found almost exclusively in their dens with the
-    exception of Snow Bears which will continue to roam and hunt during the cold
-    season, but will be far less active. Bears are sometimes accompanied by
-    their cubs, which they will defend with their lives.</p>
-
-    <p>Bears will become very territorial and aggressive unless the target is
-    obviously superior or causes Fear. If the bear wins the fight, they will
-    typically leave their opponent alone, bleeding and battered after they are
-    convinced the threat is subdued, and don&rsquo;t tend to eat humans unless
-    desperate.</p>
-
-    <p>Bears will relentlessly pursue their prey, and can run on all fours
-    nearly as fast as a horse.</p>
-
+    <p>Bears are often found in their dens or roaming in search of food. During winter, bears will be found almost exclusively in their dens with the exception of Snow Bears which will continue to roam and hunt during the cold season, but will be far less active. Bears are sometimes accompanied by their cubs, which they will defend with their lives.</p>
+    <p>Bears will become very territorial and aggressive unless the target is obviously superior or causes Fear. If the bear wins the fight, they will typically leave their opponent alone, bleeding and battered after they are convinced the threat is subdued, and don&rsquo;t tend to eat humans unless desperate.</p>
+    <p>Bears will relentlessly pursue their prey, and can run on all fours nearly as fast as a horse.</p>
     <h2>Bear Loot&nbsp;</h2>
-
     <ul>
-
-    <li>On a +30 Survival test, a character can remove the bear&rsquo;s pelt,
-    worth 100 drakes, over the course of a Short Rest. Snow Bear pelts are worth
-    200 drakes. Both are ENC 2. Failing this test spoils the pelt, halving its
-    worth.&nbsp;</li>
-
-    <li>On a +20 Survival test, a character can, over the course of a Long Rest,
-    turn a bear pelt into two pieces of Full Bear Fur armour, or one Full Bear
-    Fur chest piece. Bear Fur armour is exactly the same as regular Fur but has
-    +1 AR. Snow Bear Fur armour is the same as Bear Fur but gives 3 additional
-    Frost Resistance on the equipped location. Failing this test spoils the pelt
-    instead, rendering it useless and halving its worth.</li>
-
-    <li>On a +20 Simple Survival test over a Long Rest, a character can harvest
-    DoS*3 days' rations of bear meat. The meat will spoil within a day if not
-    properly preserved.&nbsp;</li>
-
-    <li>On a +0 Alchemy test over a Short Rest, a character can harvest and
-    powder the bear&rsquo;s claws, which are are a Rare Alteration ingredient.
-    The character harvests DoS dosages.</li>
-
+    <li>On a +30 Survival test, a character can remove the bear&rsquo;s pelt, worth 100 drakes, over the course of a Short Rest. Snow Bear pelts are worth 200 drakes. Both are ENC 2. Failing this test spoils the pelt, halving its worth.&nbsp;</li>
+    <li>On a +20 Survival test, a character can, over the course of a Long Rest, turn a bear pelt into two pieces of Full Bear Fur armour, or one Full Bear Fur chest piece. Bear Fur armour is exactly the same as regular Fur but has +1 AR. Snow Bear Fur armour is the same as Bear Fur but gives 3 additional Frost Resistance on the equipped location. Failing this test spoils the pelt instead, rendering it useless and halving its worth.</li>
+    <li>On a +20 Simple Survival test over a Long Rest, a character can harvest DoS*3 days' rations of bear meat. The meat will spoil within a day if not properly preserved.&nbsp;</li>
+    <li>On a +0 Alchemy test over a Short Rest, a character can harvest and powder the bear&rsquo;s claws, which are are a Rare Alteration ingredient. The character harvests DoS dosages.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '100'
@@ -1416,6 +1351,7 @@ system:
     natToughness: 3
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1446,7 +1382,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '2.0'
+  current_enc: 2
   carry_rating:
     current: 0
     max: 30
@@ -1456,52 +1392,60 @@ system:
   characteristics:
     str:
       value: 50
-      total: null
+      total: 50
       base: 50
       favored: false
+      bonus: 0
     end:
       value: 50
-      total: null
+      total: 50
       base: 50
       favored: false
+      bonus: 0
     agi:
       value: 30
-      total: null
+      total: 30
       base: 35
       favored: false
+      bonus: 0
     int:
       value: 15
-      total: null
+      total: 15
       base: 15
       favored: false
+      bonus: 0
     wp:
       value: 35
-      total: null
+      total: 35
       base: 35
       favored: false
+      bonus: 0
     prc:
       value: 30
-      total: null
+      total: 30
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 5
-      total: null
+      total: 5
       base: 5
       favored: false
+      bonus: 0
     lck:
-      value: null
-      total: null
+      value: 0
+      total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 70
-    magic: null
+    magic: 0
     evade: 30
     observe: 50
     stealth: 40
-    knowledge: null
-    social: null
+    knowledge: 0
+    social: 0
     physical: 70
     commerce: 0
     profession1: 0
@@ -1543,17 +1487,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '16'
+    value: 16
     base: 16
     bonus: 3
   initiative:
-    value: '7'
+    value: 7
     base: 7
     bonus: 0
   speed:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: large
   size_cat:
     puny: Puny
@@ -1602,21 +1548,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -1626,7 +1572,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1772,6 +1719,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1864,4 +1890,3 @@ prototypeToken:
       scale: 1
       texture: null
 _key: '!actors!iKLRemW5NQkM4KOI'
-

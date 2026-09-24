@@ -71,10 +71,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">Can oppose Deceive with Investigate,
-        and always </span><span style="color: #191813;">scores a minimum of 4
-        DoS on any successful Social skill test.</span></p>
+      description: '<p><span style="color: #191813;">Can oppose Deceive with Investigate, and always </span><span style="color: #191813;">scores a minimum of 4 DoS on any successful Social skill test.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -156,9 +153,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character does not track magicka,
-        and can instead cast each spell it knows once.</span></p>
+      description: '<p><span style="color: #191813;">This character does not track magicka, and can instead cast each spell it knows once.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -247,12 +242,9 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">*Base damage is the wielder's Natural Weapon damage.</em></p>
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">*Base damage is the wielder's Natural Weapon damage.</em></p>
       quantity: 1
       enc: 1
       totalENC: 0
@@ -271,10 +263,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (1),
-        @Compendium[uesrpg-revision.journal.zlB1i3aexZMAh6yZ]{Hand to Hand},
-        @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing} (1), @Compendium[uesrpg-revision.journal.zlB1i3aexZMAh6yZ]{Hand to Hand}, @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}'
       charge:
         value: 0
         max: 0
@@ -361,9 +350,7 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
+      description: '<p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>'
       quantity: 1
       enc: 1
       totalENC: 0
@@ -382,10 +369,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 2
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness},
-        @Compendium[uesrpg-revision.journal.rOEKxH0jiC62uvFH]{Thrown} (5/10/15),
-        @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}
+      qualities: '@Compendium[uesrpg-revision.journal.5HnOtuIPqSo9GuWE]{Exploit Weakness}, @Compendium[uesrpg-revision.journal.rOEKxH0jiC62uvFH]{Thrown} (5/10/15), @Compendium[uesrpg-revision.journal.6uGjOBqZGeIY37ln]{Small}'
       charge:
         value: 0
         max: 0
@@ -420,96 +404,43 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Summons a Bound Daedric weapon or shield of casters choice. The
-        weapon is created with a [Spell Strength] damage modifier. The weapon
-        type must be determined when the spell is learned.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Summons a Bound Daedric weapon or shield of casters choice. The weapon is created with a [Spell Strength] damage modifier. The weapon type must be determined when the spell is learned.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 28.8754%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.1046%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.6839%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2481%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 8.93711%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.06888%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.72621%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 9.4269%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 28.8754%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.1046%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.6839%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2481%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 8.93711%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.06888%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.72621%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 9.4269%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 28.8754%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 28.8754%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.1046%; height: 17px; text-align: center;">-</td>
-
         <td style="width: 10.6839%; height: 17px; text-align: center;">11</td>
-
         <td style="width: 10.2481%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 8.93711%; height: 17px; text-align: center;">21</td>
-
         <td style="width: 9.06888%; height: 17px; text-align: center;">26</td>
-
         <td style="width: 9.72621%; height: 17px; text-align: center;">31</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">-</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 28.8754%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 28.8754%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.1046%; height: 17px; text-align: center;">-</td>
-
         <td style="width: 10.6839%; height: 17px; text-align: center;">1</td>
-
         <td style="width: 10.2481%; height: 17px; text-align: center;">2</td>
-
         <td style="width: 8.93711%; height: 17px; text-align: center;">3</td>
-
         <td style="width: 9.06888%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 9.72621%; height: 17px; text-align: center;">5</td>
-
         <td style="width: 9.4269%; height: 17px; text-align: center;">-</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
-        <p>This weapon appears in the caster&rsquo;s hand(s) for the duration of
-        the spell, or until the weapon leaves the caster&rsquo;s hands. The
-        caster gains a [Spell Strength] weapon (with ammo) with the Bound and
-        Summoned traits of the chosen type for 1 minute.&nbsp;If the weapon is
-        not in any of the caster&rsquo;s Combat Styles, they&nbsp;count it as
-        being Trained (+0).</p>
+        <p>This weapon appears in the caster&rsquo;s hand(s) for the duration of the spell, or until the weapon leaves the caster&rsquo;s hands. The caster gains a [Spell Strength] weapon (with ammo) with the Bound and Summoned traits of the chosen type for 1 minute.&nbsp;If the weapon is not in any of the caster&rsquo;s Combat Styles, they&nbsp;count it as being Trained (+0).</p>
       damage: '0'
       level: 2
       cost: 11
@@ -555,90 +486,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Target character within 50m becomes receptive to others, and the next
-        character to attempt a Persuade or Deceive test on them within 1 minute
-        receives a [Spell Strength] bonus.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Target character within 50m becomes receptive to others, and the next character to attempt a Persuade or Deceive test on them within 1 minute receives a [Spell Strength] bonus.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">6</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">8</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">12</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">14</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">18</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">+5</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">+10</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">+15</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">+20</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">+25</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">+30</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">+35</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -685,89 +568,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Caster gains the Chameleon ([Spell Strength]) condition for 1
-        minute.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Caster gains the Chameleon ([Spell Strength]) condition for 1 minute.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">22</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">-5</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">-10</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">-15</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">-20</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">-25</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">-30</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">-35</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -814,89 +650,42 @@ items:
       qwt9o1cuKYitvD9G: 3
       eeXhsDlbzUBZOXZT: 3
     system:
-      description: >-
-        <p>Caster gains the Muffled ([Spell Strength]) condition for 1
-        minute.</p>
-
-        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2"
-        cellpadding="1">
-
+      description: |-
+        <p>Caster gains the Muffled ([Spell Strength]) condition for 1 minute.</p>
+        <table style="width: 98.5447%; height: 51px;" border="2" cellspacing="2" cellpadding="1">
         <tbody>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Level</strong></td>
-
-        <td style="width: 11.5403%; height: 17px; text-align:
-        center;"><strong>1</strong></td>
-
-        <td style="width: 10.9017%; height: 17px; text-align:
-        center;"><strong>2</strong></td>
-
-        <td style="width: 10.2483%; height: 17px; text-align:
-        center;"><strong>3</strong></td>
-
-        <td style="width: 10.8979%; height: 17px; text-align:
-        center;"><strong>4</strong></td>
-
-        <td style="width: 9.94024%; height: 17px; text-align:
-        center;"><strong>5</strong></td>
-
-        <td style="width: 9.50831%; height: 17px; text-align:
-        center;"><strong>6</strong></td>
-
-        <td style="width: 10.0805%; height: 17px; text-align:
-        center;"><strong>7</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Level</strong></td>
+        <td style="width: 11.5403%; height: 17px; text-align: center;"><strong>1</strong></td>
+        <td style="width: 10.9017%; height: 17px; text-align: center;"><strong>2</strong></td>
+        <td style="width: 10.2483%; height: 17px; text-align: center;"><strong>3</strong></td>
+        <td style="width: 10.8979%; height: 17px; text-align: center;"><strong>4</strong></td>
+        <td style="width: 9.94024%; height: 17px; text-align: center;"><strong>5</strong></td>
+        <td style="width: 9.50831%; height: 17px; text-align: center;"><strong>6</strong></td>
+        <td style="width: 10.0805%; height: 17px; text-align: center;"><strong>7</strong></td>
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Cost</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Cost</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">4</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">7</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">10</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">13</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">16</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">19</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">22</td>
-
         </tr>
-
         <tr style="height: 17px;">
-
-        <td style="width: 24.9539%; height: 17px; text-align:
-        left;"><strong>Spell Strength</strong></td>
-
+        <td style="width: 24.9539%; height: 17px; text-align: left;"><strong>Spell Strength</strong></td>
         <td style="width: 11.5403%; height: 17px; text-align: center;">-5</td>
-
         <td style="width: 10.9017%; height: 17px; text-align: center;">-10</td>
-
         <td style="width: 10.2483%; height: 17px; text-align: center;">-15</td>
-
         <td style="width: 10.8979%; height: 17px; text-align: center;">-20</td>
-
         <td style="width: 9.94024%; height: 17px; text-align: center;">-25</td>
-
         <td style="width: 9.50831%; height: 17px; text-align: center;">-30</td>
-
         <td style="width: 10.0805%; height: 17px; text-align: center;">-35</td>
-
         </tr>
-
         </tbody>
-
         </table>
-
         <p>&nbsp;</p>
       damage: '0'
       level: 2
@@ -927,7 +716,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338912505
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -973,17 +762,14 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>Agents are operatives skilled in deception and avoidance, but trained
-    in self-defense and deadly force. Self-reliant and independent, agents
-    devote themselves to personal goals, or to patrons and causes.</em></p>
+  bio: <p><em>Agents are operatives skilled in deception and avoidance, but trained in self-defense and deadly force. Self-reliant and independent, agents devote themselves to personal goals, or to patrons and causes.</em></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -1008,6 +794,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1038,7 +825,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '2.0'
+  current_enc: 2
   carry_rating:
     current: 0
     max: 18
@@ -1048,44 +835,52 @@ system:
   characteristics:
     str:
       value: 35
-      total: null
+      total: 35
       base: 35
       favored: false
+      bonus: 0
     end:
       value: 35
-      total: null
+      total: 35
       base: 35
       favored: false
+      bonus: 0
     agi:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     int:
       value: 45
-      total: null
+      total: 45
       base: 45
       favored: false
+      bonus: 0
     wp:
       value: 40
-      total: null
+      total: 40
       base: 40
       favored: false
+      bonus: 0
     prc:
       value: 45
-      total: null
+      total: 45
       base: 45
       favored: false
+      bonus: 0
     prs:
       value: 45
-      total: null
+      total: 45
       base: 45
       favored: false
+      bonus: 0
     lck:
-      value: null
-      total: null
+      value: 0
+      total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 60
     magic: 55
@@ -1135,17 +930,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
   initiative:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
   speed:
-    value: '11'
+    value: 11
     base: 10
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1218,6 +1015,7 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
+      rank: ''
   talents: ''
   traits: ''
   powers: ''
@@ -1364,6 +1162,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1458,4 +1335,3 @@ prototypeToken:
 _id: ExVpGYjF8vMGbck8
 sort: 4800000
 _key: '!actors!ExVpGYjF8vMGbck8'
-

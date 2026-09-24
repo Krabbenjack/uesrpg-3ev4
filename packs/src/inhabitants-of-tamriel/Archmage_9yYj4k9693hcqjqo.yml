@@ -115,12 +115,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p><span style="color: #191813;">This character can overflow with
-        magicka. Roll damage twice and use the highest value on their next
-        spell's damage roll.</span></p>
+        <p><span style="color: #191813;">This character can overflow with magicka. Roll damage twice and use the highest value on their next spell's damage roll.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -196,13 +193,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>When activated this character may cast any spell of 1 SL higher than
-        normal, but suffers the -10 to cast and risk of backfire upon failure as
-        well as the usual costs of casting a spell higher than their skill
-        rank.</p>
+        <p>When activated this character may cast any spell of 1 SL higher than normal, but suffers the -10 to cast and risk of backfire upon failure as well as the usual costs of casting a spell higher than their skill rank.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -278,12 +271,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> See below</p>
-
-        <p><span style="color: #191813;">If this character has the Spellcaster
-        trait, they can use one of their spells to replace their Physical or
-        Social score with their Magic score for a single test.</span></p>
+        <p><span style="color: #191813;">If this character has the Spellcaster trait, they can use one of their spells to replace their Physical or Social score with their Magic score for a single test.</span></p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -368,9 +358,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p><span style="color: #191813;">This character does not track magicka,
-        and can instead cast each spell it knows once.</span></p>
+      description: '<p><span style="color: #191813;">This character does not track magicka, and can instead cast each spell it knows once.</span></p>'
       xpCost: 0
       level: 0
       talentReq: ''
@@ -458,11 +446,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><span style="box-sizing: border-box; user-select: text; color:
-        #191813;">May also have a Cast Magic enchantment of [Type] Bolt SL 3.
-        With 5 charges.</span></p>
-
+      description: |-
+        <p><span style="box-sizing: border-box; user-select: text; color: #191813;">May also have a Cast Magic enchantment of [Type] Bolt SL 3. With 5 charges.</span></p>
         <p>&nbsp;</p>
       quantity: 1
       enc: 2
@@ -482,10 +467,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.iNRvDXhCiPR8lHX9]{Concussive.},
-        @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile},
-        @Compendium[uesrpg-revision.journal.J1fYlZ5DQd3of7iS]{Arcane}
+      qualities: '@Compendium[uesrpg-revision.journal.iNRvDXhCiPR8lHX9]{Concussive.}, @Compendium[uesrpg-revision.journal.ooDJyrEPhbUeWoZl]{Versatile}, @Compendium[uesrpg-revision.journal.J1fYlZ5DQd3of7iS]{Arcane}'
       charge:
         value: 0
         max: 0
@@ -557,11 +539,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>When activated the mage may use his Knowledge skill in place of
-        Social to persuade others once per activation.</p>
+        <p>When activated the mage may use his Knowledge skill in place of Social to persuade others once per activation.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -585,7 +565,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732338918779
   modifiedTime: 1732339102041
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -631,21 +611,16 @@ system:
       value: 0
   race: Any Race
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
-    <p><em>Most mages claim to study magic for its intellectual rewards, but
-    they also often profit from its practical applications. Varying widely in
-    temperament and motivation, mages share but one thing in common - an avid
-    love of spellcasting.</em></p>
-
-    <p><strong>Pick one school of magic, and the Archmage knows all spells
-    within that school up to SL 5.</strong></p>
+  bio: |-
+    <p><em>Most mages claim to study magic for its intellectual rewards, but they also often profit from its practical applications. Varying widely in temperament and motivation, mages share but one thing in common - an avid love of spellcasting.</em></p>
+    <p><strong>Pick one school of magic, and the Archmage knows all spells within that school up to SL 5.</strong></p>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '1500'
   journal: ''
@@ -670,6 +645,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -700,7 +676,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '2.0'
+  current_enc: 2
   carry_rating:
     current: 0
     max: 18
@@ -713,41 +689,49 @@ system:
       total: 0
       base: 30
       favored: false
+      bonus: 0
     end:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     agi:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     int:
       value: 60
       total: 0
       base: 60
       favored: false
+      bonus: 0
     wp:
       value: 50
       total: 0
       base: 50
       favored: false
+      bonus: 0
     prc:
       value: 35
       total: 0
       base: 35
       favored: false
+      bonus: 0
     prs:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     lck:
-      value: null
+      value: 0
       total: 0
-      base: null
+      base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 30
     magic: 100
@@ -797,17 +781,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '11'
+    value: 11
     base: 11
     bonus: 0
   initiative:
-    value: '12'
+    value: 12
     base: 12
     bonus: 0
   speed:
-    value: '9'
+    value: 9
     base: 9
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -856,21 +842,21 @@ system:
   skills:
     profession1:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession2:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
       name: ''
     profession3:
       rank: ''
-      bonus: null
+      bonus: 0
       specialization: ''
       characteristic: ''
       tn: 0
@@ -880,26 +866,13 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: >-
+      rank: ''
+  talents: |-
     <ul>
-
-    <li><strong>Overcharge (1 SP):</strong> When activated this allows the mage
-    to roll damage twice and use the highest when calculating the next
-    spell&rsquo;s damage.&nbsp;</li>
-
-    <li><strong> Learned Scholar (1 SP):</strong> When activated the mage may
-    use his Knowledge skill in place of Social to persuade others once per
-    activation.</li>
-
-    <li><strong>Magical Exertion (1SP):</strong> When activated the mage may
-    cast any spell they have 1 SL higher than normal, but suffers the -10 to
-    cast and risk of backfire upon failure as well as the usual costs of casting
-    a spell higher than their skill rank.</li>
-
-    <li><strong>Magic over Might:</strong> Can spend one of their spells to
-    replace their Physical or Social score with their Magic score for a single
-    Skill test.</li>
-
+    <li><strong>Overcharge (1 SP):</strong> When activated this allows the mage to roll damage twice and use the highest when calculating the next spell&rsquo;s damage.&nbsp;</li>
+    <li><strong> Learned Scholar (1 SP):</strong> When activated the mage may use his Knowledge skill in place of Social to persuade others once per activation.</li>
+    <li><strong>Magical Exertion (1SP):</strong> When activated the mage may cast any spell they have 1 SL higher than normal, but suffers the -10 to cast and risk of backfire upon failure as well as the usual costs of casting a spell higher than their skill rank.</li>
+    <li><strong>Magic over Might:</strong> Can spend one of their spells to replace their Physical or Social score with their Magic score for a single Skill test.</li>
     </ul>
   traits: ''
   powers: ''
@@ -1046,6 +1019,85 @@ system:
       ar: ''
       magic_ar: ''
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -1140,4 +1192,3 @@ prototypeToken:
 _id: 9yYj4k9693hcqjqo
 sort: 5100000
 _key: '!actors!9yYj4k9693hcqjqo'
-

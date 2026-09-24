@@ -62,11 +62,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>This character can add their Strength Bonus to their melee weapon
-        attack damage.</p>
+        <p>This character can add their Strength Bonus to their melee weapon attack damage.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -142,11 +140,9 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
+      description: |-
         <p><strong>Cost:</strong> 1 SP</p>
-
-        <p>The character can reduce the Reload quality of ranged weapons they
-        wield by 1.</p>
+        <p>The character can reduce the Reload quality of ranged weapons they wield by 1.</p>
       dailyUse: false
       source: ''
       shiftForm: false
@@ -231,13 +227,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are mere walking corpses. They do not
-        breathe, or require organs or correct pressures to function. They are
-        immune to things such as disease, poison, passive wound effects, aging,
-        fatigue, and a number of conditions including but not limited to: dazed,
-        deafened, and organ damage. Use common sense when deciding what can and
-        cannot affect characters with this trait.</p>
+      description: '<p>Characters with this trait are mere walking corpses. They do not breathe, or require organs or correct pressures to function. They are immune to things such as disease, poison, passive wound effects, aging, fatigue, and a number of conditions including but not limited to: dazed, deafened, and organ damage. Use common sense when deciding what can and cannot affect characters with this trait.</p>'
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -315,11 +305,7 @@ items:
         prsChaBonus: 0
         lckChaBonus: 0
       skillArray: []
-      description: >-
-        <p>Characters with this trait are resistant to a certain damage type.
-        They reduce damage of * type by X after any other mitigation, and gain a
-        +10 bonus per X to tests made to resist non-damaging effects of this
-        type. This trait can stack.</p>
+      description: <p>Characters with this trait are resistant to a certain damage type. They reduce damage of * type by X after any other mitigation, and gain a +10 bonus per X to tests made to resist non-damaging effects of this type. This trait can stack.</p>
       halfSpeed: false
       addHalfSpeed: false
       halfFatiguePenalty: false
@@ -641,11 +627,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}'
       charge:
         value: 0
         max: 0
@@ -750,9 +732,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -857,11 +837,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy},
-        @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter},
-        @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}
+      qualities: '@Compendium[uesrpg-revision.journal.mnfUeIEQkOInlwPK]{Crushing}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}, @Compendium[uesrpg-revision.journal.Q21irFmSziioerAo]{Shield Splitter}, @Compendium[uesrpg-revision.journal.CJUeJP5xJPjyhuya]{Concussive}'
       charge:
         value: 0
         max: 0
@@ -1071,9 +1047,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.Q8ED7VzyqBKpfxEo]{Impaling},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.Q8ED7VzyqBKpfxEo]{Impaling}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -1178,9 +1152,7 @@ items:
       armor: 0
       magic_ar: 0
       enchant_level: 1
-      qualities: >-
-        @Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting},
-        @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}
+      qualities: '@Compendium[uesrpg-revision.journal.wra9K7hRoVnZarja]{Splitting}, @Compendium[uesrpg-revision.journal.21g3rtqdszsKc9jv]{Unwieldy}'
       charge:
         value: 0
         max: 0
@@ -1265,10 +1237,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Replace 'Ammunition' with Bolts or Arrows.</p>
       quantity: 12
       enc: 0.1
@@ -1362,10 +1332,8 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Enchantments, modifications, notes, etc...</em></p>
-
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Enchantments, modifications, notes, etc...</em></p>
         <p>Replace 'Ammunition' with Bolts or Arrows.</p>
       quantity: 12
       enc: 0.1
@@ -1460,12 +1428,9 @@ items:
         contained: false
         container_id: ''
         container_name: ''
-      description: >-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Can be either partial or full armor type.</em></p>
-
-        <p><em style="box-sizing: border-box; user-select: text; color:
-        #191813;">Full armor has 4 AR and 1 Frost MR.&nbsp;</em></p>
+      description: |-
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Can be either partial or full armor type.</em></p>
+        <p><em style="box-sizing: border-box; user-select: text; color: #191813;">Full armor has 4 AR and 1 Frost MR.&nbsp;</em></p>
       quantity: 1
       enc: 3
       totalENC: 0
@@ -1505,7 +1470,7 @@ _stats:
   duplicateSource: null
   coreVersion: '12.331'
   systemId: uesrpg-3ev4
-  systemVersion: v1.0.0-RC.59
+  systemVersion: 1.0.0-RC.83
   createdTime: 1732339369279
   modifiedTime: 1732339428995
   lastModifiedBy: 7bDMesNjX54nzN9S
@@ -1551,54 +1516,24 @@ system:
       value: 0
   race: Draugr, Undead
   birthsign: ''
-  age: null
+  age: ''
   height: ''
   weight: ''
   elite_adv: ''
   wounded: false
   woundPenalty: 0
   woundNotes: ''
-  bio: >-
+  bio: |-
     <h2>Encountering Draugr</h2>
-
-    <p>Draugr are the shrivelled, restless husks of ancient Nords, dating back
-    to the age when the Dragon Cult ruled over Skyrim. Brought to undeath by the
-    dark magicks of the Dragon Priests, Draugr guard the tombs of their lords
-    and masters for eternity.</p>
-
-    <p>Draugr can be found guarding ancient Nordic ruins, including haunted
-    barrows, sunken cities, and sprawling temples. Draugr are bound to the will
-    of their Lord, and by extension the Dragon Priests, and will follow their
-    leadership without question or complaint. They have been given everlasting
-    life of questionable quality by their masters, and continue to serve them in
-    their undeath.</p>
-
-    <p>Draugr typically patrol their burial grounds, or the areas immediately
-    around them, either alone or in small groups. They typically lack the drive
-    or motive to attack settlements, but under the command of a Draugr Lord they
-    may become a roaming, aggressive force that needs no food, rest, or
-    medicine.</p>
-
-    <p>When encountered in their burial grounds, Draugr will fight ferociously,
-    but will also not hesitate to retreat to better positions, or go to warn the
-    rest of the undead garrison.</p>
-
-    <p>Draugr are intelligent undead, and as such can plan and strategize,
-    though their greater faculties have mostly been drained away over the
-    centuries, leaving them primitive and easily fooled. However, in the
-    presence of a greater Draugr, even the lowest thralls of the Dragons become
-    something to be feared.</p>
-
+    <p>Draugr are the shrivelled, restless husks of ancient Nords, dating back to the age when the Dragon Cult ruled over Skyrim. Brought to undeath by the dark magicks of the Dragon Priests, Draugr guard the tombs of their lords and masters for eternity.</p>
+    <p>Draugr can be found guarding ancient Nordic ruins, including haunted barrows, sunken cities, and sprawling temples. Draugr are bound to the will of their Lord, and by extension the Dragon Priests, and will follow their leadership without question or complaint. They have been given everlasting life of questionable quality by their masters, and continue to serve them in their undeath.</p>
+    <p>Draugr typically patrol their burial grounds, or the areas immediately around them, either alone or in small groups. They typically lack the drive or motive to attack settlements, but under the command of a Draugr Lord they may become a roaming, aggressive force that needs no food, rest, or medicine.</p>
+    <p>When encountered in their burial grounds, Draugr will fight ferociously, but will also not hesitate to retreat to better positions, or go to warn the rest of the undead garrison.</p>
+    <p>Draugr are intelligent undead, and as such can plan and strategize, though their greater faculties have mostly been drained away over the centuries, leaving them primitive and easily fooled. However, in the presence of a greater Draugr, even the lowest thralls of the Dragons become something to be feared.</p>
     <h2>Draugr Loot</h2>
-
     <ul>
-
-    <li>A group of Draugr often carry treasures worth a number of rolls on the
-    Treasure Table determined by the GM.</li>
-
-    <li>A character can harvest a Draugr's tongue, which is a Common Destruction
-    ingredient.</li>
-
+    <li>A group of Draugr often carry treasures worth a number of rolls on the Treasure Table determined by the GM.</li>
+    <li>A character can harvest a Draugr's tongue, which is a Common Destruction ingredient.</li>
     </ul>
   paperDoll: systems/uesrpg-3ev4/images/paperDoll_Male_Outline_White.png
   soul_energy: '150'
@@ -1624,6 +1559,7 @@ system:
     natToughness: 0
     silverR: 0
     sunlightR: 0
+    physicalR: 0
   fatigue:
     level: 0
     penalty: 0
@@ -1654,7 +1590,7 @@ system:
     1d8: 1d8
     1d10: 1d10
   wealth: 0
-  current_enc: '32.1'
+  current_enc: 32.1
   carry_rating:
     current: 0
     max: 24
@@ -1667,41 +1603,49 @@ system:
       total: 0
       base: 45
       favored: false
+      bonus: 0
     end:
       value: 40
       total: 0
       base: 40
       favored: false
+      bonus: 0
     agi:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     int:
       value: 10
       total: 0
       base: 10
       favored: false
+      bonus: 0
     wp:
       value: 25
       total: 0
       base: 25
       favored: false
+      bonus: 0
     prc:
       value: 30
       total: 0
       base: 30
       favored: false
+      bonus: 0
     prs:
       value: 5
       total: 0
       base: 5
       favored: false
+      bonus: 0
     lck:
       value: 0
       total: 0
       base: 0
       favored: false
+      bonus: 0
   professions:
     combat: 65
     magic: 25
@@ -1751,17 +1695,19 @@ system:
     bonus: 0
   xp: 0
   wound_threshold:
-    value: '10'
+    value: 10
     base: 10
     bonus: 0
   initiative:
-    value: '7'
+    value: 7
     base: 7
     bonus: 0
   speed:
-    value: '10'
+    value: 10
     base: 9
     bonus: 0
+    swimSpeed: 0
+    flySpeed: 0
   size: standard
   size_cat:
     puny: Puny
@@ -1834,7 +1780,8 @@ system:
       specialization: ''
       characteristic: ''
       tn: 0
-  talents: null
+      rank: ''
+  talents: ''
   traits: ''
   powers: ''
   spells: ''
@@ -1980,6 +1927,85 @@ system:
       ar: 3
       magic_ar: 1 Frost
       class: ''
+  tempHP: 0
+  resistances:
+    disease: 0
+    poison: 0
+    paralysis: 0
+    bleed: 0
+    fear: 0
+    magic: 0
+  recovery:
+    naturalHealing:
+      multiplier: 1
+      flatBonus: 0
+    magickaRecovery:
+      multiplier: 1
+    staminaRecovery:
+      multiplier: 1
+  resources:
+    magicka:
+      maxBonus: 0
+    stamina:
+      maxBonus: 0
+    health:
+      maxBonus: 0
+  movement:
+    speedBonus: 0
+    fallDamage:
+      multiplier: 1
+    ignoreDifficultTerrain: false
+  senses:
+    lowLightVision: false
+    darkvision: false
+    nightSightBonus: 0
+  combat_tracking:
+    attacks_this_round: 0
+    attacks_this_turn: 0
+    last_reset_round: 0
+    last_reset_turn: 0
+  modifiers:
+    combat:
+      attackTN: 0
+      defenseTN:
+        total: 0
+        evade: 0
+        block: 0
+        parry: 0
+        counter: 0
+    tests:
+      all: 0
+    characteristics: {}
+    skills: {}
+    hp:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    magicka:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    stamina:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+    luck_points:
+      base: 0
+      bonus: 0
+      max: 0
+      value: 0
+  mobility:
+    armorWeightClass: none
+    agilityTestPenalty: 0
+    agilityPenaltyExemptSkills:
+      - combatstyle
+      - combat_style
+      - combat style
+    speedPenalty: 0
+    sources: []
 prototypeToken:
   flags:
     token-hud-wildcard:
@@ -2074,4 +2100,3 @@ prototypeToken:
 _id: PeGAzfOx3Vc1td9W
 sort: 1100000
 _key: '!actors!PeGAzfOx3Vc1td9W'
-
